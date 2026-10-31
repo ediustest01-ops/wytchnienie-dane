@@ -39,5 +39,6 @@ jobs:
             echo "Brak zmian"
           else
             git commit -m "Nowe dobre wieści"
+            git pull --rebase -X theirs origin main
             git push
           fi
