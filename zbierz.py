@@ -51,6 +51,9 @@ Dostajesz listę wiadomości (JSON). Dla KAŻDEJ zwróć obiekt z polami:
 Odrzucaj (dobra=false):
 - politykę, wojny i wszystko, co dzieje się w strefie konfliktu zbrojnego (nawet wzruszające czy z pozytywnym akcentem),
 - przestępstwa, katastrofy, wypadki, w których byli zabici lub ciężko ranni (nawet jeśli „uratowano kilka osób”),
+- próby samobójcze i osoby w kryzysie psychicznym (np. „mężczyzna na moście”, „w kryzysie emocjonalnym”) – NAWET jeśli zostały uratowane,
+- znęcanie się nad ludźmi lub zwierzętami (np. „skatowany pies”), nawet z dobrym zakończeniem,
+- pożary i katastrofy, w których głównym tematem są zniszczenia (np. „spłonęła stolarnia, uratowano dom obok”),
 - wiadomości, które mogą niepokoić lub budzić kontrowersje (zagrożenia, eksperymenty budzące obawy – np. wirusy tworzone przez AI, broń, inżynieria genetyczna ludzi – choroby bez pozytywnego zakończenia),
 - zbiorcze przeglądy i podsumowania tygodnia („co dobrego w tym tygodniu”, newslettery),
 - reklamy i artykuły sponsorowane, plotki o celebrytach, wyniki sportowe, porady zakupowe, poradniki, artykuły-opinie.
@@ -146,6 +149,32 @@ def ocen_paczke(klient, paczka):
         return []
 
 
+INSTRUKCJA_DUPLIKATY = """Dostajesz listę wiadomości (JSON: id, tytul). Znajdź te, które opisują TO SAMO wydarzenie co inna wiadomość z listy (np. ta sama akcja ratunkowa opisana przez różne portale).
+Zwróć WYŁĄCZNIE tablicę JSON z id wiadomości do usunięcia – z każdej grupy duplikatów zostaw jedną (tę o najniższym id), resztę wypisz. Jeśli nie ma duplikatów, zwróć [].
+Różne wydarzenia na podobny temat (np. dwie różne akcje ratunkowe) to NIE duplikaty."""
+
+
+def usun_duplikaty(klient, lista):
+    """Prosi Claude o wskazanie wiadomości o tym samym wydarzeniu; zostawia po jednej z grupy."""
+    if len(lista) < 2:
+        return lista
+    wejscie = [{"id": i, "tytul": w["tytul"]} for i, w in enumerate(lista)]
+    try:
+        odp = klient.messages.create(
+            model=MODEL,
+            max_tokens=2000,
+            system=INSTRUKCJA_DUPLIKATY,
+            messages=[{"role": "user", "content": json.dumps(wejscie, ensure_ascii=False)}],
+        )
+        tekst = "".join(b.text for b in odp.content if b.type == "text")
+        do_usuniecia = set(int(x) for x in json.loads(tekst[tekst.find("["):tekst.rfind("]") + 1]))
+    except Exception as e:
+        print(f"[BŁĄD] Szukanie duplikatów nie wyszło ({e}), zostawiam listę bez zmian")
+        return lista
+    print(f"Duplikatów usunięto: {len(do_usuniecia)}")
+    return [w for i, w in enumerate(lista) if i not in do_usuniecia]
+
+
 def main():
     zrodla = wczytaj_json(PLIK_ZRODLA, {})
     wynik = wczytaj_json(PLIK_WYNIK, {"wiesci": []})
@@ -192,6 +221,8 @@ def main():
     for d in dobre:
         wszystkie[d["url"]] = d
     lista = sorted(wszystkie.values(), key=lambda w: w["data"], reverse=True)[:MAKS_WIESCI]
+    if dobre:
+        lista = usun_duplikaty(klient, lista)
 
     zapisz_json(PLIK_WYNIK, {"aktualizacja": TERAZ.isoformat(), "wiesci": lista})
     zapisz_json(PLIK_OCENIONE, ocenione)
