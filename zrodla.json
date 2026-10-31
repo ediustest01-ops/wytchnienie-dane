@@ -1,21 +1,62 @@
 {
   "polska": [
-    {"nazwa": "Polsat News", "url": "https://www.polsatnews.pl/rss/polska.xml"},
-    {"nazwa": "Polsat News", "url": "https://www.polsatnews.pl/rss/swiat.xml"},
-    {"nazwa": "Polsat News", "url": "https://www.polsatnews.pl/rss/technologie.xml"},
-    {"nazwa": "Polsat News", "url": "https://www.polsatnews.pl/rss/czysta-polska.xml"},
-    {"nazwa": "Nauka w Polsce", "url": "https://naukawpolsce.pap.pl/all/rss.xml"},
-    {"nazwa": "TVN24", "url": "https://tvn24.pl/najnowsze.xml"},
-    {"nazwa": "RMF24", "url": "https://www.rmf24.pl/feed"},
-    {"nazwa": "Interia", "url": "https://wydarzenia.interia.pl/feed"},
-    {"nazwa": "Polskie Radio 24", "url": "https://polskieradio24.pl/rss"}
+    {
+      "nazwa": "Polsat News",
+      "url": "https://www.polsatnews.pl/rss/polska.xml"
+    },
+    {
+      "nazwa": "Polsat News",
+      "url": "https://www.polsatnews.pl/rss/swiat.xml"
+    },
+    {
+      "nazwa": "Polsat News",
+      "url": "https://www.polsatnews.pl/rss/technologie.xml"
+    },
+    {
+      "nazwa": "Polsat News",
+      "url": "https://www.polsatnews.pl/rss/czysta-polska.xml"
+    },
+    {
+      "nazwa": "Nauka w Polsce",
+      "url": "https://naukawpolsce.pap.pl/all/rss.xml"
+    },
+    {
+      "nazwa": "TVN24",
+      "url": "https://tvn24.pl/najnowsze.xml"
+    },
+    {
+      "nazwa": "RMF24",
+      "url": "https://www.rmf24.pl/feed"
+    },
+    {
+      "nazwa": "Interia",
+      "url": "https://wydarzenia.interia.pl/feed"
+    }
   ],
   "swiat": [
-    {"nazwa": "Good News Network", "url": "https://www.goodnewsnetwork.org/feed/"},
-    {"nazwa": "Positive News", "url": "https://www.positive.news/feed/"},
-    {"nazwa": "Reasons to be Cheerful", "url": "https://reasonstobecheerful.world/feed/"},
-    {"nazwa": "The Optimist Daily", "url": "https://www.optimistdaily.com/feed/"},
-    {"nazwa": "Good Good Good", "url": "https://www.goodgoodgood.co/articles/rss.xml"},
-    {"nazwa": "The Guardian", "url": "https://www.theguardian.com/world/series/the-upside/rss"}
+    {
+      "nazwa": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/feed/"
+    },
+    {
+      "nazwa": "Positive News",
+      "url": "https://www.positive.news/feed/"
+    },
+    {
+      "nazwa": "Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/feed/"
+    },
+    {
+      "nazwa": "The Optimist Daily",
+      "url": "https://www.optimistdaily.com/feed/"
+    },
+    {
+      "nazwa": "Good Good Good",
+      "url": "https://www.goodgoodgood.co/articles/rss.xml"
+    },
+    {
+      "nazwa": "The Guardian",
+      "url": "https://www.theguardian.com/world/series/the-upside/rss"
+    }
   ]
 }

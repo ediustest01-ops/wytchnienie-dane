@@ -50,7 +50,7 @@ Dostajesz listę wiadomości (JSON). Dla KAŻDEJ zwróć obiekt z polami:
 Odrzucaj (dobra=false):
 - politykę, wojny i wszystko, co dzieje się w strefie konfliktu zbrojnego (nawet wzruszające czy z pozytywnym akcentem),
 - przestępstwa, katastrofy, wypadki, w których byli zabici lub ciężko ranni (nawet jeśli „uratowano kilka osób”),
-- wiadomości, które mogą niepokoić lub budzić kontrowersje (zagrożenia, eksperymenty budzące obawy, choroby bez pozytywnego zakończenia),
+- wiadomości, które mogą niepokoić lub budzić kontrowersje (zagrożenia, eksperymenty budzące obawy – np. wirusy tworzone przez AI, broń, inżynieria genetyczna ludzi – choroby bez pozytywnego zakończenia),
 - zbiorcze przeglądy i podsumowania tygodnia („co dobrego w tym tygodniu”, newslettery),
 - reklamy i artykuły sponsorowane, plotki o celebrytach, wyniki sportowe, porady zakupowe, poradniki, artykuły-opinie.
 Czytelnik ma po przeczytaniu poczuć ulgę i radość. W razie wątpliwości – false.
