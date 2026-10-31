@@ -16,6 +16,7 @@ import hashlib
 import json
 import re
 import time
+import urllib.parse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -42,7 +43,7 @@ Dostajesz listę wiadomości (JSON). Dla KAŻDEJ zwróć obiekt z polami:
 - "id": to samo id co na wejściu
 - "dobra": true tylko jeśli to naprawdę dobra wiadomość z jednej z kategorii poniżej; w razie wątpliwości false
 - "kategoria": "rescue" (ktoś kogoś uratował, ratownicy, pomoc w nagłej sytuacji), "med" (sukces lekarzy, nowe leczenie, wyleczenie), "sci" (odkrycie naukowe, wynalazek), "nature" (przyroda, zwierzęta, ochrona środowiska), "sky" (atmosfera, klimat, pogoda, kosmos, czyste powietrze)
-- "kraj": dwuliterowy kod kraju, którego dotyczy wiadomość (PL, US, GB, KE...), albo "ŚW", jeśli dotyczy całego świata
+- "kraj": dwuliterowy kod kraju, którego dotyczy wiadomość (PL, US, GB, KE...), albo "ŚW", jeśli dotyczy całego świata. Daj "PL", jeśli wydarzyło się w Polsce ALBO bohaterami są Polacy lub polskie instytucje (np. polscy naukowcy, polski szpital, polska uczelnia).
 - "wstepne": true, jeśli to wczesny etap badań (badania na zwierzętach lub w laboratorium, wczesne fazy badań klinicznych, „może pomóc”) – wtedy aplikacja pokaże ostrzeżenie
 - "tytul": tytuł po polsku. Jeśli wiadomość jest po polsku – przepisz oryginalny tytuł bez zmian. Jeśli w innym języku – przetłumacz naturalnie, maks. 120 znaków.
 - "lead": 1–2 zdania po polsku, maks. 280 znaków, własnymi słowami (nie kopiuj opisu), co się wydarzyło
@@ -54,6 +55,8 @@ Odrzucaj (dobra=false):
 - zbiorcze przeglądy i podsumowania tygodnia („co dobrego w tym tygodniu”, newslettery),
 - reklamy i artykuły sponsorowane, plotki o celebrytach, wyniki sportowe, porady zakupowe, poradniki, artykuły-opinie.
 Czytelnik ma po przeczytaniu poczuć ulgę i radość. W razie wątpliwości – false.
+
+Przykłady, które SĄ dobre (dobra=true): strażacy/policjanci/sąsiedzi uratowali człowieka lub zwierzę i wszyscy przeżyli; lekarze przeprowadzili pierwszy taki zabieg i pacjent ma się dobrze; ktoś odnalazł się cały i zdrowy; polscy naukowcy coś odkryli lub opracowali; wróciły rzadkie zwierzęta, urodziły się młode w zoo lub rezerwacie; zbiórka/wolontariusze pomogli komuś; czyste powietrze, rekord energii z OZE.
 
 Odpowiedz WYŁĄCZNIE tablicą JSON, bez żadnego innego tekstu."""
 
@@ -88,11 +91,16 @@ def pobierz_kanaly(zrodla):
     nowe = []
     for region, lista in zrodla.items():
         for zr in lista:
-            kanal = feedparser.parse(zr["url"], agent="Wytchnienie/1.0 (+github.com/ediustest01-ops/wytchnienie-dane)")
+            url = zr.get("url")
+            if zr.get("zapytanie"):
+                # Wyszukiwanie w Google News (wszystkie polskie media naraz), tylko z ostatnich 2 dni
+                q = urllib.parse.quote(zr["zapytanie"] + " when:2d")
+                url = f"https://news.google.com/rss/search?q={q}&hl=pl&gl=PL&ceid=PL:pl"
+            kanal = feedparser.parse(url, agent="Wytchnienie/1.0 (+github.com/ediustest01-ops/wytchnienie-dane)")
             if kanal.bozo and not kanal.entries:
-                print(f"[POMINIĘTO] {zr['url']}: {kanal.bozo_exception}")
+                print(f"[POMINIĘTO] {url}: {kanal.bozo_exception}")
                 continue
-            print(f"[OK] {zr['url']}: {len(kanal.entries)} wpisów")
+            print(f"[OK] {zr.get('zapytanie') or url}: {len(kanal.entries)} wpisów")
             for w in kanal.entries:
                 link = w.get("link")
                 if not link:
@@ -100,12 +108,19 @@ def pobierz_kanaly(zrodla):
                 kiedy = data_wpisu(w)
                 if TERAZ - kiedy > timedelta(days=DNI_W_KANALE):
                     continue
+                tytul = oczysc(w.get("title"), 300)
+                zrodlo = zr.get("nazwa", "")
+                if zr.get("zapytanie"):
+                    # Google podaje prawdziwe źródło osobno, a w tytule dokleja " - Nazwa serwisu"
+                    zrodlo = (w.get("source") or {}).get("title") or "Google News"
+                    if " - " in tytul:
+                        tytul = tytul.rsplit(" - ", 1)[0]
                 nowe.append({
                     "url": link,
-                    "zrodlo": zr["nazwa"],
+                    "zrodlo": zrodlo,
                     "polskie": region == "polska",
                     "data": kiedy.isoformat(),
-                    "tytul_oryg": oczysc(w.get("title"), 300),
+                    "tytul_oryg": tytul,
                     "opis": oczysc(w.get("summary")),
                 })
     return nowe
