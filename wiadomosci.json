@@ -1,6 +1,18 @@
 {
- "aktualizacja": "2026-10-31T18:28:35.090820+00:00",
+ "aktualizacja": "2026-10-31T20:00:38.998259+00:00",
  "wiesci": [
+  {
+   "id": "487a4a237ffb",
+   "tytul": "Ależ akcja! Strażacy z Solca Kujawskiego uratowali psa, którego łapa utknęła w drzwiach",
+   "lead": "Strażacy z Solca Kujawskiego uwolnili psa, którego łapa została uwięziona w drzwiach. Zwierzę zostało bezpiecznie wyswobodzone.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Radio PIK",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkd3blkzX0tsV1BvQ0FLamRIb2JOQkoxMzg5UTQtUE9DV0RHWGYyVVNxRTVBV2xKb1hLRlRkYURUZUNUempZb01UNUFvc1FrNTF1S05HZlBpYVFxdERSTVJIUjNzOFNWY0t2RDFUX3NWMVB3VlBjRzJaNFdpdjlqdGdyQk85d1JQ?oc=5",
+   "data": "2026-10-31T19:50:34+00:00",
+   "przetlumaczone": false,
+   "wstepne": false
+  },
   {
    "id": "c534a3aec01f",
    "tytul": "Dziewczynka siedząca w błocie na przystanku dostała ławkę od pary – kamera uchwyciła jej radość (WATCH)",
@@ -610,18 +622,6 @@
    "zrodlo": "Good News Network",
    "url": "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/",
    "data": "2026-10-26T15:30:56+00:00",
-   "przetlumaczone": true,
-   "wstepne": false
-  },
-  {
-   "id": "915729b4f391",
-   "tytul": "Liczba zagrożonych delfinów rzecznych wzrosła o 6 po udanym sezonie rozrodczym",
-   "lead": "Po sezonie cielenia się na odcinku Mekongu w Kambodży przyszły na świat sześć młodych delfinów. Gatunek jest krytycznie zagrożony, a ludzie żyjący nad rzeką uważają go za święty.",
-   "kategoria": "nature",
-   "kraj": "KH",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/numbers-of-endangered-and-sacred-river-dolphin-grow-by-6-after-successful-breeding-season/",
-   "data": "2026-10-26T13:00:58+00:00",
    "przetlumaczone": true,
    "wstepne": false
   },
