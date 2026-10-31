@@ -1,0 +1,43 @@
+name: Zbieraj dobre wieści
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # co godzinę, 17 minut po pełnej (czas UTC)
+  workflow_dispatch:        # przycisk „Run workflow” do ręcznego uruchomienia
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zbieraj
+  cancel-in-progress: false
+
+jobs:
+  zbieraj:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj biblioteki
+        run: pip install anthropic feedparser
+
+      - name: Zbierz i oceń wieści
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python zbierz.py
+
+      - name: Zapisz zmiany
+        run: |
+          git config user.name "wytchnienie-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add wiadomosci.json stan/ocenione.json
+          if git diff --cached --quiet; then
+            echo "Brak zmian"
+          else
+            git commit -m "Nowe dobre wieści"
+            git push
+          fi
