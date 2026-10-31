@@ -4,7 +4,11 @@
     {"nazwa": "Polsat News", "url": "https://www.polsatnews.pl/rss/swiat.xml"},
     {"nazwa": "Polsat News", "url": "https://www.polsatnews.pl/rss/technologie.xml"},
     {"nazwa": "Polsat News", "url": "https://www.polsatnews.pl/rss/czysta-polska.xml"},
-    {"nazwa": "Nauka w Polsce", "url": "https://naukawpolsce.pap.pl/all/rss.xml"}
+    {"nazwa": "Nauka w Polsce", "url": "https://naukawpolsce.pap.pl/all/rss.xml"},
+    {"nazwa": "TVN24", "url": "https://tvn24.pl/najnowsze.xml"},
+    {"nazwa": "RMF24", "url": "https://www.rmf24.pl/feed"},
+    {"nazwa": "Interia", "url": "https://wydarzenia.interia.pl/feed"},
+    {"nazwa": "Polskie Radio 24", "url": "https://polskieradio24.pl/rss"}
   ],
   "swiat": [
     {"nazwa": "Good News Network", "url": "https://www.goodnewsnetwork.org/feed/"},

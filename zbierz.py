@@ -47,7 +47,13 @@ Dostajesz listę wiadomości (JSON). Dla KAŻDEJ zwróć obiekt z polami:
 - "tytul": tytuł po polsku. Jeśli wiadomość jest po polsku – przepisz oryginalny tytuł bez zmian. Jeśli w innym języku – przetłumacz naturalnie, maks. 120 znaków.
 - "lead": 1–2 zdania po polsku, maks. 280 znaków, własnymi słowami (nie kopiuj opisu), co się wydarzyło
 
-Odrzucaj (dobra=false): politykę, wojny, przestępstwa (nawet z pozytywnym akcentem), katastrofy, w których „uratowano kilka osób” ale były ofiary śmiertelne, reklamy i artykuły sponsorowane, plotki o celebrytach, wyniki sportowe, porady zakupowe, artykuły-opinie.
+Odrzucaj (dobra=false):
+- politykę, wojny i wszystko, co dzieje się w strefie konfliktu zbrojnego (nawet wzruszające czy z pozytywnym akcentem),
+- przestępstwa, katastrofy, wypadki, w których byli zabici lub ciężko ranni (nawet jeśli „uratowano kilka osób”),
+- wiadomości, które mogą niepokoić lub budzić kontrowersje (zagrożenia, eksperymenty budzące obawy, choroby bez pozytywnego zakończenia),
+- zbiorcze przeglądy i podsumowania tygodnia („co dobrego w tym tygodniu”, newslettery),
+- reklamy i artykuły sponsorowane, plotki o celebrytach, wyniki sportowe, porady zakupowe, poradniki, artykuły-opinie.
+Czytelnik ma po przeczytaniu poczuć ulgę i radość. W razie wątpliwości – false.
 
 Odpowiedz WYŁĄCZNIE tablicą JSON, bez żadnego innego tekstu."""
 
