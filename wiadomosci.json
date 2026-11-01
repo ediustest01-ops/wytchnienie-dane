@@ -1,6 +1,30 @@
 {
- "aktualizacja": "2026-11-01T17:04:10.687424+00:00",
+ "aktualizacja": "2026-11-01T18:58:15.750706+00:00",
  "wiesci": [
+  {
+   "id": "11375c039cd5",
+   "tytul": "Pięć godzin kwesty na cmentarzu dla hospicjum. Wiadomo już, ile zebrali wolontariusze",
+   "lead": "Wolontariusze przez pięć godzin zbierali datki na cmentarzu na rzecz hospicjum. Znana jest już kwota, jaką udało im się zebrać.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "OK! Kołobrzeg",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjVrSXNnYUtmVjg5MmlXM1dIQU15UDVFOFptc0hmbHlSM0hBc01LNVZhNHVtdjI5VEhnMDBLY3lsaUgycWN1R1oyLUl2eFFBeVlJMTI4Sy14eTE2N0pNM1BBT3U0TXc1STV2dXp5YVJRNjZnRE4tZWlRRm5QTmpsOUd5V2tOLXAtdzNBYUw0ajFxaWtnWW1qRlpuWTE0ZFRmVk5CeUZmcFhjQmM?oc=5",
+   "data": "2026-11-01T18:01:55+00:00",
+   "przetlumaczone": false,
+   "wstepne": false
+  },
+  {
+   "id": "18b75da799e3",
+   "tytul": "AED w aucie Sławka Zygnera to początek większej akcji na rzecz bezpieczeństwa (wideo)",
+   "lead": "Sławek Zygner umieścił defibrylator AED w swoim samochodzie, co ma być początkiem szerszej akcji na rzecz bezpieczeństwa. Relacja jest dostępna w formie wideo.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "leszno24.pl",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4dVUtUjNuMWhhdmdFeDhISjhYZ2dBRXVHWUFfTElJMnM4dlVCTEZfYnJOcXdzeFRLZmVVc1FPYzdibnBmbU1hYjJCVEQ3T0FxbFl2LWF2VWcwY0l3VG9HZEU3cDdGajU0cmx1V09RN0g?oc=5",
+   "data": "2026-11-01T17:56:14+00:00",
+   "przetlumaczone": false,
+   "wstepne": false
+  },
   {
    "id": "362fc338f042",
    "tytul": "„Gwiaździsta noc” van Gogha skrywała tajemnicę. Naukowcy rozwiązali zagadkę słynnego obrazu",
@@ -898,18 +922,6 @@
    "zrodlo": "Good News Network",
    "url": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
    "data": "2026-10-25T21:51:15+00:00",
-   "przetlumaczone": true,
-   "wstepne": false
-  },
-  {
-   "id": "6c895cda60cf",
-   "tytul": "53 orangutany uratowane z pożarów na Borneo, wiele z nich wróciło do lasów rezerwatów",
-   "lead": "Organizacja zajmująca się ratowaniem i ochroną naczelnych w Indonezji wydobyła z pożarów na Borneo 53 orangutany, a wiele z nich wypuszczono na wolność w rezerwatach leśnych.",
-   "kategoria": "nature",
-   "kraj": "ID",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
-   "data": "2026-10-25T18:06:02+00:00",
    "przetlumaczone": true,
    "wstepne": false
   }
