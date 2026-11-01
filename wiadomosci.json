@@ -1,6 +1,30 @@
 {
- "aktualizacja": "2026-10-31T23:26:25.468772+00:00",
+ "aktualizacja": "2026-11-01T06:15:07.880682+00:00",
  "wiesci": [
+  {
+   "id": "346014232892",
+   "tytul": "Kapitan-bohater, który uratował 231 osób! Lądował bez podwozia",
+   "lead": "Pilot poradził sobie z lądowaniem bez podwozia i bezpiecznie sprowadził na ziemię 231 osób na pokładzie.",
+   "kategoria": "rescue",
+   "kraj": "ŚW",
+   "zrodlo": "Super Express",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEFHWm5iMFVOQ214SXVBSngxbWU5SEh0WG1ldnBpUndWaklZaThRajdhUHlCeklJUUpwVG40U0hYOUROQkE2cG1UZmVtbUxpSzdWWXVUUXBTVElkS1NxLUpzN190cmpLUE9ubEVZQ1BOdDZ6Z1FtSmZJZ09YakJ0R0JyRTk3MFI0cDI4aEVWTlRPMk8zSi1DV01QdmljV0NzdVJRUl9KU09rWjFRYmlWMW1uVVA?oc=5",
+   "data": "2026-11-01T04:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false
+  },
+  {
+   "id": "f6d2f23760ba",
+   "tytul": "Myszołowiec towarzyski spędził prawie 100 dni w klubie golfowym",
+   "lead": "Myszołowiec towarzyski uciekł z ośrodka dla ptaków w Salt Lake City i przez prawie 100 dni przebywał na terenie klubu golfowego. Opiekunowie w końcu go odnaleźli.",
+   "kategoria": "nature",
+   "kraj": "US",
+   "zrodlo": "TVN24",
+   "url": "https://tvn24.pl/tvnmeteo/ciekawostki/usa-myszolowiec-towarzyski-spedzil-prawie-100-dni-w-klubie-golfowym-st9316311?source=rss",
+   "data": "2026-10-31T20:10:07+00:00",
+   "przetlumaczone": false,
+   "wstepne": false
+  },
   {
    "id": "487a4a237ffb",
    "tytul": "Ależ akcja! Strażacy z Solca Kujawskiego uratowali psa, którego łapa utknęła w drzwiach",
@@ -12,6 +36,18 @@
    "data": "2026-10-31T19:50:34+00:00",
    "przetlumaczone": false,
    "wstepne": false
+  },
+  {
+   "id": "c70166e82d79",
+   "tytul": "Te bakterie są jak zombie. Dla nich śmierć nie oznacza końca",
+   "lead": "Duńscy naukowcy odkryli, że niektóre bakterie po obumarciu mogą wytwarzać nowy materiał genetyczny, a proces ten da się kontrolować. Badania są na wczesnym etapie.",
+   "kategoria": "sci",
+   "kraj": "DK",
+   "zrodlo": "TVN24",
+   "url": "https://tvn24.pl/tvnmeteo/nauka/te-bakterie-sa-jak-zombie-dla-nich-smierc-nie-oznacza-konca-st9316043?source=rss",
+   "data": "2026-10-31T19:23:49+00:00",
+   "przetlumaczone": false,
+   "wstepne": true
   },
   {
    "id": "c534a3aec01f",
@@ -132,6 +168,30 @@
    "data": "2026-10-31T00:00:00+00:00",
    "przetlumaczone": false,
    "wstepne": false
+  },
+  {
+   "id": "68e33ad08a3c",
+   "tytul": "AI może pomóc znaleźć zagrożonych nowotworami",
+   "lead": "Naukowcy sprawdzają, czy sztuczna inteligencja pozwoli wcześniej wykryć osoby zagrożone nowotworami. Wyniki są na wczesnym etapie badań.",
+   "kategoria": "med",
+   "kraj": "ŚW",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://scienceinpoland.pap.pl/aktualnosci/news%2C115654%2Cai-moze-pomoc-znalezc-zagrozonych-nowotworami.html",
+   "data": "2026-10-31T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": true
+  },
+  {
+   "id": "675aa06f8784",
+   "tytul": "Operacja bariatryczna może unormować zaburzenia odporności związane z otyłością",
+   "lead": "Badania sugerują, że operacja bariatryczna może przywrócić prawidłowe działanie układu odpornościowego u osób z otyłością. Wyniki wymagają dalszego potwierdzenia.",
+   "kategoria": "med",
+   "kraj": "ŚW",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://scienceinpoland.pap.pl/aktualnosci/news%2C115629%2Coperacja-bariatryczna-moze-unormowac-zaburzenia-odpornosci-zwiazane-z",
+   "data": "2026-10-31T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": true
   },
   {
    "id": "ce3195caa2b9",
