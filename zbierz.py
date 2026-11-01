@@ -33,7 +33,7 @@ PACZKA = 20                 # ile wieści oceniać w jednym zapytaniu
 DNI_W_KANALE = 7            # jak długo wieść zostaje w apce
 MAKS_WIESCI = 150           # ile maksymalnie wieści w pliku
 DNI_PAMIECI_OCEN = 21       # jak długo pamiętamy, co już ocenione
-KATEGORIE = {"rescue", "med", "sci", "nature", "sky"}
+KATEGORIE = {"rescue", "med", "sci", "nature", "sky", "people"}
 
 TERAZ = datetime.now(timezone.utc)
 
@@ -42,7 +42,7 @@ INSTRUKCJA = """Jesteś redaktorem polskiej aplikacji „Wytchnienie”, która 
 Dostajesz listę wiadomości (JSON). Dla KAŻDEJ zwróć obiekt z polami:
 - "id": to samo id co na wejściu
 - "dobra": true tylko jeśli to naprawdę dobra wiadomość z jednej z kategorii poniżej; w razie wątpliwości false
-- "kategoria": "rescue" (ktoś kogoś uratował, ratownicy, pomoc w nagłej sytuacji), "med" (sukces lekarzy, nowe leczenie, wyleczenie), "sci" (odkrycie naukowe, wynalazek), "nature" (przyroda, zwierzęta, ochrona środowiska), "sky" (atmosfera, klimat, pogoda, kosmos, czyste powietrze)
+- "kategoria": "rescue" (ktoś kogoś uratował, ratownicy, pomoc w nagłej sytuacji), "med" (sukces lekarzy, nowe leczenie, wyleczenie), "sci" (odkrycie naukowe, wynalazek), "nature" (przyroda, zwierzęta, ochrona środowiska), "sky" (atmosfera, klimat, pogoda, kosmos, czyste powietrze), "people" (dobrzy ludzie: życzliwość, bezinteresowna pomoc, wolontariat, udane zbiórki, sąsiedzka pomoc, sukcesy lokalnych społeczności, ludzie, którzy robią coś dobrego dla innych)
 - "kraj": dwuliterowy kod kraju, którego dotyczy wiadomość (PL, US, GB, KE...), albo "ŚW", jeśli dotyczy całego świata. Daj "PL", jeśli wydarzyło się w Polsce ALBO bohaterami są Polacy lub polskie instytucje (np. polscy naukowcy, polski szpital, polska uczelnia).
 - "wstepne": true, jeśli to wczesny etap badań (badania na zwierzętach lub w laboratorium, wczesne fazy badań klinicznych, „może pomóc”) – wtedy aplikacja pokaże ostrzeżenie
 - "tytul": tytuł po polsku. Jeśli wiadomość jest po polsku – przepisz oryginalny tytuł bez zmian. Jeśli w innym języku – przetłumacz naturalnie, maks. 120 znaków.
@@ -59,7 +59,7 @@ Odrzucaj (dobra=false):
 - reklamy i artykuły sponsorowane, plotki o celebrytach, wyniki sportowe, porady zakupowe, poradniki, artykuły-opinie.
 Czytelnik ma po przeczytaniu poczuć ulgę i radość. W razie wątpliwości – false.
 
-Przykłady, które SĄ dobre (dobra=true): strażacy/policjanci/sąsiedzi uratowali człowieka lub zwierzę i wszyscy przeżyli; lekarze przeprowadzili pierwszy taki zabieg i pacjent ma się dobrze; ktoś odnalazł się cały i zdrowy; polscy naukowcy coś odkryli lub opracowali; wróciły rzadkie zwierzęta, urodziły się młode w zoo lub rezerwacie; zbiórka/wolontariusze pomogli komuś; czyste powietrze, rekord energii z OZE.
+Przykłady, które SĄ dobre (dobra=true): strażacy/policjanci/sąsiedzi uratowali człowieka lub zwierzę i wszyscy przeżyli; lekarze przeprowadzili pierwszy taki zabieg i pacjent ma się dobrze; ktoś odnalazł się cały i zdrowy; polscy naukowcy coś odkryli lub opracowali; wróciły rzadkie zwierzęta, urodziły się młode w zoo lub rezerwacie; zbiórka/wolontariusze/sąsiedzi pomogli komuś (kategoria "people"); czyste powietrze, rekord energii z OZE.
 
 Odpowiedz WYŁĄCZNIE tablicą JSON, bez żadnego innego tekstu."""
 
