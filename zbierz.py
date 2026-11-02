@@ -56,7 +56,8 @@ Odrzucaj (dobra=false):
 - pożary i katastrofy, w których głównym tematem są zniszczenia (np. „spłonęła stolarnia, uratowano dom obok”),
 - wiadomości, które mogą niepokoić lub budzić kontrowersje (zagrożenia, eksperymenty budzące obawy – np. wirusy tworzone przez AI, broń, inżynieria genetyczna ludzi – choroby bez pozytywnego zakończenia),
 - zbiorcze przeglądy i podsumowania tygodnia („co dobrego w tym tygodniu”, newslettery),
-- reklamy i artykuły sponsorowane, plotki o celebrytach, wyniki sportowe, porady zakupowe, poradniki, artykuły-opinie.
+- reklamy i artykuły sponsorowane, plotki o celebrytach, wyniki sportowe, porady zakupowe, poradniki, artykuły-opinie,
+- rankingi, zestawienia, ciekawostki, turystykę i lifestyle (np. „najlepsze polskie wsie [RANKING]”) – to nie są wydarzenia, tylko treści poradnikowe.
 Czytelnik ma po przeczytaniu poczuć ulgę i radość. W razie wątpliwości – false.
 
 Przykłady, które SĄ dobre (dobra=true): strażacy/policjanci/sąsiedzi uratowali człowieka lub zwierzę i wszyscy przeżyli; lekarze przeprowadzili pierwszy taki zabieg i pacjent ma się dobrze; ktoś odnalazł się cały i zdrowy; polscy naukowcy coś odkryli lub opracowali; wróciły rzadkie zwierzęta, urodziły się młode w zoo lub rezerwacie; zbiórka/wolontariusze/sąsiedzi pomogli komuś (kategoria "people"); czyste powietrze, rekord energii z OZE.
