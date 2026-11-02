@@ -1,6 +1,18 @@
 {
- "aktualizacja": "2026-11-01T22:52:21.304653+00:00",
+ "aktualizacja": "2026-11-02T02:34:19.227174+00:00",
  "wiesci": [
+  {
+   "id": "8126818f3ffa",
+   "tytul": "Organizacja non-profit przeznaczyła 16,5 mln dolarów na pomoc najemcom zagrożonym eksmisją",
+   "lead": "Non-profit z Atlanty, który w czasie pandemii uruchomił fundusz pomocy w eksmisjach, wsparł już ponad 5500 rodzin, dzięki czemu mogły zostać w swoich mieszkaniach. Lokalna właścicielka mieszkań pomaga w tym, zbierając fundusze dla tej organizacji.",
+   "kategoria": "people",
+   "kraj": "US",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/",
+   "data": "2026-11-01T22:53:28+00:00",
+   "przetlumaczone": true,
+   "wstepne": false
+  },
   {
    "id": "11375c039cd5",
    "tytul": "Pięć godzin kwesty na cmentarzu dla hospicjum. Wiadomo już, ile zebrali wolontariusze",
@@ -898,18 +910,6 @@
    "zrodlo": "Good News Network",
    "url": "https://www.goodnewsnetwork.org/man-named-service-cleans-up-nyc-dumping-site-on-his-own-initiative/",
    "data": "2026-10-26T11:30:53+00:00",
-   "przetlumaczone": true,
-   "wstepne": false
-  },
-  {
-   "id": "92e80a995356",
-   "tytul": "Banki żywności w Nowym Jorku zaczęły wydawać karmę dla zwierząt potrzebującym rodzinom",
-   "lead": "Jadłodajnie w Nowym Jorku dostarczają karmę dla psów i kotów, aby ludzie w trudnej sytuacji nie musieli oddawać swoich pupili. Program pomaga utrzymać zwierzęta w domach.",
-   "kategoria": "rescue",
-   "kraj": "US",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/10/nyc-food-pantries-are-now-stocking-pet-food-for-struggling-households/",
-   "data": "2026-10-26T00:00:28+00:00",
    "przetlumaczone": true,
    "wstepne": false
   }
