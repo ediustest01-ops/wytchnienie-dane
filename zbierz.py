@@ -57,6 +57,7 @@ Odrzucaj (dobra=false):
 - wiadomości, które mogą niepokoić lub budzić kontrowersje (zagrożenia, eksperymenty budzące obawy – np. wirusy tworzone przez AI, broń, inżynieria genetyczna ludzi – choroby bez pozytywnego zakończenia),
 - zbiorcze przeglądy i podsumowania tygodnia („co dobrego w tym tygodniu”, newslettery),
 - reklamy i artykuły sponsorowane, plotki o celebrytach, wyniki sportowe, porady zakupowe, poradniki, artykuły-opinie,
+- w kategorii "sci": odkrycia, które brzmią niepokojąco lub dziwnie (toksyny, „bakterie zombie”, choroby, zagrożenia, nawet jeśli to ciekawa nauka) – wybieraj tylko odkrycia budujące, które dają nadzieję lub zachwyt,
 - rankingi, zestawienia, ciekawostki, turystykę i lifestyle (np. „najlepsze polskie wsie [RANKING]”) – to nie są wydarzenia, tylko treści poradnikowe.
 Czytelnik ma po przeczytaniu poczuć ulgę i radość. W razie wątpliwości – false.
 
