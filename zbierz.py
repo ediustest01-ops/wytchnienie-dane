@@ -207,7 +207,7 @@ def pobierz_tekst_artykulu(url):
         if "news.google.com" in url:
             from googlenewsdecoder import gnewsdecoder
             r = gnewsdecoder(url, interval=1)
-            if isinstance(r, dict) and r.get("status") and r.get("decoded_url"):
+            if isinstance(r, dict) and (r.get("status") or r.get("success")) and r.get("decoded_url"):
                 prawdziwy = r["decoded_url"]
             else:
                 if len(RAPORT["bledy"]) < 15:
@@ -247,13 +247,13 @@ def rozszerz_zajawki(klient, wiesci, materialy):
             continue
         paczka.append((w, tekst))
 
-    for start in range(0, len(paczka), 8):
-        czesc = paczka[start:start + 8]
+    for start in range(0, len(paczka), 5):
+        czesc = paczka[start:start + 5]
         wejscie = [{"id": i, "tytul": w["tytul"], "tekst": t} for i, (w, t) in enumerate(czesc)]
         try:
             odp = klient.messages.create(
                 model=MODEL,
-                max_tokens=4000,
+                max_tokens=8000,
                 system=INSTRUKCJA_ZAJAWKI,
                 messages=[{"role": "user", "content": json.dumps(wejscie, ensure_ascii=False)}],
             )
