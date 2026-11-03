@@ -187,7 +187,7 @@ INSTRUKCJA_ZAJAWKI = """Piszesz zajawki do polskiej aplikacji „Wytchnienie” 
 Aplikacja ma być odpoczynkiem od krzykliwych nagłówków. Piszesz spokojnie i rzeczowo, jak dobry dziennikarz, a nie jak portal walczący o kliknięcia.
 
 Dostajesz listę wiadomości (JSON: id, tytul, tekst). Dla każdej zwróć:
-- "tytul": rzeczowy tytuł (maks. 110 znaków), który od razu mówi, co się stało. Jeśli obecny tytuł jest dobry – zwróć go bez zmian. Jeśli jest clickbaitowy (ukrywa sedno, „wiemy jaki”, „zobacz”, pytanie-zagadka, wykrzykniki, WIELKIE LITERY, [WIDEO]/[ZDJĘCIA], nazwa działu na początku) – przepisz go.
+- "tytul": rzeczowy tytuł (maks. 110 znaków), który od razu mówi, co się stało. Jeśli obecny tytuł jest dobry – zwróć go bez zmian. Nowy tytuł może zawierać WYŁĄCZNIE fakty z podanego tekstu (żadnych dopisanych liczb, wieku, nazw). Jeśli jest clickbaitowy (ukrywa sedno, „wiemy jaki”, „zobacz”, pytanie-zagadka, wykrzykniki, WIELKIE LITERY, [WIDEO]/[ZDJĘCIA], nazwa działu na początku) – przepisz go.
 - "lead": zajawka po polsku:
 - 3–4 zdania, ok. 350–550 znaków,
 - własnymi słowami – NIE przepisuj zdań z tekstu dosłownie,
