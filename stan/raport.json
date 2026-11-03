@@ -1,5 +1,5 @@
 {
- "czas": "2026-11-03T09:15:55.298548+00:00",
+ "czas": "2026-11-03T09:19:55.175190+00:00",
  "zrodla": {
   "https://www.polsatnews.pl/rss/polska.xml": 50,
   "https://www.polsatnews.pl/rss/swiat.xml": 50,
@@ -9,10 +9,10 @@
   "https://tvn24.pl/najnowsze.xml": "BŁĄD",
   "https://www.rmf24.pl/feed": 50,
   "https://wydarzenia.interia.pl/feed": 50,
-  "uratowali": 39,
+  "uratowali": 40,
   "uratował życie": 26,
   "lekarze uratowali": 4,
-  "pierwszy w Polsce zabieg": 3,
+  "pierwszy w Polsce zabieg": 4,
   "polscy naukowcy odkryli": 12,
   "odnaleziony cały i zdrowy": 6,
   "wolontariusze pomogli": 2,
@@ -31,11 +31,30 @@
  },
  "zajawki": {
   "probowano": 40,
-  "z_artykulu": 12,
-  "z_rss": 5,
-  "bez_tekstu": 26,
+  "z_artykulu": 13,
+  "z_rss": 1,
+  "bez_tekstu": 27,
   "gotowe": 0
  },
- "dobrych_nowych": 10,
- "razem": 110
+ "bledy": [
+  "gnews: {'success': True, 'decoded_url': 'https://www.onet.pl/informacje/trojmiastopl/lekarze-z-uck-pobrali-nerki-z-pomoca-robota-zabiegi-sie-udaly/g9p9yyc,0666d3f1'}",
+  "gnews: {'success': True, 'decoded_url': 'https://www.infowet.pl/aktualnosci/215/strazacy_z_lulkowa_uratowali_borsuka_zwierze_utknelo_w_studni,6045.html'}",
+  "gnews: {'success': True, 'decoded_url': 'https://www.lubartowiak.com.pl/fakty/ii-lo-dzieli-sie-wiedza-ktora-ratuje-zycie-warsztaty-pierwszej-pomocy/'}",
+  "gnews: {'success': True, 'decoded_url': 'https://conowego.pl/aktualnosci/przelom-na-oddzialach-intensywnej-terapii-prosta-zmiana-w-lekach-ratuje-nerki-pacjentow-306049'}",
+  "gnews: {'success': True, 'decoded_url': 'https://www.radiopik.pl/2,143377,torunianka-oddajac-szpik-uratowala-gabriela-prze'}",
+  "gnews: {'success': True, 'decoded_url': 'https://tkn24.pl/pl/11_wiadomosci/370444_strazacy-z-konskich-uratowali-sowe-ptak-utknal-w-kominie-w-pomykowie.html'}",
+  "gnews: {'success': True, 'decoded_url': 'https://gazetalubuska.pl/zielona-gora-ma-prawdziwego-bohatera-uratowal-kobiete-co-za-historia/ar/c16p2-29493043'}",
+  "gnews: {'success': True, 'decoded_url': 'https://conowego.pl/aktualnosci/przelom-w-walce-z-rakiem-naukowcy-odkryli-bialko-ktore-oslepia-nasz-uklad-odpornosciowy-306040'}",
+  "gnews: {'success': True, 'decoded_url': 'https://rzeszow.tvp.pl/96264140/udalo-sie-ratownik-z-przemysla-zebral-150-tys-zl-na-leczenie-w-usa'}",
+  "gnews: {'success': True, 'decoded_url': 'https://viva.pl/wideo/wywiady/uratowala-zycie-malego-chlopca-jest-jej-przybranym-synem-juz-37-lat-wzruszajace-slowa-siostry-malgorzaty-chmielewskiej-gdy-go-znalezlism",
+  "gnews: {'success': True, 'decoded_url': 'https://tylkoslask.pl/rybnik-kierowca-autobusu-i-fizjoterapeutka-uratowali-mezczyzne-na-ulicy-raciborskiej/'}",
+  "gnews: {'success': True, 'decoded_url': 'https://olawa24.pl/artykul/swoja-postawa-uratowal-zycie-wyjatkowe-podziekowania-dla-olawskiego-policjanta/1295085'}",
+  "gnews: {'success': True, 'decoded_url': 'https://www.national-geographic.pl/przyroda/ten-dinozaur-byl-inny-niz-wszystkie-jego-dieta-zaskoczyla-naukowcow/'}",
+  "gnews: {'success': True, 'decoded_url': 'https://tulegnica.pl/artykul/pijany-mezczyzna-umieral-n1875070'}",
+  "gnews: {'success': True, 'decoded_url': 'https://cowkrakowie.pl/2026/11/krakowscy-policjanci-odnalezli-zaginionego-73-latka-senior-spedzil-noc-w-lesie'}",
+  "zajawki: JSONDecodeError: Expecting value: line 1 column 1 (char 0) | odp: '[{\"id\": 0, \"tytul\": \"Dzięki kredytom węglowym powstał drugi co do wielkości park narodowy w Nowej Południowej Walii\", \"lead\": \"W Nowej Południowej Walii powstał park narodowy Great Koala o powierzchni 478 tys. hektarów, położony między Kempsey a Grafton. Jego utworzenie zajęło ponad dekadę starań i '",
+  "zajawki: JSONDecodeError: Expecting value: line 1 column 1 (char 0) | odp: '[{\"id\": 0, \"tytul\": \"Wyspa Corvo na Azorach wyłącza na pięć nocy światło, by chronić młode ptaki morskie\", \"lead\": \"Na wyspie Corvo na Azorach przez pięć nocy w końcu października wyłącza się publiczne oświetlenie od 21:00 do 4:00. Chodzi o ochronę młodych burzyków Cory\\'ego, które w tym czasie opusz'"
+ ],
+ "dobrych_nowych": 1,
+ "razem": 111
 }
