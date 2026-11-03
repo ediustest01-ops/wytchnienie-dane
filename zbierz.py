@@ -92,7 +92,7 @@ def data_wpisu(wpis):
     return TERAZ
 
 
-RAPORT = {"czas": TERAZ.isoformat(), "zrodla": {}, "zajawki": {}}
+RAPORT = {"czas": TERAZ.isoformat(), "zrodla": {}, "zajawki": {}, "bledy": []}
 
 
 def pobierz_kanaly(zrodla):
@@ -210,6 +210,8 @@ def pobierz_tekst_artykulu(url):
             if isinstance(r, dict) and r.get("status") and r.get("decoded_url"):
                 prawdziwy = r["decoded_url"]
             else:
+                if len(RAPORT["bledy"]) < 15:
+                    RAPORT["bledy"].append(f"gnews: {str(r)[:200]}")
                 return url, ""
         import trafilatura
         html = trafilatura.fetch_url(prawdziwy)
@@ -217,6 +219,8 @@ def pobierz_tekst_artykulu(url):
         return prawdziwy, re.sub(r"\s+", " ", tekst or "").strip()[:4000]
     except Exception as e:
         print(f"[ARTYKUŁ] {url}: {e}")
+        if len(RAPORT["bledy"]) < 15:
+            RAPORT["bledy"].append(f"artykul: {type(e).__name__}: {str(e)[:200]}")
         return prawdziwy, ""
 
 
@@ -265,6 +269,7 @@ def rozszerz_zajawki(klient, wiesci, materialy):
                     stat["gotowe"] += 1
         except Exception as e:
             print(f"[BŁĄD] Zajawki nie wyszły ({e})")
+            RAPORT["bledy"].append(f"zajawki: {type(e).__name__}: {str(e)[:300]} | odp: {locals().get('tekst', '')[:300]!r}")
     RAPORT["zajawki"] = stat
     print(f"Zajawki: {stat}")
 
