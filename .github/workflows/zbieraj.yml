@@ -25,6 +25,9 @@ jobs:
       - name: Zainstaluj biblioteki
         run: pip install anthropic feedparser
 
+      - name: Zainstaluj biblioteki do zajawek (opcjonalne)
+        run: pip install trafilatura googlenewsdecoder || echo "Nie udało się – zajawki z samego RSS"
+
       - name: Zbierz i oceń wieści
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -34,7 +37,7 @@ jobs:
         run: |
           git config user.name "wytchnienie-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add wiadomosci.json stan/ocenione.json
+          git add wiadomosci.json stan/
           if git diff --cached --quiet; then
             echo "Brak zmian"
           else
