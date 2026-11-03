@@ -1,6 +1,127 @@
 {
- "aktualizacja": "2026-11-03T11:59:08.007266+00:00",
+ "aktualizacja": "2026-11-03T19:32:09.052553+00:00",
  "wiesci": [
+  {
+   "id": "6b01b9a1ceb9",
+   "tytul": "Kot uwięziony w grobowcu na radomskim cmentarzu uratowany po trzech dniach akcji",
+   "lead": "Kot, który utknął w grobowcu na radomskim cmentarzu Firlej, został wreszcie wydobyty po kilku dniach działań. Zwierzę usłyszano 1 listopada, a na miejsce wezwano policję, pracowników cmentarza i straż miejską. Kot ukrywał się w trudno dostępnych miejscach, więc ratownicy zostawili żywołapkę z jedzeniem, a 3 listopada udało się go wydobyć. Trafi najpierw do weterynarza, a potem do schroniska, które poszuka mu nowego domu.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-03/kot-utknal-w-grobie-akcja-ratunkowa-na-cmentarzu/",
+   "data": "2026-11-03T18:30:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "ec874ad0b6f2",
+   "tytul": "Australijski policjant oddał rzadką krew 545 razy i odwiedził wszystkie 85 punktów krwiodawstwa w kraju",
+   "lead": "Trevor Bergman, 59-letni australijski policjant, jest jednym z zaledwie 150 Australijczyków, u których wykryto bardzo rzadką grupę krwi. Podczas swojej podróży oddał krew 545 razy, pomagając pacjentom z niemal każdego zakątka kraju. Odwiedził wszystkie 85 australijskich punktów krwiodawstwa. Jak wynika z relacji, podczas tych wizyt nie brakowało żartów i dobrego humoru.",
+   "kategoria": "people",
+   "kraj": "AU",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/ultra-rare-blood-carrier-finishes-grand-tour-around-australia-to-donate-at-all-85-blood-banks/",
+   "data": "2026-11-03T16:30:35+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "6c19ea201847",
+   "tytul": "W Łodzi wykonano pierwszą w Polsce mastektomię endoskopową z użyciem zrobotyzowanych narzędzi",
+   "lead": "Lekarze z Instytutu Centrum Zdrowia Matki Polki w Łodzi jako pierwsi w Polsce przeprowadzili endoskopową mastektomię z wykorzystaniem zrobotyzowanych narzędzi o skrętnych końcówkach. Zabieg wykonano na początku października, a chirurg steruje narzędziami z mikrokonsoli, stojąc przy pacjentce. Usunięto zmianę wraz z zapasem zdrowych tkanek, a gojenie przebiegło bez powikłań, dlatego pacjentka może przejść do leczenia hormonalnego. Lekarze zaznaczają, że na ocenę przewagi tej metody nad dotychczasowymi potrzeba jeszcze kolejnych doświadczeń.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "Radio Zet",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNE01UHJ5RjY0aW04ZC1KNklWYkcwTjVYcUJBTDdvdGtRaEFnMGhqRW5oN1U2M0VlSUwzZU1XRWJQNGNCbDRFb0VkQXJxcC1pRWQ0UFNpTFlkdVBualZiZWZ5R3lGLXVaS2hnRC10aURVQTI2TVdJQThpbHZ6Zkk1bnJMWkhTVGVmTnEwR04wWDZkaG12SkJlNEFlTXJGTWloX2JBRGFUbjdUZlZNMHBvbQ?oc=5",
+   "data": "2026-11-03T15:42:25+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://wiadomosci.radiozet.pl/zdrowie/to-przyszlosc-operacji-raka-piersi-w-lodzi-wykonali-pierwszy-taki-zabieg",
+   "rozszerzony": true
+  },
+  {
+   "id": "eb01a9df8d71",
+   "tytul": "Wieś Botton w Anglii: opieka społeczna oparta na wspólnym życiu i wspólnej odpowiedzialności",
+   "lead": "Botton, mała wieś w angielskich North York Moors, jest domem wspólnoty Esk Valley Camphill, gdzie osoby z niepełnosprawnościami intelektualnymi żyją i pracują razem z opiekunami. Wspólnota powstała w 1955 roku i obecnie skupia około 120 mieszkańców. Autorka spędziła tam dzień przy wspólnych pracach na polu, gdzie podział na opiekunów i podopiecznych zacierał się. Jej przyjaciel Max, który wcześniej nie znalazł wsparcia odpowiedniego dla siebie, mówi, że ostatnie dwa lata są najlepszym okresem jego życia.",
+   "kategoria": "people",
+   "kraj": "GB",
+   "zrodlo": "Positive News",
+   "url": "https://www.positive.news/society/what-if-we-stopped-treating-social-care-like-a-service/",
+   "data": "2026-11-03T14:34:15+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "03328236963d",
+   "tytul": "Naukowcy znaleźli czerwone krwinki sprzed 115 milionów lat w kościach dinozaura",
+   "lead": "W Brazylii, w stanie Ceará, odnaleziono kości młodocianego dinozaura drapieżnego Aratasaurus, przechowywane od lat w Narodowym Muzeum Brazylii. Międzynarodowy zespół badaczy zidentyfikował w nich mikroskopijne struktury przypominające skamieniałe czerwone krwinki oraz ślady hemu, związku odpowiedzialnego za transport tlenu. Wcześniej uważano, że takie ślady nie mogą przetrwać tak długo, bo tkanki szybko ulegają rozkładowi. Naukowcy liczą, że dalsze badania pozwolą lepiej poznać metabolizm i fizjologię dinozaurów.",
+   "kategoria": "sci",
+   "kraj": "ŚW",
+   "zrodlo": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/nauka/news-przelomowe-odkrycie-czerwone-krwinki-sprzed-115-milionow-lat,nIdn,1024622",
+   "data": "2026-11-03T14:23:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "8883324244ec",
+   "tytul": "Chiński nauczyciel poruszający się na wózku uczy jazdy na deskorolce; wcześniej zdobywał góry i biegał maratony",
+   "lead": "Xie Junwu porusza się na wózku inwalidzkim i od lat pokonuje kolejne granice: zdobywał góry i ukończył maratony. Obecnie, w średnim wieku, jeździ na deskorolce i uczy innych, jak pewnie poruszać się na tym sprzęcie. Według opisu jest to najprawdopodobniej pierwszy taki nauczyciel w Chinach.",
+   "kategoria": "people",
+   "kraj": "CN",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/he-conquered-mountains-and-marathons-now-he-teaches-wheelchair-skateboarding-watch/",
+   "data": "2026-11-03T14:00:36+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "f8bbd85c8e4a",
+   "tytul": "Szpital Uniwersytecki w Krakowie wykonał pierwszy zabieg usunięcia wegetacji z serca",
+   "lead": "Szpital Uniwersytecki w Krakowie przeprowadził pierwszy zabieg usunięcia wegetacji, czyli nieprawidłowych struktur, które mogą zawierać bakterie i nie zawsze ustępują po antybiotykoterapii. Taki zabieg może zostać rozważony także u wybranych pacjentów z ruchomymi skrzeplinami lub innymi zmianami w sercu, na przykład u osób z chorobami nowotworowymi, ponieważ takie struktury mogą prowadzić do groźnych zatorów. Zabieg wykonał prof. Stanisław Bartuś, a jego przebieg wymagał współpracy wielu specjalistów i stałego monitorowania echokardiografią przezprzełykową. Każda decyzja poprzedzana jest indywidualną oceną stanu pacjenta.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "Gazeta Krakowska",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMldMOEZ3aGl5VE80blBPWTJLa01OOXZqYmxwQnFCek5EalNJOEtfaFR3TW01QmwtOGM1SVRaYkVwOVpBTEVLc09oVE1fcktXNmYyN3pTU0pCcFZZTGRMUUxSOU1tTHRqcVpmNlBTRzBGXy0tcVBlekhDcWg2NFkyOEdHSkRrbkFkVW9ra0RKTkh2b3h3bm1UR092dW9IUVN0dzlJenp3X3NKR0ZXVjNQanZONlhWZw?oc=5",
+   "data": "2026-11-03T12:51:34+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://gazetakrakowska.pl/pierwszy-taki-zabieg-w-szpitalu-uniwersyteckim-w-krakowie-to-wazny-krok/ar/c1p2-29494995",
+   "rozszerzony": true
+  },
+  {
+   "id": "f9ce61874af8",
+   "tytul": "Interwencja uratowała życie małego zajączka",
+   "lead": "Z przekazanego materiału wynika, że interwencja uratowała życie małego zajączka. Materiał pochodzi z programu „Dzień Dobry TVN”, a tekst nie zawiera szczegółów dotyczących przebiegu zdarzenia.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Dzień Dobry TVN",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkpkeVlnTVJBXzVUMkxZSEd6VXdnclYza1dZaTg0ZS1WY0FVMGhKNU5lUUFyLTNXbHN0dUtQbVFIU0xqMk8tX29lbTExd3V4X3hjdmk2dWVjdjBZOEUyWWZGb3AwWnNxUERNUFhLaFcwbVZRanNteUVfYWo1eFhmSTRSUEpGNTh3OWYtd1VuRE55YlU?oc=5",
+   "data": "2026-11-03T12:20:09+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://dziendobry.tvn.pl/najnowsze/interwencja-uratowala-zycie-malego-zajaczka-vd9320031",
+   "rozszerzony": true
+  },
+  {
+   "id": "3a2aad689921",
+   "tytul": "W Rzeszowie udana operacja 6-latki z skoliozą i zrośniętymi żebrami",
+   "lead": "W Klinicznym Szpitalu Wojewódzkim im. św. Jadwigi Królowej w Rzeszowie przeprowadzono dwuetapową operację 6-letniej dziewczynki z wrodzoną skoliozą i zrośniętymi żebrami. Najpierw od strony przedniej otwarto klatkę piersiową, a następnie od tyłu skorygowano deformację i ustabilizowano kręgosłup za pomocą śrub. W zespole działał prof. Ilkka Helenius z Finlandii, specjalista od chirurgii kręgosłupa u dzieci. Zabieg transmitowano na żywo dla lekarzy szpitala, a według placówki była to jedna z pierwszych takich operacji na Podkarpaciu.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "Rzeszów News",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nMTdGMXJhSzRKa0hhV2phRnVROERjcXJhc19aSVMzR3JQb0FhQ3ZkZ2dsZDIwQWxaODA3LXFsQnZEY3R6dnpfWmRrVnQyZzhNTWgweWNMVGpNZGFadU5CSWNhRHhXdWpoS3c?oc=5",
+   "data": "2026-11-03T12:18:13+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://rzeszow-news.pl/operacja-rzeszow-6-latka-skolioza/",
+   "rozszerzony": true
+  },
   {
    "id": "22deb010749e",
    "tytul": "Na Kiribati uratowano osoby, które w lipcu porwała burza",
@@ -43,6 +164,20 @@
    "rozszerzony": true
   },
   {
+   "id": "eaef11cb942c",
+   "tytul": "Pięć osób uratowanych po trzech miesiącach dryfowania na Pacyfiku Południowym",
+   "lead": "Pięć osób uratowali mieszkańcy wysp u wybrzeży Kiribati, po tym jak ich łódź dryfowała przez około trzy miesiące. Według ABC łódź płynęła z wyspy Murilo na wyspę Ruo w Mikronezji, lecz nagła burza zniosła ją na otwarte morze, około 5400 km na wschód. Na pokładzie było dziewięć osób, a 30 lipca przestała wrócić na Ruo. Ocaleni byli poważnie odwodnieni i niedożywieni, ale ich stan stopniowo się poprawia. Cztery osoby wciąż są zaginione, a Straż Przybrzeżna USA nadal weryfikuje informacje o ich losie.",
+   "kategoria": "rescue",
+   "kraj": "ŚW",
+   "zrodlo": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1pnZGpTSURESVBidUoxSjV5VHJFSGRHb2dfajhsMnlPdU9ISVBqQ01fS1ZFZkZtcnI5UTNNWFFlWWFiR243TEwyR3k1Rl9XVmNuOXpNRENST240SFpUNEs0bzJLTXJhMUtUd2k5aHB0TGFQeEFXUWlla3lCWldSN1lwRHVHcGJjR3VNQ3hmS1h6OFlBRlYwYTdEdDFaMVk?oc=5",
+   "data": "2026-11-03T11:31:43+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.vietnam.vn/pl/giai-cuu-5-nguoi-troi-dat-tren-bien-suot-3-thang-tai-nam-thai-binh-duong",
+   "rozszerzony": true
+  },
+  {
    "id": "a856cece462f",
    "tytul": "Polski patent może usprawnić produkcję grafenu",
    "lead": "Naukowcy z Uniwersytetu Jagiellońskiego opracowali metodę wytwarzania nanografenu bezpośrednio na powierzchniach materiałów niemetalicznych, takich jak półprzewodniki czy izolatory. Dotychczas grafen trzeba było najpierw wytwarzać na metalach szlachetnych, a następnie przenosić na docelowe podłoże, co było kosztowne i sprzyjało zanieczyszczeniom. Nowy proces przebiega w wysokiej próżni, w temperaturze około 200 stopni Celsjusza, z udziałem atomowego wodoru. Rozwiązanie objęto międzynarodową ochroną patentową, a obecnie trwają prace nad jego skalowaniem i przygotowaniem do zastosowań przemysłowych.",
@@ -57,30 +192,17 @@
    "rozszerzony": true
   },
   {
-   "id": "61143f8e0c07",
-   "tytul": "Strażacy i Animal Patrol uratowali borsuka, który utknął w studni w Kowrózku",
-   "lead": "Strażacy i członkowie Animal Patrolu wydobyli ze studni w Kowrózku borsuka, który w niej utknął. Zwierzę zostało uratowane.",
+   "id": "eed34159c6bf",
+   "tytul": "Odnaleziono 15-letnią bielszczankę. Jest cała i zdrowa",
+   "lead": "Zakończyły się poszukiwania 15-letniej mieszkanki Bielska-Białej, która 2 listopada wyszła z domu i nie wróciła. Nastolatka została odnaleziona po jednym dniu poszukiwań, cała i zdrowa.",
    "kategoria": "rescue",
    "kraj": "PL",
-   "zrodlo": "TVP Bydgoszcz",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3c19JYjgwNTlKdi1fVzR4aVh0UENyRm1fYXRPSExsT1QzMDdtOVQ1YnJLN2lXX3ExNDYxd0VjdUZHS2YwdkVWZXQxNlcza0hWY0d5WkdaLXF4ZWM1bEYxdW15M21obEFGWEw4?oc=5",
-   "data": "2026-11-03T11:11:14+00:00",
+   "zrodlo": "Bielsko-info",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMjBNMUdEMXl4YVN5UU5XcWNZd21QQ3RyMFdKcjVLY2trTFM0NzRhbG1XazNpTVdHV1FHOFBwaWo5SnNyQkNOR2ZnQWFrNTdWQnY3djNfU2VBSVp0eVNPS2x0eWRQc3dEcEVwMFpvTXNzOW1wTDBaTE9nZHFqNG9mUmFvM1dlM0hTOC1MRTRqMVAyNGkxbk52QS1idElxZ0dpbzFZY090VURfc2xjSGtVT050OXduMWdFdnZnV05wREdEQUZTcC1WY1lrRQ?oc=5",
+   "data": "2026-11-03T10:25:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
-   "url_zrodla": "https://bydgoszcz.tvp.pl/borsuk-uwieziony-w-studni,96277856",
-   "rozszerzony": true
-  },
-  {
-   "id": "8bf31755d781",
-   "tytul": "Na wyspie Fanning uratowano pięć osób, których łódź dryfowała przez Pacyfik",
-   "lead": "Pięcioro rozbitków, w tym dwoje dzieci, dotarło na wyspę Fanning należącą do Kiribati po pokonaniu około 5,4 tys. kilometrów dryfu. Ich dziewięcioosobowa grupa wypłynęła 30 lipca w godzinną przeprawę między wyspami Murilo i Ruo, lecz zerwała się burza i zniosła łódź. Straż przybrzeżna po dziesięciu dniach zawiesiła poszukiwania. Mieszkańcy wyspy zauważyli łódź w minioną niedzielę. Ocaleni nie opowiedzieli jeszcze, co działo się na morzu, a los czterech pozostałych osób nie jest znany.",
-   "kategoria": "rescue",
-   "kraj": "ŚW",
-   "zrodlo": "RMF24",
-   "url": "https://www.rmf24.pl/fakty/swiat/news-cud-na-pacyfiku-piec-osob-uratowanych-po-trzech-miesiacach-d,nIdn,1024569",
-   "data": "2026-11-03T10:46:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
+   "url_zrodla": "https://www.bielsko.info/najnowsze/49532-zakonczono-poszukiwania-15-letnia-bielszczanki-dziewczyna-jest-cala-i-zdrowa-bielsko-biala",
    "rozszerzony": true
   },
   {
@@ -95,20 +217,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.bielsko.info/najnowsze/49531-dron-z-termowizja-pomogl-odnalezc-zaginiona-50-latka-byla-wyziebiona-bielsko-biala",
-   "rozszerzony": true
-  },
-  {
-   "id": "7762bea59de9",
-   "tytul": "Interwencja uratowała życie małego zająca",
-   "lead": "Materiał programu „Dzień Dobry TVN” opisuje interwencję, która miała uratować życie małego zająca. Z dostępnego fragmentu nie wynikają jednak szczegóły zdarzenia, takie jak miejsce czy przebieg akcji.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Dzień Dobry TVN",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2x6ZHZ3S1ZKa3ZoVlJUVkhKclUtSk9pTGI4M1h2aUd1ZXdNaUlRRGxucnk2Ry1ncnNKX1lDa0UxRXJIblJEYW5SV0UxemVnNkZZcklLemd6U3NOaFhxck0yV2lIbUloejVZSzBMZ3VBc0pUSUV2RzlkUlRHZmFQWU8wdWVxVUI0Wm13eGFCTDk5MVU?oc=5",
-   "data": "2026-11-03T10:14:51+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://dziendobry.tvn.pl/najnowsze/interwencja-uratowala-zycie-malego-zajaczka-vd9319538",
    "rozszerzony": true
   },
   {
@@ -150,20 +258,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.onet.pl/informacje/trojmiastopl/lekarze-z-uck-pobrali-nerki-z-pomoca-robota-zabiegi-sie-udaly/g9p9yyc,0666d3f1",
-   "rozszerzony": true
-  },
-  {
-   "id": "69ba5daa4fad",
-   "tytul": "Strażacy z Lulkowa uratowali borsuka, który utknął w studni",
-   "lead": "Strażacy z OSP KSRG Lulkowo wspólnie z pracownikiem Animal Patrolu wydobyli borsuka, który 2 listopada wpadł do czterometrowej studni na terenie gminy Łysomice. Zwierzę nie miało szans wydostać się samodzielnie. Borsuki na co dzień unikają ludzi i wolą lasy. Służby apelują, by nie przechodzić obojętnie obok zwierząt w podobnej sytuacji: w powiecie toruńskim należy dzwonić pod numer 112, a w Toruniu takimi interwencjami zajmuje się Eko Patrol straży miejskiej.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "InfoWET.pl",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2FPVnFERFYwSTZnZ2x3TDJGQ1RNWlRGX3BhcURXQTlDaDl1V1RkdTJqR19ieTgwSFo3cEkxRlNDSk15eHJsWV80UlBYczBWc1VWbTRhaHNmSTlrbHU4VDIwNUZJUmU1SUpENUlOWGVzR2d2Z3BLeDh5Um9kejJuMjJfUEVxOVk5cVZ0VTA1NGR4ZGl2Y055eVl2ZFRqQXIyYmJGbzhrWlQ4U1lMdzU0?oc=5",
-   "data": "2026-11-03T08:30:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.infowet.pl/aktualnosci/215/strazacy_z_lulkowa_uratowali_borsuka_zwierze_utknelo_w_studni,6045.html",
    "rozszerzony": true
   },
   {
@@ -284,20 +378,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.radiopik.pl/2,143377,torunianka-oddajac-szpik-uratowala-gabriela-prze",
-   "rozszerzony": true
-  },
-  {
-   "id": "d0e71c715df8",
-   "tytul": "Strażacy z Końskich uratowali sowę. Ptak uwiązł w kominie w Pomykowie",
-   "lead": "Strażacy z Końskich wyciągnęli sowę uwięzioną w kominie w Pomykowie. Ptak został uratowany.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "TKN24",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHliOU5UU2IyTlIxZGZiSTh6SjlnWEZtLV9KMzE5NGluSlZfeXltemhCSnMtNUNMYXpxcndFSUJHME93N2ZaM0JHbU9rNmFMbm1jZkdkSWM5c3ZIOV9GMmw2aDR6SnNiSnpTSDIxS1IwNUJ0V0tqbDEtN0s0anltQ3RuRVlUZWZqaEVGanh0a0V2YWc4czJ5d0ROaV9WT1VpMnVraGw0SGdrMDVtRTFUc2VwcS0?oc=5",
-   "data": "2026-11-02T19:03:16+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://tkn24.pl/pl/11_wiadomosci/370444_strazacy-z-konskich-uratowali-sowe-ptak-utknal-w-kominie-w-pomykowie.html",
    "rozszerzony": true
   },
   {
@@ -875,20 +955,6 @@
    "rozszerzony": true
   },
   {
-   "id": "02a7122b9166",
-   "tytul": "Niezwykła akcja ratunkowa w Klimkach. Strażacy uratowali sowę uwięzioną w kominie",
-   "lead": "Strażacy z Łukowa wydobyli sowę, która utknęła w kominie w miejscowości Klimki. Ptak został uratowany.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Łuków.TV",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vSVRFQmdWUFlTbUFQSmhza1VhRG5OMnJJZXRWaWo5NlhvNnFveUhTQ2VtU3JYN2tfTG10bTlKdmJPTkwwMEpLdW84T01SSUVfUDl5b0hlR1pDWS16bERFNEZHcUxybUx6VjJJ?oc=5",
-   "data": "2026-11-01T10:43:33+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://lukow.tv/artykul/niezwykla-akcja-ratunkowa-n2562268",
-   "rozszerzony": true
-  },
-  {
    "id": "7e9c012e9b0b",
    "tytul": "OSP Gołkowice otrzymało nowy lekki samochód pożarniczy",
    "lead": "Strażacy-ochotnicy z Gołkowic odebrali nowy wóz strażacki, zbudowany na bazie dostawczego Volkswagena Craftera z dwulitrowym dieslem. Pojazd ma dziewięć miejsc, napęd 4x4, wyciągarkę, hak holowniczy i przestrzeń na sprzęt. Koszt wyniósł niecałe 411 tysięcy złotych, a największy udział w finansowaniu miała gmina Godów, która przekazała 250 tysięcy złotych. Pozostałą część pokryły WFOŚiGW w Katowicach, Urząd Marszałkowski Województwa Śląskiego oraz sami druhowie, którzy dołożyli 977 złotych. Przekazaniu towarzyszył piknik z pokazami i poczęstunkiem.",
@@ -1079,78 +1145,71 @@
    "rozszerzony": true
   },
   {
-   "id": "95c97ccf1d63",
-   "tytul": "Szczęki dinozaura Infernogallus wskazują na dietę z miękkich pokarmów, prawdopodobnie też owoców",
-   "lead": "Infernogallus był dinozaurem z późnej kredy, mierzącym około 1,5 metra i ważącym ok. 11 kilogramów. Badacze przeanalizowali niemal kompletny szkielet z formacji Hell Creek oraz kości szczęk, w których dostrzeżono cechy typowe dla rozdrabniania miękkiego pokarmu, a nie rozrywania mięsa. Ponieważ w kredzie rozprzestrzeniały się rośliny kwiatowe, owoce mogły wchodzić w skład diety, choć bezpośrednich dowodów na to brakuje. Autorzy ostrożnie traktują także hipotezę, że zwierzę mogło rozsiewać nasiona, i uznają ją na razie za przypuszczenie.",
-   "kategoria": "sci",
-   "kraj": "ŚW",
-   "zrodlo": "TRYBUNA POLSKA",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNndFMG1FRmhfLU52bE84ZXcwVGRKYm81VWs0dC1NVVhzUnlJdUtfS2tSaWJmcFYtd08wVlp1eHdnMzFuMzZxdURtYlI1NWZGNmhMWl9oZ2ZMNnhWdGl2NGpZV0hsOFBrbHMxQk52VzFIUFdPaEFEbFIwTmRBdEp5MkZ2OUM1a3E1Tzg1OUxR?oc=5",
-   "data": "2026-10-31T07:19:19+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://trybunapolska.pl/swiat/dinozaur-jadl-owoce-naukowcy-odkryli-niezwykly-gatunek",
-   "rozszerzony": true
-  },
-  {
    "id": "b3f96f412d2a",
-   "tytul": "Wspólnie z ratownikami uratowali mieszkańców płonącej kamienicy. Akcja policjantów w Mroczy",
-   "lead": "Policjanci razem z ratownikami wyprowadzili mieszkańców z płonącej kamienicy w Mroczy. Wszyscy zostali uratowani.",
+   "tytul": "Policjanci i ratownicy ewakuowali z płonącej kamienicy w Mroczy dwie osoby",
+   "lead": "W środę w centrum Mroczy wybuchł pożar kamienicy. Jako pierwsi na miejsce dotarli policjanci i ratownicy medyczni, którzy wbiegli do budynku i namówili dwie osoby, próbujące samodzielnie gasić ogień, do opuszczenia mieszkania. Funkcjonariusze pomogli też wyprowadzić ludzi z sąsiednich lokali, a nikomu nic się nie stało. Ogień ugaszono przy udziale czternastu zastępów strażaków, a lokatorzy wrócili do domów. Inspektor nadzoru budowlanego nie stwierdził zagrożenia konstrukcji, a prawdopodobną przyczyną pożaru było zwarcie w klimatyzatorze.",
    "kategoria": "rescue",
    "kraj": "PL",
    "zrodlo": "Radio PIK",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORlJqWVVpVG1RVkh3bUozT1pUWjlwcHJYUUs3Z21SNm41VHltZXZYdloyaDlpYmxKVmwxWjNDczhZbHI2Tjl0NmNHZzc3QmI5QXpqZERvdFRqYk5fT1VCLW5IT3VTeEtBbHRqcHdFX3V4VkhjS1JHNENFZFNLX3ZNckp3VzhFdTlYOThCcFBoR0dqdw?oc=5",
    "data": "2026-10-31T06:00:00+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://www.radiopik.pl/2,143295,wspolnie-z-ratownikami-uratowali-mieszkancow-plo&res=66",
+   "rozszerzony": true
   },
   {
    "id": "3c01d339b671",
    "tytul": "Zdjęcia satelitarne pomagają w zbadaniu starożytnego egipskiego miasta",
-   "lead": "Badacze wykorzystali zdjęcia satelitarne, aby lepiej poznać układ starożytnego egipskiego miasta.",
+   "lead": "Polska Agencja Kosmiczna we współpracy z Instytutem Porównawczych Studiów Cywilizacji UJ wykorzystuje zdjęcia satelitarne przy badaniach starożytnego miasta w Marina El-Alamein na wybrzeżu Egiptu. Dane z satelitów mają pomóc szybciej wskazać najciekawsze miejsca i budowle na terenie liczącym około dwóch-trzech hektarów. Dzięki temu można ograniczyć koszty, czas prac i ingerencję w stanowisko, a także unikać użycia ciężkiego sprzętu. Naukowcy badają na miejscu pozostałości miasta z okresu grecko-rzymskiego, w tym fragmenty zabudowy mieszkalnej i podziemne cysterny na wodę.",
    "kategoria": "sci",
    "kraj": "EG",
    "zrodlo": "Nauka w Polsce",
    "url": "https://naukawpolsce.pl/aktualnosci/news%2C115679%2Czdjecia-satelitarne-pomagaja-w-zbadaniu-starozytnego-egipskiego-miasta.html",
    "data": "2026-10-31T00:00:00+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "68e33ad08a3c",
-   "tytul": "AI może pomóc znaleźć zagrożonych nowotworami",
-   "lead": "Naukowcy sprawdzają, czy sztuczna inteligencja pozwoli wcześniej wykryć osoby zagrożone nowotworami. Wyniki są na wczesnym etapie badań.",
+   "tytul": "Uczenie maszynowe może wskazać osoby z podwyższonym ryzykiem częstych nowotworów",
+   "lead": "Międzynarodowy zespół przedstawił na kongresie ESMO 2026 w Madrycie modele uczenia maszynowego, które przewidują ryzyko 20 częstych nowotworów na podstawie rutynowo gromadzonych danych medycznych. Modele, opracowane na danych ponad 463 tysięcy osób z Wielkiej Brytanii, okazały się skuteczniejsze niż tradycyjne metody statystyczne, choć wyniki zależały od rodzaju nowotworu. Najlepiej wypadły raki płuc, przełyku i wątroby, a słabiej raki jajnika, piersi i szyjki macicy. Badania krwi okazały się najcenniejszym źródłem informacji. Autorzy zastrzegają, że wielu osób zakwalifikowanych jako grupa podwyższonego ryzyka nie zachoruje, dlatego taki wyni",
    "kategoria": "med",
    "kraj": "ŚW",
    "zrodlo": "Nauka w Polsce",
    "url": "https://scienceinpoland.pap.pl/aktualnosci/news%2C115654%2Cai-moze-pomoc-znalezc-zagrozonych-nowotworami.html",
    "data": "2026-10-31T00:00:00+00:00",
    "przetlumaczone": false,
-   "wstepne": true
+   "wstepne": true,
+   "rozszerzony": true
   },
   {
    "id": "675aa06f8784",
    "tytul": "Operacja bariatryczna może unormować zaburzenia odporności związane z otyłością",
-   "lead": "Badania sugerują, że operacja bariatryczna może przywrócić prawidłowe działanie układu odpornościowego u osób z otyłością. Wyniki wymagają dalszego potwierdzenia.",
+   "lead": "Badacze z Maynooth University w Irlandii wykazali, że otyłość osłabia działanie limfocytów T Vdelta2+, czyli komórek odpowiedzialnych za szybką reakcję na infekcje i część komórek nowotworowych. U osób z otyłością jest ich mniej we krwi, są mniej aktywne, a ich przemiana materii gorzej zaopatruje je w energię. Po operacji zmniejszającej żołądek metodą Roux-en-Y większość tych nieprawidłowości ustąpiła. Autorzy badania, opublikowanego w piśmie „JCI Insight”, szacują, że u pacjentów po takiej operacji ryzyko nowotworów i innych powikłań związanych z otyłością jest o 40–50 proc. niższe.",
    "kategoria": "med",
    "kraj": "ŚW",
    "zrodlo": "Nauka w Polsce",
    "url": "https://scienceinpoland.pap.pl/aktualnosci/news%2C115629%2Coperacja-bariatryczna-moze-unormowac-zaburzenia-odpornosci-zwiazane-z",
    "data": "2026-10-31T00:00:00+00:00",
    "przetlumaczone": false,
-   "wstepne": true
+   "wstepne": true,
+   "rozszerzony": true
   },
   {
    "id": "ce3195caa2b9",
-   "tytul": "Serce, które ratuje życie. Na polickim deptaku stanął defibrylator dostępny przez całą dobę - Police",
-   "lead": "W Policach na deptaku zainstalowano defibrylator, z którego mieszkańcy mogą skorzystać o każdej porze doby. Urządzenie ma zwiększyć szansę na ratunek w nagłych sytuacjach.",
+   "tytul": "Na deptaku w Policach stanął ogólnodostępny defibrylator AED, dostępny całą dobę",
+   "lead": "Na deptaku przy ul. Wyszyńskiego w Policach stoi od teraz ogólnodostępny defibrylator AED, umieszczony w czerwonej kapsule, którą wcześniej wykorzystywano do zbierania nakrętek. Projekt zrealizowało stowarzyszenie Nasze Police. Urządzenie jest dostępne przez całą dobę, bo inne defibrylatory w mieście stoją zwykle w miejscach zamykanych po południu. Aparat nie wymaga przeszkolenia, sam prowadzi użytkownika komunikatami głosowymi i analizuje rytm serca. Kapsuła nie jest zamknięta na klucz, a jej otwarcie uruchamia alarm, dlatego organizatorzy proszą rodziców, by wytłumaczyli dzieciom, do czego służy.",
    "kategoria": "rescue",
    "kraj": "PL",
    "zrodlo": "Police - iPolice",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1NadWQzQlN0RlZ6WXN0eWZoQlVYVFJBUFZ0UFVfdGFGTFg2UVd2ZW1xdG9SSER3VHp5ekZ3OVV5THVYU2NOOXhQem9xYnhMckE2UDMtTElzbW1LNFdmOGt4MjdUcktyRnUzSnFTcUxMa3ZXX19OYnVaWUJwZ2hvN05jbVdhM05PMkRINGJmUEozd25LbU1QWHdrNTl0VUFjXzYwQ09NdWJwZGpROWc?oc=5",
    "data": "2026-10-30T21:10:57+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://ipolice.pl/serce-ktore-ratuje-zycie-na-polickim-deptaku-stanal-defibrylator-dostepny-przez-cala-dobe/",
+   "rozszerzony": true
   },
   {
    "id": "747f53d4f7da",
@@ -1162,43 +1221,50 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3I5WHVEaW9QYXNtcVZPVWZVWUpvbFB4QzQ1eUZ5azNWTDlhYkd0UnlMRGVfYU5XckVBWHFWOWF0TkM4bklzclZoRmhVaDl0VVBYM0dqMmNoZDFZVHJoM1dyQnlrU2ZhVF92YzJUTG5LNGtabTByYmFrNElyTVYxYzlOeW9YQ2FlZWFlWXRhZGxuS3Y0aHljN1Y0U0dLSjlWb3BqdEltbF9aaHY0Vl8ydEFuRjE1VGlYbmIwTmZyZFVFVGtr?oc=5",
    "data": "2026-10-30T20:38:54+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://znin.naszemiasto.pl/ii-zbiorka-na-rzecz-ratowania-grobowca-rychlewskich-w-zninie-31-10-1-11-2026-roku/ar/c1p2-29482227",
+   "rozszerzony": true
   },
   {
    "id": "9a1de81af327",
    "tytul": "Odkryto rzadkiego „mikronietoperza” 400 mil od jego ostatniego znanego miejsca występowania",
-   "lead": "Naukowcy zarejestrowali rzadkiego nietoperza z rodzaju mikronietoperzy daleko od miejsca, gdzie był wcześniej notowany. Gatunek jest trudny do obserwacji, bo lata bardzo szybko i wysoko.",
+   "lead": "Badacz z Australian Wildlife Conservancy, Oli Aylen, zarejestrował w rezerwacie Pungalina-Seven Emu charakterystyczne echolokacyjne wołanie rzadkiego nietoperza z gatunku Arnhem Sheath-tailed Bat. Miejsce oddalone jest o około 400 mil od ostatniego znanego stanowiska tego zwierzęcia. Gatunek odkryto w 1979 roku, a od tamtej pory udokumentowano go kamerą zaledwie kilka razy. Naukowcy planują dalsze badania, by ustalić, gdzie nietoperze się chronią i czy ich populacja jest zagrożona.",
    "kategoria": "nature",
    "kraj": "ŚW",
    "zrodlo": "Good Good Good",
    "url": "https://www.goodgoodgood.co/articles/endangered-species-microbat-australia",
    "data": "2026-10-30T15:24:00+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "fa2f265883da",
-   "tytul": "Zyskamy korzyści z morsowania bez wchodzenia do wody? Odkryto cząsteczkę, którą uwalnia zimno",
-   "lead": "Naukowcy odkryli cząsteczkę, która uwalnia się pod wpływem zimna. Może ona w przyszłości pozwolić czerpać korzyści zdrowotne z morsowania bez kąpieli w lodowatej wodzie.",
+   "tytul": "Cząsteczka uwalniana przez mięśnie w chłodzie wydłuża życie nicieni, pokazali badacze z Kolonii",
+   "lead": "Zespół pod kierunkiem Davida Vilcheza z Uniwersytetu w Kolonii sprawdził, jak organizmy reagują na umiarkowany chłód. Wyniki opublikowano w czasopiśmie „Nature”. Okazało się, że w mięśniach powstaje metabolit dihydrobiopteryna (BH2), który rozchodzi się po ciele i chroni narządy przed starzeniem. U nicieni zwiększenie produkcji tej cząsteczki wydłużało życie nawet w zwykłej temperaturze, a na ludzkich komórkach ograniczało gromadzenie się wadliwych białek. Do leków dla ludzi droga jest jednak jeszcze daleka.",
    "kategoria": "sci",
    "kraj": "ŚW",
    "zrodlo": "National Geographic Polska",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWG1zZ0hJaFotMi1HWWVDN1U5N1g1TzRYNWUxUDFrT24wTkhuWDZUempTbHFvcEs3Z3JZY2tHTXk2WTNfV2lYZDRFM1A3N2o1VXRwWjhTRjhpS0tXTVd2RER3bkZOeTZjZDl0RHFLcEI1Y0RXcVpraWw5STJFMlJZVXVkM0ZNVG80RVhIQ21Zem40RFkyaS1uamtHUmFkRjFuanBBTkxBU1A0cVVBdGY3TUZLZDIxU3NQR1N4LVdDcnI3eG5uZzBKWUxJTVJCMDNOeDVxdGp3?oc=5",
    "data": "2026-10-30T14:37:26+00:00",
    "przetlumaczone": false,
-   "wstepne": true
+   "wstepne": true,
+   "url_zrodla": "https://www.national-geographic.pl/nauka/zimno-wydluza-zycie-i-chroni-mozg-naukowcy-odkryli-ukryty-mechanizm-ktory-zaczyna-sie-w-miesniach/",
+   "rozszerzony": true
   },
   {
    "id": "3a048af652be",
    "tytul": "Gminy w rejonie Thap Muoi zorganizowały Dzień Dobrowolnego Oddawania Krwi.",
-   "lead": "Gminy w rejonie Thap Muoi zorganizowały akcję oddawania krwi, pomagając w uzupełnianiu zapasów dla szpitali.",
+   "lead": "30 października gminy Thap Muoi, Doc Binh, My Qui, Thanh My i Truong Xuan zorganizowały Dzień Dobrowolnego Oddawania Krwi we współpracy ze Szpitalem Hematologicznym i Transfuzji Krwi w Can Tho. W akcji wzięli udział urzędnicy, żołnierze, członkowie młodzieżowych związków zawodowych oraz mieszkańcy. Zebrano 126 jednostek krwi po 350 ml.",
    "kategoria": "med",
    "kraj": "VN",
    "zrodlo": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0pEN09DUUxWTzZuVGUxR0t0NUVSZGNRSnR0cXhXeFRGcElMM21XT1UwckV0YzZjTFV5eU5XeGJFZlIyNjRlQWhmQVgweGJVOWdoSVV2X1BIOER1RnRsNGQxSHBUZ0NjcVVIcGFOREJLeDRWbTZnOV9hRlFsRElTMTNnc3VHZmZBSDdzUFBXMEcxQQ?oc=5",
    "data": "2026-10-30T11:51:36+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://www.vietnam.vn/pl/cac-xa-khu-vuc-thap-muoi-to-chuc-ngay-hoi-hien-mau-tinh-nguyen",
+   "rozszerzony": true
   },
   {
    "id": "f225744bfd9b",
@@ -1210,7 +1276,9 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUy1hQmplWVFBMWVHVUhTTkJ2MVJqcDRvQ3ZPMTBtT1REXzRrVGVIejNDb2JqeHVyQVZBVk14VHdJdF9SUDJTRy1TNjhvd1ByNzJ0UGlhcmM2RXFUdWFxMVVqN0VBWmpNWWdGNUlzeUJmZDJsME9TTmhia0o3LUFxdEZ6YmxxbmMwaFFCQzlqRzd3dkZnSk52dnB5Y0FhSHRNNVhwN0wyUGd1ZU1YQm5OeUR3YVotdGtKTDZ1d3NGZw?oc=5",
    "data": "2026-10-30T11:29:00+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://www.supertydzien.pl/artykul/51865,wyziebiony-77-latek-uwieziony-w-bagnie-uratowali-go-funkcjonariusze-sok-z-chelma",
+   "rozszerzony": true
   },
   {
    "id": "0cb71fe52aa2",
@@ -1222,223 +1290,255 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3hybjFTSDl3TklELUJ5YXc1ZUN5bnBEdVFvVmpQNmZuOThHOS1PTUN0WGNnazVURUJOa0FEN2thdkRXQkdjUkl5VVppZUFmSjE2RGMtTlBEdUJNN0ZORUNtMWcyeUMwX0drdS00TExNWW0tN2J5ZFZWTTNmTk0zb2EtRV9pNEU?oc=5",
    "data": "2026-10-30T10:36:45+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://tvn24.pl/tvnwarszawa/wola/warszawa-kwesta-na-starych-powazkach-st9313244",
+   "rozszerzony": true
   },
   {
    "id": "a9452da435b1",
-   "tytul": "Pomorzanki coraz częściej wybierają profilaktykę, region w krajowej czołówce badań mammograficznych. Akcja „KobieTy to siła” promuje zdrowie",
-   "lead": "Mieszkanki Pomorza coraz chętniej wykonują badania mammograficzne, a region należy do krajowej czołówki. Akcja promuje profilaktykę zdrowotną.",
+   "tytul": "Na Pomorzu 39 proc. uprawnionych kobiet wykonało bezpłatną mammografię, to powyżej średniej krajowej",
+   "lead": "Z programu profilaktyki raka piersi finansowanego przez NFZ skorzystało na Pomorzu ponad 39 proc. uprawnionych kobiet, przy średniej krajowej przekraczającej 34 proc. Najwyższe wyniki odnotowano w powiatach kartuskim, tczewskim i kościerskim, gdzie przebadanych kobiet było ponad 43 proc. W powiecie kartuskim wskaźnik wyniósł 45,49 proc. Badanie wykonuje się bez skierowania u kobiet w wieku 45–74 lat, które nie robiły mammografii w ciągu ostatnich 24 miesięcy. Termin można zarezerwować przez Internetowe Konto Pacjenta, aplikację mojeIKP lub telefonicznie.",
    "kategoria": "med",
    "kraj": "PL",
    "zrodlo": "Dziennik Bałtycki",
    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPREVKR0VLZ3ZOWTVjNVBIVF8xRXlHV25DTVhuMWFhNGRKQzVQM2tuZ1Y3Sk5QdVNEMkZoenV3OHlZdTVjMWR5RjNQd1lkcWlpQ1pDU25ocDBMOHl2cEVweTY5OEpYTmREcTV2cWduVV9jeF9wdkJBUzVONUR5bmVpdVdtcUZmUFluTm1ILW83aUtxX2JKRzZCLTBuWWJDdDdjS3hiUTkwRlVtNUQ5MWZmSVRqSWhsUVlBdVAwUDVhX1VJT2FfRWZGX2U4Z1A2LVlncFlPd2t3VEpMYlpTcFFQUVZvSnhhMTZrSUI4a1dlY2lVaEoxZkFDU2ozaS1IZ0d6bzJjRm5tVkdyV19LcGc?oc=5",
    "data": "2026-10-30T10:05:22+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://dziennikbaltycki.pl/pomorzanki-coraz-czesciej-wybieraja-profilaktyke-region-w-krajowej-czolowce-badan-mammograficznych-akcja-kobiety-to-sila-promuje-zdrowie/ar/c1p2-29480121",
+   "rozszerzony": true
   },
   {
    "id": "11a26294cfc7",
-   "tytul": "Robotyka medyczna w Polsce. Przełomowy zabieg w Słupsku",
-   "lead": "W szpitalu w Słupsku przeprowadzono przełomowy zabieg z wykorzystaniem robotyki medycznej. Pokazuje on rozwój nowoczesnej chirurgii w Polsce.",
+   "tytul": "W Słupsku robot pomógł w pierwszym w Polsce zabiegu zespolenia żył u pacjenta z chorobą Alzheimera",
+   "lead": "Lekarze z Wojewódzkiego Szpitala Specjalistycznego w Słupsku przy użyciu robota wykonali pierwszy w Polsce zabieg mikrochirurgicznego zespolenia naczyń limfatycznych z żyłami. Operacja trwała pięć godzin, a robot stabilizował ruchy chirurga, który sterował nim z konsoli i pracował pod dwoma mikroskopami. Zabieg przeprowadzono u pacjenta z chorobą Alzheimera i miał usprawnić odprowadzanie szkodliwych substancji z mózgu. Metoda jest częścią europejskich testów, a pacjentów kwalifikuje się do niej we współpracy z neurologami z Gdańska.",
    "kategoria": "med",
    "kraj": "PL",
    "zrodlo": "Polski Przemysł",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LZGVGZ1JFREdzaW1qTFMyVExhcGNodG5aZ3dOZm9rV0U5YnN2bnR6MU9ESjB2MUdvbzBiZkhBNjZMMmFMRGpwOTIzQUx6bDhiYnYzZE5FQmFqaEdPZkJCWlpXVU9QdGlL?oc=5",
    "data": "2026-10-30T09:43:52+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://polskiprzemysl.com.pl/robotyka-medyczna-w-polsce/",
+   "rozszerzony": true
   },
   {
    "id": "b6c79c5eb037",
-   "tytul": "Czujność dzielnicowych z Pęczniewa i Zadzimia uratowała życie. Wychłodzony mężczyzna w porę trafił do szpitala",
-   "lead": "Dzielnicowi z Pęczniewa i Zadzimia zauważyli wychłodzonego mężczyznę i szybko przewieźli go do szpitala.",
+   "tytul": "Dzielnicowi z Pęczniewa i Zadzimia zauważyli leżącego mężczyznę i wezwali karetkę",
+   "lead": "Podczas wspólnej służby dzielnicowi z Pęczniewa i Zadzimia zauważyli w rejonie kompleksu leśnego przy ulicy Sportowej leżącego 47-letniego mieszkańca gminy, będącego w kryzysie bezdomności. Policjanci od razu wezwali ratowników medycznych, a mężczyzna trafił do szpitala. Dzień później funkcjonariusze odwiedzili go, by sprawdzić stan zdrowia i ustalić, jakiej pomocy potrzebuje. Lekarze stwierdzili silne wychłodzenie organizmu i uznali, że szybka reakcja prawdopodobnie uratowała mu życie.",
    "kategoria": "rescue",
    "kraj": "PL",
    "zrodlo": "Dziennik Łódzki",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQTlOZkdrZkEwZ0F2U29QSGJKdFl3VWhnS0RiRmc4TXIyMEprUTNJTUY1MGVRODJPdExySVlENlMtVEpCRGIzaXVpVTRrQ0w5NGRvdE9EQ09vLXRMWkNINm80YTV6OXdBNTd3VnZLem1jTjh1Wk03ekNiLUJIdXA3VVlJZHltRWZvb25lNzJIWDVTV0dQeG5tZmpRMHVRelU1blZqMzBNX0ROaERrOEhLZmtqdHVCSUk2d2RTbGVFMkNZa0JrYTNKLVhFQUdGYzFGeTF6Y19fTEZJZ1dJblRDbm54NVRJb1E?oc=5",
    "data": "2026-10-30T08:57:00+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://dzienniklodzki.pl/czujnosc-dzielnicowych-z-peczniewa-i-zadzimia-uratowala-zycie-wychlodzony-mezczyzna-w-pore-trafil-do-szpitala/ar/c1p2-29482955",
+   "rozszerzony": true
   },
   {
    "id": "d57b7c159887",
-   "tytul": "39-letni piosenkarz uratował turystę przed utonięciem w jaskini.",
-   "lead": "Piosenkarz w wieku 39 lat wyciągnął z wody turystę, który mógł utonąć w jaskini. Mężczyzna został uratowany.",
+   "tytul": "Piosenkarka Kangnam pomogła turystce, która miała trudności na wodzie w jaskini na Guam",
+   "lead": "Piosenkarka Kangnam szybko podpłynęła na pomoc południowokoreańskiej turystce, która w jaskini na Guam miała trudności z utrzymaniem się na powierzchni głębokiej wody. Do zdarzenia doszło podczas wspólnej podróży, nagranej dla kanału YouTube, w której uczestniczyli również Kian84 i aktor Lee Si Eon. Gdy turystka zorientowała się, że nie sięga dna, wpadła w panikę, a Lee Si Eon zawołał Kangnam o pomoc. Kobieta pomogła jej bezpiecznie wydostać się z wody, a turystka później przeprosiła za zamieszanie.",
    "kategoria": "rescue",
    "kraj": "VN",
    "zrodlo": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWtZaVRDYlNLVW5LNVhnRVJCTkJJZWRFZ2NyR3R5YTkza1h6dGxGR3BocjdBSVNkQkVZMFk0Zzd6Q2pEV3FXMmdLSHpSc0FUV2hGX0NKemp2Vm90Qk9DZzZrZHBRNHpITjFlczRoTkVDbEo1cXhZRHpoQWxlLVQ3cFhhd2szNHdJZmc?oc=5",
    "data": "2026-10-30T08:42:34+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://www.vietnam.vn/pl/nam-ca-si-39-tuoi-cuu-du-khach-duoi-nuoc-trong-hang-dong",
+   "rozszerzony": true
   },
   {
    "id": "c723384b1b40",
-   "tytul": "Osiem maluchów w siedem dni! Niezwykły tydzień na porodówce",
-   "lead": "W ciągu jednego tygodnia na porodówce w Białymstoku przyszło na świat osiem dzieci.",
+   "tytul": "W ciągu tygodnia na świat przyszło ośmioro dzieci z czterech ciąż bliźniaczych",
+   "lead": "Między 22 a 28 października w szpitalu urodziło się ośmioro dzieci z czterech ciąż bliźniaczych. Jako pierwsze przyszły na świat bliźniaczki Maja i Ada, a potem Aniela i Iza, Sylwia i Alex oraz dwaj chłopcy. Jak informuje placówka, w całym październiku urodziło się tam dziewięć par bliźniąt, a kolejna para czeka na narodziny, gdyż mama przebywa na oddziale patologii ciąży. Szpital, posiadający najwyższy, trzeci stopień referencyjności, rocznie przyjmuje blisko dwa tysiące dzieci.",
    "kategoria": "med",
    "kraj": "PL",
    "zrodlo": "Bia24.pl",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0hleFplTzdxNi1Eem9DOFE3M29ETXdXOEtBdG1wZjJJQ20xUGRnMUJjTXdPNy1JQVMtXy1vMnhLSmRmWkJJc09NZ0ZBc1lKQ2xTU19ubjBqNkVaTUo0Tm1sNTFZYi00d1dQTmF1TVJtdGl6NkVYYUlhWktfWlRodVpDVTF0NUdBOWRGQTd3VEFfR3pGblA3Mkhmcm5VUVA4SnNWRA?oc=5",
    "data": "2026-10-30T08:42:03+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://bia24.pl/kategorie/wiadomosci/osiem-maluchow-w-siedem-dni!-niezwykly-tydzien-na-porodowce.html",
+   "rozszerzony": true
   },
   {
    "id": "511517c37fd5",
-   "tytul": "Malowidła wykonywane ogniem. Poznaliśmy tajemnicę sztuki naskalnej sprzed 37 tysięcy lat",
-   "lead": "Badacze ustalili, jak powstawały malowidła naskalne sprzed 37 tysięcy lat, wykonywane przy użyciu ognia. To pozwala lepiej zrozumieć dawnych artystów.",
+   "tytul": "Naukowcy: część malowideł w Jaskini Chauveta powstała przy użyciu węgielków i pochodni",
+   "lead": "Zespół prof. Philippe'a Waltera przeanalizował malowidła w Jaskini Chauveta we Francji, które powstały około 37 tysięcy lat temu, bez dotykania ścian. Badacze użyli światła ultrafioletowego i mobilnego spektrometru, dzięki czemu wykryli cienką, przezroczystą warstwę kalcytu osadzoną przez spływającą wodę. Działała ona jak naturalny werniks, chroniąc czarny pigment węgla drzewnego. Podczas pomiarów zauważono też ślady termicznego przekształcenia skały, co wskazuje, że niektóre fragmenty wykonano rozżarzonymi węgielkami lub pochodniami.",
    "kategoria": "sci",
    "kraj": "ŚW",
    "zrodlo": "National Geographic Polska",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVk81Ym5teWhPQ0h3Ykl6RG5yeTRyRGFfdlRqeVdWczkzdFVLS2FmOTFoeS10dEQyc25USGhZektiSEhRbU82NXlQWl9Od3hvczRHdUxoamlSTHh0SUkxaDdmTTI4bTlGS2NNMDZ1N3NGMkpXYjBTWjVNMXV4QUFhQy1kSVlqcXNSWm1jdmRFU3REVlk3cVRlWDJZWTRVOGw1OEtBc05FTmU3QlVzbk9EMTlMZExSX2VpWUdWQnJLQ1h5Q3NGMWp4U3hSQXNDZktmekY0?oc=5",
    "data": "2026-10-30T08:39:18+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://www.national-geographic.pl/historia/ogien-w-sluzbie-paleolitycznych-mistrzow-sztuki-naskalnej-niezwykle-badania-jaskini-chauveta/",
+   "rozszerzony": true
   },
   {
    "id": "d1c98b2d189b",
    "tytul": "Klinika Ortopedii USK w Białymstoku po remoncie. Inwestycja kosztowała 14 mln zł",
-   "lead": "Klinika ortopedii Uniwersyteckiego Szpitala Klinicznego w Białymstoku przeszła modernizację za 14 mln zł.",
+   "lead": "Klinika Ortopedii, Traumatologii i Chirurgii Ręki USK w Białymstoku zakończyła modernizację, pierwszą tak obszerną od 2000 roku, która kosztowała około 14 mln zł. Powstały sale jedno-, dwu- i trzyosobowe, każda z własną łazienką, nowy punkt przyjęć planowych z poczekalnią oraz sala zabiegowa, dzięki której część procedur będzie wykonywana w trybie jednego dnia. Klinika otrzymała też nowy sprzęt, m.in. kardiomonitory, aparaty USG i łóżka szpitalne. Podczas otwarcia podpisano umowę o współpracy z ośrodkiem w Otwocku, która ma ułatwić konsultacje trudnych przypadków i szkolenie lekarzy.",
    "kategoria": "med",
    "kraj": "PL",
    "zrodlo": "Bia24.pl",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkpuUUJES01GM1FZUmZ0TUhvYThyLXRZbVFjTWZZLU11MGNtX1lqTTRMR0FLdGh4eGU4QU9vVVVwVG10Zl9COF9LcEdEam1LWTRIWGVXdHJkaDFraXNIX1NaTWd2S0I0QnYwRnZ0bXZfZjRvSVBnM0R6YUZ0OVBQTngyWHFMRWlBdTQ5aEJsamlrVkZpMHh2aGJ6ODdfLXdzQktQVXRwd3plNGlqVVBBam9fd3ZEOVNZTGkxQ2FmQzQ?oc=5",
    "data": "2026-10-30T08:29:51+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://bia24.pl/kategorie/wiadomosci/klinika-ortopedii-usk-w-bialymstoku-po-remoncie.-inwestycja-kosztowala-14-mln-zl.html",
+   "rozszerzony": true
   },
   {
    "id": "20165ac38f6c",
-   "tytul": "\"To nowa nadzieja dla chorych na alzheimera\". Polski szpital dołącza do światowej elity",
-   "lead": "Polski szpital dołączył do międzynarodowej grupy ośrodków, które oferują nową metodę leczenia choroby Alzheimera. Pacjenci zyskują szansę na terapię, która może spowolnić postęp choroby.",
+   "tytul": "Słupski szpital przeprowadził pierwszy w Polsce zabieg mikrochirurgiczny u pacjenta z chorobą Alzheimera",
+   "lead": "Wojewódzki Szpital Specjalistyczny w Słupsku wykonał pierwszy w Polsce zabieg mikrochirurgiczny u pacjenta z chorobą Alzheimera na wczesnym etapie. Operacja, przeprowadzona 20 października, miała odbarczyć układ glimfatyczny, który usuwa z mózgu szkodliwe produkty przemiany materii, i sprawdzić, czy da się w ten sposób wesprzeć leczenie. Tydzień po zabiegu pacjent lepiej kontaktuje się z otoczeniem, a jego sen się poprawił. Kierujący operacją dr Daniel Maliszewski zaznacza, że wyniki na świecie są zróżnicowane, a metoda wymaga dalszych badań.",
    "kategoria": "med",
    "kraj": "PL",
    "zrodlo": "Medonet",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0VMVXYtYnRoQzEzRmlwZ1dFZmxEbkJaM1ItWVIxcDRvdkVOZkdCVWtyRnd4Wnk5TEhHZTFOeUJzX0tycGVKdm5KOFA1dFRPMFV3TjJSMkZsVHpxZ096UTF6NzRKSkRNTWh5RVlpakJPckxrazk1Z3pKck1RWFFPbW1IOWxscW1sMkhlQ2JLQ3gyeWZhRnFOU2xMc0k5ZDczMTdlLWxoOEhmcHJHU0M4SkQ2eTdWLXpFX2pSNVNkblY0ZTZJMDNhLU82UGRZMG9sNFFB?oc=5",
    "data": "2026-10-30T05:00:00+00:00",
    "przetlumaczone": false,
-   "wstepne": true
+   "wstepne": true,
+   "url_zrodla": "https://www.medonet.pl/choroby-od-a-do-z/choroby-neurologiczne/nowa-nadzieja-dla-chorych-na-alzheimera-mikrochirurgia-daje-efekty/bv3vp03",
+   "rozszerzony": true
   },
   {
    "id": "130bcaed195c",
-   "tytul": "Ratownicy uratowali dwie studentki prawa z Uniwersytetu Prawa w Ho Chi Minh, które zgubiły się podczas wspinaczki górskiej.",
-   "lead": "Ratownicy odnaleźli dwie studentki prawa z Ho Chi Minh, które zgubiły się podczas wspinaczki górskiej.",
+   "tytul": "Dwie studentki z Ho Chi Minh, które zabłądziły w górach, zostały odnalezione i bezpiecznie sprowadzone",
+   "lead": "Dwie studentki Uniwersytetu Prawa w Ho Chi Minh zabłądziły podczas schodzenia z góry Thi Vai i trafiły w okolice góry Ong Trinh. Po zgłoszeniu 29 października rozpoczęła się akcja z udziałem straży pożarnej, policji, dowództwa wojskowego i lokalnych służb, a dziewczęta odnaleziono około 5 km od punktu początkowego. Obie sprowadzono w dół w nocy. Policja przypomina, by wybierać się w góry w grupie z kimś znającym teren, zabrać wodę i latarkę oraz poinformować rodzinę o planie wyprawy.",
    "kategoria": "rescue",
    "kraj": "VN",
    "zrodlo": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa294d09XeGM2NlJqUnFEbHdxN1A0ZEpReWZOb3dVT1Rwc1I4cDl6dkZuaVBRaExDSkN2SHBtdENKVVY2RzdsbmZBS2E4cWhlTUJreTlOenZTZXR4MVN2LXlXVmxQX0FRY2lwQ3k0ZUR2SndVdE5tVEd1MUpZUXpXRU44cmk3QQ?oc=5",
    "data": "2026-10-30T03:24:07+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://www.vietnam.vn/pl/cuu-hai-nu-sinh-dai-hoc-luat-tphcm-bi-lac-khi-leo-nui",
+   "rozszerzony": true
   },
   {
    "id": "77d86e66d271",
-   "tytul": "Japońscy naukowcy odkryli białko OMC1 wspierające spójność chromosomów komórek jajowych — News-Medical",
-   "lead": "Japońscy badacze odkryli białko OMC1, które pomaga utrzymać spójność chromosomów w komórkach jajowych. To ważny krok w zrozumieniu podstaw rozrodczości.",
+   "tytul": "Japońscy naukowcy odkryli białko OMC1 wspierające spójność chromosomów w komórkach jajowych",
+   "lead": "Zespół z Uniwersytetu Chiba, kierowany przez prof. Keiichiro Ishiguro, opisał w Nature Aging białko OMC1, które pomaga utrzymać spójność chromosomów w komórkach jajowych od okresu płodowego po dorosłość. Z wiekiem kompleks REC8, spajający chromosomy, stopniowo słabnie, co zwiększa ryzyko nieprawidłowej liczby chromosomów. U myszy bez genu Omc1 spójność była osłabiona już w młodych komórkach, a przywrócenie białka w dorosłych oocytach częściowo odtworzyło REC8 i zmniejszyło liczbę błędów. Badacze zaznaczają, że OMC1 nie zatrzymuje starzenia, lecz wydłuża „chromosomalne życie” komórek.",
    "kategoria": "sci",
    "kraj": "JP",
    "zrodlo": "UA.NEWS",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVdYbmhFeVhZNFZja3pIZzFydzM3eTZWa1p3VHVQS0JoN3pHeUVEa1NpbGdEUXBwWlBjZXBBWVlxR19oYWZGeFRoOFRHYnl0dXBUeWhxbHJHTXItcU9GanNvQlU4aDNUcVRtOGVidGNjcDd4LTd3LTBwcHFHQzdEZlVwYXZlSXpNNVpRY1BXYzgxNVM1UkQ4MjI2cklSbjlyYTI3bzFlQ1YwdGRmMEJWSzkyaTdwSVRXVHp4Zjlva1lmRUFDZ3VpSg?oc=5",
    "data": "2026-10-30T02:55:02+00:00",
    "przetlumaczone": false,
-   "wstepne": true
+   "wstepne": true,
+   "url_zrodla": "https://ua.news/pl/health/iaponski-naukovtsi-viiavili-bilok-omc1-shcho-pidtrimuie-zcheplennia-khromosom-iaitseklitin-news-medical",
+   "rozszerzony": true
   },
   {
    "id": "e47b996ba151",
    "tytul": "Floty pojazdów elektrycznych chronią Europę przed wahaniami cen ropy",
-   "lead": "Analiza think tanku Ember pokazuje, że sześć krajów europejskich dzięki samochodom elektrycznym zaoszczędziło około 2 miliardów euro na imporcie ropy.",
+   "lead": "Według analizy think tanku Ember sześć krajów europejskich uniknęło w okresie od marca do sierpnia 2026 roku kosztów importu ropy o wartości blisko 2,2 mld dolarów, czyli około 2 mld euro. Oszczędności wynikły z tego, że floty pojazdów elektrycznych ograniczyły zapotrzebowanie na importowaną ropę. Cena ropy wzrosła o 33 procent od początku konfliktu z Iranem pod koniec lutego 2026 roku, a Brent w końcu października oscylował blisko 100 dolarów za baryłkę. Wśród krajów UE największe oszczędności odnotowały Niemcy i Francja, a najwyższy udział w zużyciu ropy osiągnęła Dania, gdzie elektryki zastąpiły 13 procent zużycia z 2025 roku.",
    "kategoria": "sky",
    "kraj": "ŚW",
    "zrodlo": "The Optimist Daily",
    "url": "https://www.optimistdaily.com/2026/10/how-ev-fleets-are-shielding-europe-from-oil-price-volatility/",
    "data": "2026-10-30T00:00:47+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "3a5688e6878d",
    "tytul": "Leśnicy uratowali uwięzionego łosia",
-   "lead": "Leśnicy uwolnili łosia, który utknął i nie mógł się wydostać. Zwierzę odzyskało wolność.",
+   "lead": "Młody łoś przez wiele godzin tkwił w pułapce, bo jego poroże zaklinowało się w korzeniach brzozy. Leśniczy Jarosław Junkiewicz z Leśnictwa Janowo otrzymał zgłoszenie od przypadkowej osoby i odciął siekierą fragment korzenia. Zwierzę było jednak tak wyczerpane, że nie mogło odejść. Następnego dnia lekarz weterynarii podał leki, a przy użyciu ładowarki i specjalnych pasów pomogono łosiowi wstać. Po kilku próbach stanął na nogach i oddalił się o własnych siłach. W akcji uczestniczyli leśnicy z Nadleśnictwa Toruń oraz przedstawiciele samorządu gminy Dąbrowa Chełmińska.",
    "kategoria": "nature",
    "kraj": "PL",
    "zrodlo": "Lasy Państwowe",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0VBRWdnMjZyQTgyX0FISHBWV0dXZnhudGVDTXZpS3NvY19OdlE1bU9IdXNqQUhjOVJiVkI5MEF6ZENQM2w0M3pCNjJGSGZVdjA3WGpucW1XLXJaZ3huZG9jcFhTVXBQWmpnb0tsQlEyNU5KSkZLdGR1MXd3bVZfbUhtSE5pSlY5MVEyNFV3?oc=5",
    "data": "2026-10-29T20:28:24+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://www.lasy.gov.pl/pl/informacje/aktualnosci/lesnicy-uratowali-uwiezionego-losia",
+   "rozszerzony": true
   },
   {
    "id": "5fd0502bfc83",
-   "tytul": "Apple Watch Ponownie uratowali życie. Zaalarmowali kobietę o poważnym problemie zdrowotnym.",
-   "lead": "Zegarek Apple Watch wykrył u kobiety poważny problem zdrowotny i ją ostrzegł, co pomogło uniknąć zagrożenia dla życia.",
+   "tytul": "Alarm o wysokim tętnie w Apple Watch zwrócił uwagę na infekcję nerek",
+   "lead": "Apple publikuje historie użytkowników, których zegarki pomogły wykryć poważne problemy zdrowotne. W najnowszych materiałach Morgan dostała alarm o nietypowo wysokim tętnie. Okazało się, że ma infekcję nerek, która doprowadziła do wstrząsu septycznego. Zegarek nie postawił diagnozy, ale zasygnalizował, że z organizmem dzieje się coś niepokojącego. Inny bohater, Josh ważący około 154 kilogramów, dzięki kręgom aktywności zaczął regularniej ćwiczyć i stopniowo chudnąć. Amanda z kolei dostała ostrzeżenie o zmianach tętna spoczynkowego, a u niej wykryto ostrą białaczkę szpikową. Po leczeniu choroba weszła w remisję.",
    "kategoria": "med",
    "kraj": "ŚW",
    "zrodlo": "Letem světem Applem",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjJ5M2pFbWRHd29fOS1DYkYxalBsb1F0OFFtcWFwTllUT2NCTWt1ZGdoUTRZcFFjZTdLZEhKak9nWkctVEVkekRoZkJfeWJIYnJXX0VPV1NfOGhRdWZBMEZLNl9BWjRKQjhFUnpWNU1SOFh1VS1IUmdyR2FoaW5wdEpMQ1ptZXlCeGRrYjZmRUxPLU1FeTFUbmV6cFR5Y25JTExHRmhiS2wtMFZQQUxJcXc0Z2Q1LWJBV3kwc1VOYkwxZkk5U2FZ?oc=5",
    "data": "2026-10-29T20:03:06+00:00",
    "przetlumaczone": false,
-   "wstepne": false
+   "wstepne": false,
+   "url_zrodla": "https://www.letemsvetemapplem.eu/pl/2026/10/29/apple-watch-znovu-zachranovaly-zivoty-zenu-upozornily-na-vazny-zdravotni-problem/",
+   "rozszerzony": true
   },
   {
    "id": "2f84964318ba",
-   "tytul": "Niepełnosprawny weteran otrzymał podarowany samochód pięknie odnowiony przez uczniów z technikum mechanicznego",
-   "lead": "Weteran marynarki z Minneapolis, który od lat nie miał własnego auta, dostał odnowiony pojazd. Uczniowie szkoły inżynierskiej w Minnesocie przygotowali samochód w ramach programu przekazującego auta szkołom.",
+   "tytul": "Weteran marynarki z Minneapolis dostał odnowiony samochód od uczniów szkoły inżynierskiej",
+   "lead": "Robert Hanson, weteran US Navy z Minneapolis, od ponad dwóch lat nie ma własnego samochodu. Ciężka astma i fibromialgia utrudniają mu korzystanie z komunikacji publicznej. Dzięki programowi Recycled Rides dostał Hyundaia Elantrę z 2020 roku, którą odnowili studenci Dunwoody College of Engineering. Auto przekazał partner organizacji, firma Allstate, po wcześniejszej kolizji. Hanson przyznaje, że dotąd chodził pieszo po zakupy, a teraz będzie mógł robić je w bardziej przystępnych miejscach i wrócić do aktywnego życia. Uczniowie, którzy pracowali nad autem, zobaczyli na miejscu efekty swojej pracy.",
    "kategoria": "rescue",
    "kraj": "US",
    "zrodlo": "Good News Network",
    "url": "https://www.goodnewsnetwork.org/disabled-veteran-receives-donated-car-beautifully-refurbished-by-auto-collision-students/",
    "data": "2026-10-29T18:30:19+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "89cb69f21b5b",
-   "tytul": "Obserwacja ptaków pobudza mózg i spowalnia spadek funkcji poznawczych",
-   "lead": "Nowe badania sugerują, że osoby przyswajające wiedzę potrzebną do rozpoznawania ptaków lepiej utrzymują plastyczność mózgu. Wyniki są wstępne, ale mogą wskazywać na sposób zdrowszego starzenia się.",
+   "tytul": "Obserwacja ptaków może wiązać się z lepszą pracą mózgu, pokazują badania",
+   "lead": "Badanie przeprowadzone w Baycrest w Toronto pod kierunkiem Erika Winga wykazało w rezonansie magnetycznym większą aktywność obszarów odpowiedzialnych za uwagę i rozpoznawanie obrazu. Najwięcej dało się zaobserwować wtedy, gdy trudno było określić gatunek ptaka. U ekspertów widać też lepiej zorganizowaną strukturę mózgu niż u początkujących. Osobne badanie 388 obserwatorów z Polski pokazało, że ci, dla których hobby jest ważne, odczuwali większe psychiczne odprężenie. Autorzy sugerują, że zacząć nigdy nie jest za późno, a największe korzyści może przynieść połączenie pasji i wiedzy.",
    "kategoria": "sci",
    "kraj": "ŚW",
    "zrodlo": "Good News Network",
    "url": "https://www.goodnewsnetwork.org/birdwatching-rewires-the-brain-and-slows-cognitive-decline/",
    "data": "2026-10-29T15:30:03+00:00",
    "przetlumaczone": true,
-   "wstepne": true
+   "wstepne": true,
+   "rozszerzony": true
   },
   {
    "id": "8ad9102c7c21",
-   "tytul": "Rzymianie tworzyli szkło zmieniające kolor, a po 1600 latach udało się je odtworzyć",
-   "lead": "Naukowcy odtworzyli technikę wytwarzania szkła dichroicznego, które zmienia barwę zależnie od kierunku światła. Słynny rzymski puchar pokazuje, jak zaawansowana była ich wiedza o materiałach.",
+   "tytul": "Naukowcy z Sheffield odtworzyli dichroiczne szkło z rzymskiego Pucharu Likurga",
+   "lead": "Puchar Likurga, rzymski kielich z dichroicznego szkła, zmienia barwę w zależności od kierunku padania światła. Jego efekt wynika z nanocząstek złota i srebra, które są mniejsze niż długość fal świetlnych. Zespół Lisy Hollands z University of Sheffield odtworzył szkło z materiałów dostępnych w czasach Rzymian, po długich eksperymentach z atmosferą i temperaturą pieca. Ian Freestone z University College London zauważył, że barwa silnie zależała od położenia w piecu, co utrudniało jej kontrolę. Finalny kielich, nawiązujący do oryginału, wykonał szklarz Elliot Walker. Ma zostać wystawiony na stałe w muzeum szkła Turnera przy Uniwersytecie w Sheff",
    "kategoria": "sci",
    "kraj": "ŚW",
    "zrodlo": "Good News Network",
    "url": "https://www.goodnewsnetwork.org/romans-made-color-changing-glass-and-weve-just-replicated-after-1600-years/",
    "data": "2026-10-29T12:46:36+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "7e42a348702e",
-   "tytul": "Smartfony, dawne umiejętności tropienia i przyszłość pustynnych lwów",
-   "lead": "W Namibii strażnicy parków łączą dane w czasie rzeczywistym z tradycyjną wiedzą, by wspierać rolników i chronić odradzającą się populację lwów.",
+   "tytul": "Namibijscy strażnicy chronią pustynne lwy dzięki smartfonom i wiedzy tradycyjnej",
+   "lead": "W północno-zachodniej Namibii lokalni strażnicy chronią jednocześnie gospodarstwa i lwy pustynne. Program Lion Rangers, działający od 2018 roku w 11 konserwatoriach, łączy pracę w terenie z smartfonami, fotopułapkami i obrożami GPS. Populacja lwów odbudowała się z około 20 dorosłych osobników w 1997 roku do około 180 w 2015 roku, lecz od połowy lat 2010. liczba ich naturalnych ofiar spadła o około 72,5%, więc koty coraz częściej polują na zwierzęta gospodarskie. Od 2021 roku patrole zapisują obserwacje w aplikacji SMART, co pozwala szybciej reagować.",
    "kategoria": "nature",
    "kraj": "NA",
    "zrodlo": "Positive News",
    "url": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
    "data": "2026-10-29T07:00:10+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "efccb96dc64c",
    "tytul": "Kenia uruchamia 160 mln dolarów na ochronę ekosystemów Masai Mara i Tsavo",
-   "lead": "Kenia przeznaczy 160 mln dolarów w ciągu dziesięciu lat na ochronę prawie 173 tys. km² mało przekształconych terenów. Program nosi nazwę Thamani Asili i obejmuje Wielką Dolinę Ryftową oraz Masai Mara.",
+   "lead": "Kenia przeznacza 160 mln dolarów w ciągu dziesięciu lat na ochronę 173 tys. km² terenów, m.in. Wielkiej Doliny Ryftowej i Masai Mara. Program Thamani Asili jest finansowany po połowie przez rząd i prywatnych darczyńców, w tym spadkobierców fortun rodzin Walton i Cargill. Pieniądze będą wypłacane warunkowo, po spełnieniu konkretnych zmian w polityce państwa, a nie na podstawie samych deklaracji. Według The Nature Conservancy obecnie chronionych jest 20–23% powierzchni Kenii, a plan ma pomóc zbliżyć się do celu 30% do 2030 roku.",
    "kategoria": "nature",
    "kraj": "KE",
    "zrodlo": "The Optimist Daily",
    "url": "https://www.optimistdaily.com/2026/10/kenya-unlocks-160-million-to-protect-the-maasai-mara-and-tsavo-ecosystems/",
    "data": "2026-10-29T00:00:06+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "cf597f711744",
@@ -1533,54 +1633,6 @@
    "zrodlo": "The Optimist Daily",
    "url": "https://www.optimistdaily.com/2026/10/meet-vivian-ho-the-17-year-old-who-built-a-supply-network-around-dignity-not-charity/",
    "data": "2026-10-28T00:00:04+00:00",
-   "przetlumaczone": true,
-   "wstepne": false
-  },
-  {
-   "id": "b1fdbcf329ee",
-   "tytul": "Badanie: sieci z wyglądającymi jak oczy bojami i latawcami chronią ptaki morskie przed połowem",
-   "lead": "Badanie prowadzone u wybrzeży Kornwalii wykazało, że sieci z latawcami przypominającymi drapieżniki i wirującymi bojami w kształcie oczu rzadziej łapią nurzyki i alki. Pomysł może pomóc chronić ptaki morskie.",
-   "kategoria": "nature",
-   "kraj": "GB",
-   "zrodlo": "Good Good Good",
-   "url": "https://www.goodgoodgood.co/articles/buoy-kite-seabirds-fishing-nets",
-   "data": "2026-10-27T17:13:00+00:00",
-   "przetlumaczone": true,
-   "wstepne": false
-  },
-  {
-   "id": "4a5959bce724",
-   "tytul": "15-latka opracowała kody QR, dzięki którym ratownicy szybko znajdą ważne informacje medyczne",
-   "lead": "Aanya Mansani z Teksasu stworzyła platformę z kodami QR, która pozwala szybko odczytać dane medyczne osoby potrzebującej pomocy. Pomysł powstał po tym, jak jej koleżanka zemdlała w szkole.",
-   "kategoria": "sci",
-   "kraj": "US",
-   "zrodlo": "Good Good Good",
-   "url": "https://www.goodgoodgood.co/articles/teen-invention-qr-code-aanya-mansani",
-   "data": "2026-10-27T17:02:00+00:00",
-   "przetlumaczone": true,
-   "wstepne": false
-  },
-  {
-   "id": "41a4fc186c1c",
-   "tytul": "Zatwierdzenie leczenia próchnicy bez wiertła może być bliskie po udanym badaniu fazy 3",
-   "lead": "Amerykańska Agencja ds. Żywności i Leków może wkrótce zatwierdzić płynną powłokę chroniącą zęby przed próchnicą. Pozwoli to oszczędzić dzieciom bólu, wiercenia i zabiegów pod narkozą.",
-   "kategoria": "med",
-   "kraj": "US",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/fda-approval-for-drill-free-cavity-care-may-be-imminent-after-great-phase-3-treatment-trial/",
-   "data": "2026-10-27T16:30:24+00:00",
-   "przetlumaczone": true,
-   "wstepne": false
-  },
-  {
-   "id": "ad757dcebb00",
-   "tytul": "Organizacja pozarządowa świętuje 70 milionów akrów ochronionego lasu deszczowego",
-   "lead": "Rainforest Trust pomogła stworzyć rezerwat przyrody o powierzchni 715 tysięcy akrów w Boliwii, wzdłuż rzeki Iténez. Obszar jest domem dla jaguarów i innych rzadkich gatunków.",
-   "kategoria": "nature",
-   "kraj": "BO",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/ngo-celebrates-70-million-amazon-acres-conserved-after-protecting-are-called-a-link-of-life/",
-   "data": "2026-10-27T13:00:06+00:00",
    "przetlumaczone": true,
    "wstepne": false
   }
