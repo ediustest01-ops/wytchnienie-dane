@@ -1,6 +1,46 @@
 {
- "aktualizacja": "2026-11-04T16:23:04.079721+00:00",
+ "aktualizacja": "2026-11-04T22:39:31.399522+00:00",
  "wiesci": [
+  {
+   "id": "cf85a14ec4bf",
+   "tytul": "Brazylia powiększa park narodowy Pantanal Matogrossense o ponad 25 procent",
+   "lead": "Brazylijskie władze ochrony środowiska powiększyły park narodowy Pantanal Matogrossense o ponad 25 procent jego pierwotnej powierzchni. Park miał 523 mile kwadratowe, a dołączono do niego 185 mil kwadratowych, co niemal odpowiada dodaniu obszaru wielkości Redwoods National Park w Stanach Zjednoczonych. Zmiana ma chronić jeden z najbogatszych i najbardziej wrażliwych biomów na Ziemi.",
+   "kategoria": "nature",
+   "kraj": "BR",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/brazil-expands-protected-area-for-one-of-the-richest-and-most-sensitive-biomes-on-the-planet/",
+   "data": "2026-11-04T19:30:10+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "c9e3aeebfed5",
+   "tytul": "Prof. Andrzej Bochenek wspomina pierwszy w Polsce przeszczep serca, wykonany w Zabrzu",
+   "lead": "5 listopada 1985 roku w Zabrzu przeprowadzono pierwszy udany przeszczep serca w Polsce, pod kierownictwem prof. Zbigniewa Religi, z udziałem prof. Andrzeja Bochenka i prof. Mariana Zembali. Po 41 latach prof. Bochenek wspomina ten przełom, który otworzył drogę do rozwoju transplantologii, kardiologii i kardiochirurgii. Współczesna opieka coraz częściej łączy diagnostykę, leczenie i rehabilitację możliwie blisko miejsca zamieszkania pacjenta. Prof. Bochenek sprawuje nadzór merytoryczny nad Centrum Kardiologii i Kardiochirurgii American Heart of Poland w Bielsku-Białej.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "KoszalinInfo",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmloSzFiY3pHRHZURlNrazdvYWszemhIRUx5cXpZRGRTaHQ2VW81bWVINkNjNmR3MVNQRDRWMkJYOTFNeXU3N0xPc2Q2bnRJRDJudUUxNnBjT3UzWUtLS1FBVzlXQTFIdE5SY0F4MEZRWG9NYkl4UzlaX2NCWHFxaDJxOWZCV1RnRUJWN2dLa1hLVkhEMTF4Nk12UDdmUFZHeU9HbVAxZ2U4UV96d0Naamhkb3JQT3lwTUt3?oc=5",
+   "data": "2026-11-04T17:25:55+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://koszalininfo.pl/pierwszy-przeszczep-serca-w-polsce-prof-andrzej-bochenek-wspomina-przelomowa-operacje-w-zabrzu/",
+   "rozszerzony": true
+  },
+  {
+   "id": "620500f96ab2",
+   "tytul": "W Houston otwarto warsztat samochodowy prowadzony przez uczniów szkoły średniej",
+   "lead": "W dzielnicy Fifth Ward w Houston otwarto warsztat samochodowy, w którym pracują uczniowie z klasy inżynierii motoryzacyjnej. Młodzi mechanicy wykonują wymianę oleju, rotację opon i diagnozują usterki. Informację przekazał Houston Chronicle, a tekst nie zawiera dalszych szczegółów o organizacji warsztatu.",
+   "kategoria": "people",
+   "kraj": "US",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/student-run-automotive-shop-opens-to-the-public-in-houston-where-every-oil-change-helps-the-next-generation/",
+   "data": "2026-11-04T16:30:37+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "c8a65928b80e",
    "tytul": "Pożar w centrum biznesowym w Tbilisi. Wszyscy dziennikarze redakcji Formula TV wyszli z budynku",
@@ -12,6 +52,20 @@
    "data": "2026-11-04T14:25:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "9e0b44bb7ee5",
+   "tytul": "Mieszkańcy Gryfina zebrali fundusze na upamiętnienie Edwarda Bednarskiego",
+   "lead": "Zbiórka zorganizowana przez mieszkańców Gryfina zakończyła się sukcesem, a zebrane pieniądze przeznaczono na upamiętnienie Edwarda Bednarskiego.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "igryfino.pl",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekhMRmdjcnZYRlJ6ZXRuNm5NeVM5TWJqVm1WUDQxVm53VzBZWE9ETzBuWWF4b0Zobl9jMGNnc282X2pqRWV5aVdoZVZBamdJT1NFRlpBR3h6YmNKOFBGVElSRUJsTFpLZUlra2N2UTBza0ZQNlNqMWlMRXJlT3o0b0t3WkFYNkY3d0Y0ci1ESzRGMW1TZXpCV2pvWUw1MnZQb0ZwVm5hS1JESFBlTnNURWlkN1JObXRlVXlkZFE5bTVLOEN2ZDJ6NmN0R3V1TWhrajFj?oc=5",
+   "data": "2026-11-04T13:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.igryfino.pl/artykul/57060,udana-zbiorka-w-gryfinie-mieszkancy-zebrali-fundusze-na-upamietnienie-bohatera-edwarda-bednarskiego",
    "rozszerzony": true
   },
   {
@@ -43,17 +97,17 @@
    "rozszerzony": true
   },
   {
-   "id": "abdca412adc6",
-   "tytul": "Czujka tlenku węgla w Mąkoszycach pomogła uratować kobietę",
-   "lead": "1 listopada w Mąkoszycach w domu jednorodzinnym zadziałała czujka tlenku węgla i dymu. Strażacy z Ostrzeszowa weszli siłowo do mieszkania i znaleźli tam śpiącą kobietę, którą wyprowadzili w bezpieczne miejsce, udzielając jej pierwszej pomocy. Źródłem zadymienia było jedzenie pozostawione bez nadzoru w piekarniku. Służby apelują o montaż czujek dymu i tlenku węgla oraz regularne przeglądy instalacji.",
+   "id": "be7613f24517",
+   "tytul": "W Mąkoszycach czujka uratowała życie kobiecie",
+   "lead": "1 listopada około godziny 2.20 w Mąkoszycach w domu jednorodzinnym zadziałała czujka tlenku węgla i dymu, co zaalarmowało służby. Strażacy z Ostrzeszowa weszli do mieszkania siłowo i znaleźli śpiącą kobietę, którą wyprowadzili w bezpieczne miejsce i udzielili jej pierwszej pomocy. Źródłem zadymienia było jedzenie pozostawione bez nadzoru w piekarniku. Straż pożarna apeluje o montaż czujek w każdym domu i mieszkaniu.",
    "kategoria": "rescue",
    "kraj": "PL",
    "zrodlo": "Radio SUD",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaE04RjZ0WENlSEs4OTVCQzl6TXkwc0xleUwtcnhaSmtNRGpVMGU1U3ltcnAxcE0xTklFZWYxT3JlU2RKN3IxbjIwLXB3b2N3Q1F3b0ZFQl8xdS05X2RydDlwbUM3OElHSWgwblF5V3hPT2U2VktNenpwQm5xOHpaMXFZOA?oc=5",
-   "data": "2026-11-04T10:50:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoTlMyTVlWR2tlYnlBbFBuOUFrZjJDQWRfZjRsNFRHOG5uQWgteUlOMVc3Q1JzVHVmRVN2QXhELUNyZzRtb1BhSTJCdDhOblZ0QXRmU1RWNElhbmlCVnROaXNrY3hEMllhbE4tU2VVRHU4aTNIbmc?oc=5",
+   "data": "2026-11-04T10:52:20+00:00",
    "przetlumaczone": false,
    "wstepne": false,
-   "url_zrodla": "https://www.radiosud.pl/fakty/makoszyce-czujka-uratowala-zycie-kobiecie-36311",
+   "url_zrodla": "https://www.radiosud.pl/fakty/czujka-uratowala-zycie-kobiecie-36311",
    "rozszerzony": true
   },
   {
@@ -178,6 +232,19 @@
    "rozszerzony": true
   },
   {
+   "id": "c19c30a41db0",
+   "tytul": "Kontrolowana hipoksja może łagodzić objawy choroby Parkinsona – wstępne badanie",
+   "lead": "Badanie opublikowane w piśmie „Parkinsonism & Related Disorders” sugeruje, że krótkie, kontrolowane oddychanie powietrzem o obniżonej zawartości tlenu może łagodzić niektóre objawy choroby Parkinsona. W eksperymencie wzięło udział 30 ochotników, połowa z nich chorowała na Parkinsona, a całość trwała 39 minut. Już pojedyncza sesja obniżyła u chorych poziom kortyzolu i leptyny, a wzrost adiponektyny utrzymywał się nawet przez dobę, bez pogorszenia snu. Autorzy z UNESP w Brazylii podkreślają, że to wyniki wstępne, a metoda nie jest lekiem, lecz może być uzupełnieniem ćwiczeń fizycznych.",
+   "kategoria": "med",
+   "kraj": "ŚW",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115735%2Ckontrolowany-niedobor-tlenu-moze-pomoc-chorym-na-parkinsonizm.html",
+   "data": "2026-11-04T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": true,
+   "rozszerzony": true
+  },
+  {
    "id": "76302c677c05",
    "tytul": "Strażacy wydobyli kota, który utknął w studni",
    "lead": "W Marianowie w gminie Wodzierady strażacy wydobyli kota, który wpadł do studni i nie mógł wydostać się na powierzchnię. Zgłoszenie wpłynęło we wtorek, 3 listopada, około godz. 15, a nie dotyczyło pożaru ani wypadku. Do akcji pojechali strażacy z Jednostki Ratowniczo-Gaśniczej PSP w Łasku oraz druhowie z OSP Chorzeszów, którzy użyli sprzętu stosowanego w ratownictwie wysokościowym. Kot wrócił do właściciela cały i zdrowy.",
@@ -268,6 +335,20 @@
    "data": "2026-11-03T14:23:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "f7e3ad71a0cf",
+   "tytul": "Zoo w Chongqingu po raz pierwszy pokazało zwiedzającym młode pandy",
+   "lead": "We wtorek, 3 listopada, zoo w Chongqingu w Chinach po raz pierwszy zaprezentowało zwiedzającym młodą samicę pandy wielkiej, urodzoną 27 lipca u pandy o imieniu Mang Zai. Według ECNS publiczne pojawienie się zwierzęcia ucieszyło odwiedzających, a samica, która przy urodzeniu ważyła 187 gramów, dziś waży 6,4 kilograma. Zoo podkreśla, że młoda dobrze się rozwija pod opieką specjalnego zespołu zajmującego się hodowlą pand wielkich. Placówka utrzymuje te zwierzęta od lat 60. XX wieku, rozmnażać je zaczęto w latach 80., a obecnie ma ich łącznie 25.",
+   "kategoria": "nature",
+   "kraj": "CN",
+   "zrodlo": "UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHpFbEZYSVJfZ3l6QUdXdHk2bzZVeWVTRjhRWkhfLVRBdlZXRmJvZGZ4NVdCT3ZfRlBvbkduWWxnbC1iMHRtNkVNaFZqcmVfOFFNRmg4MDRkRlN4YVduTmZ2OE5Zd1hjd0EzRDdMTmhJWTJqVFhxQ1BTaFM3Q1c0eFdDZFhoR1BLU0dPNlZRdVlkalBGdDNHYWhjRUFNSUhDV0dQNkZkaw?oc=5",
+   "data": "2026-11-03T14:06:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://ua.news/pl/dovkolo-svitu/u-zooparku-chuntsina-vpershe-pokazali-ditincha-pandi-vidviduvacham-ecns",
    "rozszerzony": true
   },
   {
@@ -1710,19 +1791,6 @@
    "zrodlo": "Good Good Good",
    "url": "https://www.goodgoodgood.co/articles/netherlands-pledges-tropical-forests",
    "data": "2026-10-28T23:50:00+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "276216184c6f",
-   "tytul": "Filtr inspirowany roślinami wyłapuje mikroplastik ze ścieków w Atlantic City",
-   "lead": "Startup PolyGone Technologies, założony przez dwóch absolwentów Uniwersytetu Princeton, opracował urządzenie do filtrowania mikroplastiku ze ścieków na dużą skalę. Konstrukcja naśladuje rośliny hydrofobowe, które odpychają wodę, ale przyciągają cząstki plastiku, dzięki czemu można je łatwo zebrać i przekazać do recyklingu. Atlantic County Utilities Authority w New Jersey testuje je w dwuletnim programie pilotażowym w mieście liczącym około 40 tys. mieszkańców. Prototyp laboratoryjny usunął 98% cząstek, a pilotaż ma sprawdzić, czy ta skuteczność utrzyma się w skali komercyjnej.",
-   "kategoria": "nature",
-   "kraj": "US",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/",
-   "data": "2026-10-28T18:30:55+00:00",
    "przetlumaczone": true,
    "wstepne": false,
    "rozszerzony": true
