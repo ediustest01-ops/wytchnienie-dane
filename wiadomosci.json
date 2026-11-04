@@ -1,6 +1,47 @@
 {
- "aktualizacja": "2026-11-03T19:32:09.052553+00:00",
+ "aktualizacja": "2026-11-04T00:39:04.011453+00:00",
  "wiesci": [
+  {
+   "id": "76302c677c05",
+   "tytul": "Strażacy wydobyli kota, który utknął w studni",
+   "lead": "W Marianowie w gminie Wodzierady strażacy wydobyli kota, który wpadł do studni i nie mógł wydostać się na powierzchnię. Zgłoszenie wpłynęło we wtorek, 3 listopada, około godz. 15, a nie dotyczyło pożaru ani wypadku. Do akcji pojechali strażacy z Jednostki Ratowniczo-Gaśniczej PSP w Łasku oraz druhowie z OSP Chorzeszów, którzy użyli sprzętu stosowanego w ratownictwie wysokościowym. Kot wrócił do właściciela cały i zdrowy.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Fakt",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZC1LbEdmLWNhbE9wN2JMNlNlbHh0N0F0dUEwRHhNLUlMSmxlWDBCcjhTelNfaS1xVk9sR0ZBRFJoSGJKUDFiZ1NzUkRacW5MT1NTSExDMmtJRjlkQ0tKYUNudkZXb2E4SWs5R3VYLV9IaG9hS1ZMQWFsYVdQUVdxUXo1cE9FcTVNcWpVdVo3UVBwVTZyQjljU2l4OGVUaUpGaG5pSVNGOHctWnZLM3J6aTRSYi1OUkk?oc=5",
+   "data": "2026-11-03T21:47:13+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.fakt.pl/wydarzenia/polska/lodz/strazacy-uratowali-kota-ze-studni-w-marianowie-niecodzienna-akcja/808lcsy",
+   "rozszerzony": true
+  },
+  {
+   "id": "a24ff1fd69ca",
+   "tytul": "Czujka tlenku węgla i sąsiedzi pomogli mieszkańcowi Mąkoszyc",
+   "lead": "Według doniesień czujka tlenku węgla i reakcja sąsiadów mogły uratować życie mieszkańcowi wsi Mąkoszyce.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "pulstygodnia.pl",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMk01RGxmMUx0ZWJiSFdTZVZNZkhUcU84S2pSVFNoMVJ3X2lYTjdOTENTSUpUcXV4N2U4RlNFemU1QlJCTjhCZW5tdklTLVByZGJNeGpPNExCZmE1bWdNTmY1YU9ndWxzXzFFQjE4NHprS21MX3FsSGxDRVpQejgyMXRzRDlMaVByZkJJTGNkTVJheGV3WVBsVWlYRkwycFZUemNCNnhsYjl4aVBQbXY5eDh6S3lXZzJhTFJnYjlTenAtR0hrUHJweA?oc=5",
+   "data": "2026-11-03T20:12:37+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://pulstygodnia.pl/pl/11_wiadomosci/46861_czujka-tlenku-wegla-i-sasiedzi-byc-moze-uratowali-zycie-mieszkancowi-makoszyc.html",
+   "rozszerzony": true
+  },
+  {
+   "id": "513762e6e040",
+   "tytul": "Bobry po 500 latach mają wrócić nad Loch Ness",
+   "lead": "Bobry były ostatnio odnotowane w okolicy najsłynniejszego szkockiego jeziora w latach 1526–1527, a teraz mają tam wrócić po 500 latach przerwy. Te zwierzęta uznawane są za kluczowych inżynierów ekosystemu, a według opisu potrafią powalić dorosłe drzewo.",
+   "kategoria": "nature",
+   "kraj": "GB",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/loch-ness-is-about-to-welcome-a-new-monster-the-beaver-500-years-since-it-last-lived-there/",
+   "data": "2026-11-03T19:30:09+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "6b01b9a1ceb9",
    "tytul": "Kot uwięziony w grobowcu na radomskim cmentarzu uratowany po trzech dniach akcji",
@@ -347,6 +388,19 @@
    "kraj": "GB",
    "zrodlo": "Nauka w Polsce",
    "url": "https://naukawpolsce.pl/aktualnosci/news%2C115693%2Cwielka-brytania-nowy-gatunek-dinozaura-nazwany-na-czesc-oddanego-ojca-i",
+   "data": "2026-11-03T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "2c665a4a6775",
+   "tytul": "Nowy gatunek dinozaura z Anglii nazwano na cześć byłego kierownika zakładu w Ewhurst",
+   "lead": "Badacze z Muzeum Historii Naturalnej w Londynie opisali nowy gatunek roślinożernego iguanodona, Paludohadros proudlovii, na podstawie skamieniałości znalezionych w 2001 roku w zakładzie produkcji cegieł w Ewhurst w Surrey. Nazwa upamiętnia Willa Proudlove'a, byłego kierownika tego zakładu, który zmarł w wieku 35 lat krótko przed odkryciem i pozostawił żonę oraz dwoje dzieci. Dinozaur żył około 125 milionów lat temu, miał około pięciu metrów długości i ważył od 1,5 do 2 ton. Wyniki opublikowano w czasopiśmie „Journal of Systematic Palaeontology”.",
+   "kategoria": "sci",
+   "kraj": "GB",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://scienceinpoland.pl/aktualnosci/news%2C115693%2Cwielka-brytania-nowy-gatunek-dinozaura-nazwany-na-czesc-oddanego-ojca-i",
    "data": "2026-11-03T00:00:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
@@ -885,20 +939,6 @@
    "rozszerzony": true
   },
   {
-   "id": "22108ac29c73",
-   "tytul": "W Łodzi wykonano pierwszą w Polsce endoskopową mastektomię z narzędziami zrobotyzowanymi",
-   "lead": "W Instytucie Centrum Zdrowia Matki Polki w Łodzi przeprowadzono na początku października pierwszy w Polsce zabieg endoskopowej mastektomii z użyciem narzędzi zrobotyzowanych. Chirurg stoi przy pacjentce i steruje instrumentami za pomocą małej konsoli trzymanej w ręku, co według lekarzy jest krokiem między klasyczną chirurgią endoskopową a w pełni robotową. Klinika wykonała już ponad 250 zabiegów endoskopowych, a u pierwszej pacjentki po tej operacji uzyskano dobry wynik onkologiczny i bardzo dobry efekt estetyczny. Zespół podkreśla też, że ponad 80 proc. pacjentek po wcześniejszych zabiegach gojyło się bez istotnych powikłań.",
-   "kategoria": "med",
-   "kraj": "PL",
-   "zrodlo": "infoDENT24",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTJzZU4yWmtSNkx4U1hvOUhJVTN0VmNrNnJ0V1JPZ3pnV1E5Z2EyTjRPc2pjV1RWZW9jeEVvRzVCbWpyWVdsWjBPSmI4QkkxTlZfaVhVTmVUMHRsLWUxUlZZS1RYU0xaMV9ORVQ4R0Q4SmVXVDhzVGRHZkplSXY0N1Z1N2Q5YTFUblN0TnZocU1CYjFOX0xNeWRmejJfaE00SlRvX1ZsWE1KNENTSHdfOEZFeWVjMC0tbWxZQ3QxVURHUjQ?oc=5",
-   "data": "2026-11-01T14:05:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.infodent24.pl/newsdentpost/przelomowy-zabieg-mastektomii-w-lodzi-wykorzystano-zrobotyzowane-narzedzia,128354.html",
-   "rozszerzony": true
-  },
-  {
    "id": "cb815aa7b74e",
    "tytul": "Kapitan Tadeusz Wrona bezpiecznie posadził Boeinga 767 na Okęciu bez wysuniętego podwozia",
    "lead": "Samolot PLL LOT lecący z Newark do Warszawy z 231 osobami na pokładzie stracił podwozie po pęknięciu węża z płynem hydraulicznym podczas chowania kół. Mimo awarii systemów awaryjnych załoga kontynuowała lot, a myśliwce F-16 potwierdziły, że koła się nie wysunęły. Kapitan Tadeusz Wrona, który wcześniej latał na szybowcach, posadził maszynę na specjalnie przygotowanym pasie z pianą na lotnisku Okęcie. Ląduje się w nim bez przechyłów, a mimo zapłonu jednego z silników nikt z pasażerów nie odniósł obrażeń.",
@@ -1239,20 +1279,6 @@
    "rozszerzony": true
   },
   {
-   "id": "fa2f265883da",
-   "tytul": "Cząsteczka uwalniana przez mięśnie w chłodzie wydłuża życie nicieni, pokazali badacze z Kolonii",
-   "lead": "Zespół pod kierunkiem Davida Vilcheza z Uniwersytetu w Kolonii sprawdził, jak organizmy reagują na umiarkowany chłód. Wyniki opublikowano w czasopiśmie „Nature”. Okazało się, że w mięśniach powstaje metabolit dihydrobiopteryna (BH2), który rozchodzi się po ciele i chroni narządy przed starzeniem. U nicieni zwiększenie produkcji tej cząsteczki wydłużało życie nawet w zwykłej temperaturze, a na ludzkich komórkach ograniczało gromadzenie się wadliwych białek. Do leków dla ludzi droga jest jednak jeszcze daleka.",
-   "kategoria": "sci",
-   "kraj": "ŚW",
-   "zrodlo": "National Geographic Polska",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWG1zZ0hJaFotMi1HWWVDN1U5N1g1TzRYNWUxUDFrT24wTkhuWDZUempTbHFvcEs3Z3JZY2tHTXk2WTNfV2lYZDRFM1A3N2o1VXRwWjhTRjhpS0tXTVd2RER3bkZOeTZjZDl0RHFLcEI1Y0RXcVpraWw5STJFMlJZVXVkM0ZNVG80RVhIQ21Zem40RFkyaS1uamtHUmFkRjFuanBBTkxBU1A0cVVBdGY3TUZLZDIxU3NQR1N4LVdDcnI3eG5uZzBKWUxJTVJCMDNOeDVxdGp3?oc=5",
-   "data": "2026-10-30T14:37:26+00:00",
-   "przetlumaczone": false,
-   "wstepne": true,
-   "url_zrodla": "https://www.national-geographic.pl/nauka/zimno-wydluza-zycie-i-chroni-mozg-naukowcy-odkryli-ukryty-mechanizm-ktory-zaczyna-sie-w-miesniach/",
-   "rozszerzony": true
-  },
-  {
    "id": "3a048af652be",
    "tytul": "Gminy w rejonie Thap Muoi zorganizowały Dzień Dobrowolnego Oddawania Krwi.",
    "lead": "30 października gminy Thap Muoi, Doc Binh, My Qui, Thanh My i Truong Xuan zorganizowały Dzień Dobrowolnego Oddawania Krwi we współpracy ze Szpitalem Hematologicznym i Transfuzji Krwi w Can Tho. W akcji wzięli udział urzędnicy, żołnierze, członkowie młodzieżowych związków zawodowych oraz mieszkańcy. Zebrano 126 jednostek krwi po 350 ml.",
@@ -1393,20 +1419,6 @@
    "rozszerzony": true
   },
   {
-   "id": "20165ac38f6c",
-   "tytul": "Słupski szpital przeprowadził pierwszy w Polsce zabieg mikrochirurgiczny u pacjenta z chorobą Alzheimera",
-   "lead": "Wojewódzki Szpital Specjalistyczny w Słupsku wykonał pierwszy w Polsce zabieg mikrochirurgiczny u pacjenta z chorobą Alzheimera na wczesnym etapie. Operacja, przeprowadzona 20 października, miała odbarczyć układ glimfatyczny, który usuwa z mózgu szkodliwe produkty przemiany materii, i sprawdzić, czy da się w ten sposób wesprzeć leczenie. Tydzień po zabiegu pacjent lepiej kontaktuje się z otoczeniem, a jego sen się poprawił. Kierujący operacją dr Daniel Maliszewski zaznacza, że wyniki na świecie są zróżnicowane, a metoda wymaga dalszych badań.",
-   "kategoria": "med",
-   "kraj": "PL",
-   "zrodlo": "Medonet",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0VMVXYtYnRoQzEzRmlwZ1dFZmxEbkJaM1ItWVIxcDRvdkVOZkdCVWtyRnd4Wnk5TEhHZTFOeUJzX0tycGVKdm5KOFA1dFRPMFV3TjJSMkZsVHpxZ096UTF6NzRKSkRNTWh5RVlpakJPckxrazk1Z3pKck1RWFFPbW1IOWxscW1sMkhlQ2JLQ3gyeWZhRnFOU2xMc0k5ZDczMTdlLWxoOEhmcHJHU0M4SkQ2eTdWLXpFX2pSNVNkblY0ZTZJMDNhLU82UGRZMG9sNFFB?oc=5",
-   "data": "2026-10-30T05:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": true,
-   "url_zrodla": "https://www.medonet.pl/choroby-od-a-do-z/choroby-neurologiczne/nowa-nadzieja-dla-chorych-na-alzheimera-mikrochirurgia-daje-efekty/bv3vp03",
-   "rozszerzony": true
-  },
-  {
    "id": "130bcaed195c",
    "tytul": "Dwie studentki z Ho Chi Minh, które zabłądziły w górach, zostały odnalezione i bezpiecznie sprowadzone",
    "lead": "Dwie studentki Uniwersytetu Prawa w Ho Chi Minh zabłądziły podczas schodzenia z góry Thi Vai i trafiły w okolice góry Ong Trinh. Po zgłoszeniu 29 października rozpoczęła się akcja z udziałem straży pożarnej, policji, dowództwa wojskowego i lokalnych służb, a dziewczęta odnaleziono około 5 km od punktu początkowego. Obie sprowadzono w dół w nocy. Policja przypomina, by wybierać się w góry w grupie z kimś znającym teren, zabrać wodę i latarkę oraz poinformować rodzinę o planie wyprawy.",
@@ -1543,98 +1555,80 @@
   {
    "id": "cf597f711744",
    "tytul": "Holandia przeznacza 500 mln dolarów na ochronę tropikalnych lasów",
-   "lead": "Holandia zobowiązała się przekazać 500 mln dolarów w ciągu dziesięciu lat na Tropical Forest Forever Facility. Środki mają wspierać ochronę tropikalnych lasów na świecie.",
+   "lead": "Holandia zadeklarowała wsparcie w wysokości 500 mln dolarów, rozłożone na 10 lat, dla funduszu Tropical Forest Forever Facility, który ma finansować długoterminową ochronę tropikalnych lasów. Zapowiedź ogłoszono 26 października, a łączne zobowiązania wynoszą obecnie około 7,8 mld dolarów wobec docelowych 125 mld. Fundusz działa na wzór funduszu majątkowego: zyski z inwestycji mają trafiać do krajów tropikalnych, by zachęcać do utrzymania lasów. Część ekspertów, jak ekonomista ze Stanforda Bard Harstad, wyraża jednak wątpliwości co do opłacalności tego modelu.",
    "kategoria": "nature",
    "kraj": "ŚW",
    "zrodlo": "Good Good Good",
    "url": "https://www.goodgoodgood.co/articles/netherlands-pledges-tropical-forests",
    "data": "2026-10-28T23:50:00+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "276216184c6f",
-   "tytul": "Technologia inspirowana naturą zatrzymuje mikroplastik przed dostaniem się do Atlantyku wraz ze ściekami",
-   "lead": "Absolwenci Princeton zaprojektowali urządzenie, które filtruje mikroplastik ze ścieków na dużą skalę. Już działa ono w Atlantic City, a wzorem są rośliny odpychające wodę.",
+   "tytul": "Filtr inspirowany roślinami wyłapuje mikroplastik ze ścieków w Atlantic City",
+   "lead": "Startup PolyGone Technologies, założony przez dwóch absolwentów Uniwersytetu Princeton, opracował urządzenie do filtrowania mikroplastiku ze ścieków na dużą skalę. Konstrukcja naśladuje rośliny hydrofobowe, które odpychają wodę, ale przyciągają cząstki plastiku, dzięki czemu można je łatwo zebrać i przekazać do recyklingu. Atlantic County Utilities Authority w New Jersey testuje je w dwuletnim programie pilotażowym w mieście liczącym około 40 tys. mieszkańców. Prototyp laboratoryjny usunął 98% cząstek, a pilotaż ma sprawdzić, czy ta skuteczność utrzyma się w skali komercyjnej.",
    "kategoria": "nature",
    "kraj": "US",
    "zrodlo": "Good News Network",
    "url": "https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/",
    "data": "2026-10-28T18:30:55+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "03f8d86b59e9",
    "tytul": "Naukowcy odkryli, że ule pszczół mają własny „system odpornościowy”",
-   "lead": "Badania pokazują, że złożony krajobraz wokół ula może wpływać na zdolność pszczół do radzenia sobie z chorobami. To nowe spojrzenie na zdrowie pszczelich rodzin.",
+   "lead": "W badaniu 24 kolonii pszczół z pięciu pasiek w Nowej Południowej Walii sprawdzono, jak ul powstrzymuje bakterie i grzyby. Okazało się, że różne materiały, takie jak miód, propolis i pierzga, pełnią odmienne funkcje obronne i występują w różnych częściach ula. Miód zawiera głównie nadtlenek wodoru, propolis flawonoidy, a pierzga kwasy krótkołańcuchowe powstające przy fermentacji. Najsilniej o skuteczności tych substancji decydowało jednak miejsce, z którego pochodziły pszczoły, czyli otaczający je krajobraz i rośliny, z których zbierają nektar i pyłek.",
    "kategoria": "sci",
    "kraj": "ŚW",
    "zrodlo": "Good Good Good",
    "url": "https://www.goodgoodgood.co/articles/honey-bee-hives-immune-system",
    "data": "2026-10-28T15:34:00+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "0df33c903756",
-   "tytul": "Niezwykła akcja ratunkowa: nurkowie uratowali kangurka, który znalazł się ponad kilometr od lądu",
-   "lead": "Kapitan statku zauważył młodego kangura płynącego w wodach zatoki Boston Bay w Australii Południowej. Nurek i jego załoga wyciągnęli zwierzę z morza.",
+   "tytul": "Załoga łodzi uratowała młodego kangura z morza, ponad kilometr od lądu",
+   "lead": "W zatoce Boston Bay w Australii Południowej członkowie załogi łodzi zauważyli młodego kangura, który znalazł się daleko od brzegu. Zwierzę było wyczerpane, więc udało się je wciągnąć na pokład przez wejście przy poziomie wody, przy spokojnym morzu. Kilka godzin później kangur zeskoczył z plaży już o własnych siłach. Kangury czasem zbliżają się do morza i bywają wyciągane z fal, a zdarzało się to także wcześniej w tym regionie.",
    "kategoria": "rescue",
    "kraj": "AU",
    "zrodlo": "Good News Network",
    "url": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
    "data": "2026-10-28T15:30:15+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "87c289da69f5",
    "tytul": "W Kambodży w tym roku urodziło się sześć młodych delfinów, a populacja rzadkiego gatunku wzrosła do 118",
-   "lead": "Na rzece Mekong przyszły na świat sześć młodych delfinów irawaddy, jednego z najrzadszych gatunków delfinów. Całkowita liczba osobników tego gatunku wynosi teraz 118.",
+   "lead": "W rzece Mekong w Kambodży w tym roku przyszło na świat sześć cieląt delfinów irawadi, a liczba tych zwierząt wzrosła do 118. Gatunek uchodzi za święty w społecznościach nad rzeką i przyciąga turystów, a od lat 90. XX wieku jego populacja w kambodżańskim odcinku rzeki mocno spadła, z około 200 do niewiele ponad 100 zwierząt. Główne zagrożenia to kłusownictwo, sieci skrzelowe i degradacja siedlisk. Ochrona delfinów i ich środowiska może pomóc gatunkowi się odbudować.",
    "kategoria": "nature",
    "kraj": "KH",
    "zrodlo": "Good Good Good",
    "url": "https://www.goodgoodgood.co/articles/mekong-river-irrawaddy-dolphins-cambodia",
    "data": "2026-10-28T15:21:00+00:00",
    "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   },
   {
    "id": "8a16bac4936e",
-   "tytul": "Nieznajomy anonimowo zapłacił 420 dolarów za obiad dla 27 osób z niepełnosprawnościami i opiekunów",
-   "lead": "Członkowie grupy wsparcia z Incheon w Korei Południowej byli zaskoczeni, gdy obcy człowiek opłacił ich wspólny obiad. Gest został wykonany anonimowo.",
+   "tytul": "Nieznajomy w Incheon zapłacił rachunek ok. 420 dolarów za obiad grupy 27 osób z ośrodka wsparcia społecznego",
+   "lead": "Grupa 27 osób z ośrodka wsparcia społecznego w Incheon, w tym osób z niepełnosprawnościami i opiekunów, zjadła obiad w restauracji z grillem w dzielnicy Seohae. Podczas płacenia okazało się, że nieznany gość, który wcześniej wyszedł, dodał do zamówienia wysokiej jakości wołowinę za ponad 100 dolarów, przez co rachunek wzrósł do około 600 000 wonów, czyli ok. 420 dolarów. Mężczyzna zapłacił i wyszedł bez słowa, a właściciel lokalu obniżył grupie rachunek. Wolontariuszka Kim podkreśla, że to zdarzenie przypomniało im, iż wokół jest wielu życzliwych ludzi.",
    "kategoria": "rescue",
    "kraj": "KR",
    "zrodlo": "Good News Network",
    "url": "https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/",
    "data": "2026-10-28T11:30:33+00:00",
    "przetlumaczone": true,
-   "wstepne": false
-  },
-  {
-   "id": "8aec3c80a467",
-   "tytul": "Student Makers: darmowe lekcje STEM dla uczniów na trzech kontynentach",
-   "lead": "Młodzi ludzie organizują bezpłatne zajęcia z przedmiotów STEM dla uczniów na trzech kontynentach. Inicjatywa wyrosła z pomysłu nastolatka, który chciał pomagać innym w nauce.",
-   "kategoria": "sci",
-   "kraj": "US",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/10/student-makers-a-deeper-dive-bringing-free-stem-to-students-on-three-continents/",
-   "data": "2026-10-28T00:00:52+00:00",
-   "przetlumaczone": true,
-   "wstepne": false
-  },
-  {
-   "id": "161f9d989abc",
-   "tytul": "Poznajcie Vivian Ho: 17-latkę, która zbudowała sieć wsparcia opartą na godności, a nie na jałmużnie",
-   "lead": "Siedemnastoletnia Vivian Ho stworzyła sieć zaopatrzenia, z której mogą korzystać osoby potrzebujące, bez konieczności tłumaczenia swojej sytuacji. Jej projekt stawia na szacunek dla ludzi.",
-   "kategoria": "rescue",
-   "kraj": "US",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/10/meet-vivian-ho-the-17-year-old-who-built-a-supply-network-around-dignity-not-charity/",
-   "data": "2026-10-28T00:00:04+00:00",
-   "przetlumaczone": true,
-   "wstepne": false
+   "wstepne": false,
+   "rozszerzony": true
   }
  ]
 }
