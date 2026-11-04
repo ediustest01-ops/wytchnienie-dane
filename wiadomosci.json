@@ -1,6 +1,46 @@
 {
- "aktualizacja": "2026-11-04T00:39:04.011453+00:00",
+ "aktualizacja": "2026-11-04T07:32:26.141409+00:00",
  "wiesci": [
+  {
+   "id": "ac51643665e1",
+   "tytul": "Myszołów, który nie mógł latać, trafił do ośrodka rehabilitacji w Wirginii",
+   "lead": "Wolontariusze z Southwest Virginia Wildlife Center przyjęli samicę myszołowa rdzawoskrzydłego, która od pewnego czasu przebywała na podjeździe domu pod Roanoke i nie mogła wzbić się w powietrze. Badania w klinice nie wykazały złamań, zatrucia ołowiem ani problemów ze wzrokiem. Przyczynę ujawniło dopiero zważenie ptaka, które wykazało około 910 gramów, czyli znacznie więcej niż średnio waży samica. Okazało się, że u jednego z sąsiadów liczba swobodnie chodzących kur znacznie spadła, a drapieżnik regularnie najadał się łatwą zdobyczą. Wolontariusze apelują, by nie dokarmiać dzikich zwierząt i trzymać drób na zabezpieczonych wybiegach.",
+   "kategoria": "nature",
+   "kraj": "US",
+   "zrodlo": "TVN24",
+   "url": "https://tvn24.pl/tvnmeteo/swiat/usa-myszolow-nie-mogl-latac-powod-okazal-sie-niezwykly-st9321244?source=rss",
+   "data": "2026-11-04T07:10:55+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "31ea8e5c54b0",
+   "tytul": "Zakończyła się kwesta w Zduńskiej Woli",
+   "lead": "W Zduńskiej Woli zakończyła się kwesta na rzecz pomocy. Szczegóły dotyczące zebranej kwoty podaje lokalny portal eZdunska.pl.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "eZdunska.pl",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMEZGcnc5Zm50elFUQmNHOGJiaWUtdnJ5cFlvMHRYbld6YVlsSkh0eFkzVnJWVVVNY0ZvaXNUdnZ3b0g1TFpQb0ZxRVBLUDdBWjk1U2hHU2tmTlNfajluT21PUEczQU1HNUp3dGNkSGJ6MVROQzlyVlNUeTVOem1RNW53d19GMWNkZ1psaTQyemhTeTlSMXlwSlUwa1ZjbS1vRmxLOGNZNGg0NDBwZWg2dkhQVQ?oc=5",
+   "data": "2026-11-04T07:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://ezdunska.pl/wiadomosci/zakonczyla-sie-kwesta-w-zdunskiej-woli-ile-udalo-sie-uzbierac/q7auI6Cdjpfk8ljGUdhR",
+   "rozszerzony": true
+  },
+  {
+   "id": "d38e979f96d2",
+   "tytul": "Na Uniwersytecie Jana Długosza w Częstochowie otwarto Wieloprofilowe Centrum Symulacji Medycznej",
+   "lead": "Na Uniwersytecie Jana Długosza w Częstochowie oficjalnie otwarto Wieloprofilowe Centrum Symulacji Medycznej Collegium Medicum im. dr. Władysława Biegańskiego. Inwestycja warta ok. 24 mln zł została dofinansowana kwotą 20 mln zł z Krajowego Planu Odbudowy. Na powierzchni 700 metrów kwadratowych w istniejącym budynku powstały pomieszczenia imitujące POZ i SOR, blok operacyjny ze śluzą i myjnią, sala anestezjologiczna oraz sala do symulacji porodu. Zajęcia odbywać się będą przede wszystkim na kierunku lekarskim, ale skorzystają z nich także studenci innych kierunków, na których uczy się pierwszej pomocy przedmedycznej.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115751%2Cczestochowa-na-uniwersytecie-jana-dlugosza-otwarto-wieloprofilowe-centrum",
+   "data": "2026-11-04T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "76302c677c05",
    "tytul": "Strażacy wydobyli kota, który utknął w studni",
@@ -205,6 +245,20 @@
    "rozszerzony": true
   },
   {
+   "id": "b00229984edf",
+   "tytul": "Podążając za wskazówkami GPS, Casey Sparks uratowała z płonącego domu 14 osób z rodziny",
+   "lead": "Casey Sparks z Alabamy wracała z synem z turnieju softballu, gdy GPS konsekwentnie prowadził ją w stronę miasteczka Lyerly, poza standardową trasą. Na wzgórzu zauważyła duże światło, a podjechawszy bliżej, zobaczyła, że dach domu stoi w płomieniach. Po wezwaniu pomocy weszła do budynku, by obudzić domowników, a następnie wyprowadzała dzieci, wracając po kolejne osoby, zamiast czekać na ratowników. Dzięki temu wszystkich 14 członków rodziny Burke wyszło bez obrażeń. Pożar zniszczył jednak dom i trzy samochody, a jego przyczyna nie została jeszcze ustalona.",
+   "kategoria": "rescue",
+   "kraj": "VN",
+   "zrodlo": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVBIV2xaX2VBcGdUd29pWXo3S2hsS21WQ0l5ZlB0Q0U2UnlWZDdWTi1HU1l2akcxd3ExR3ZqVU8yZHNoQzU2M3IyNFhyVkF6SUt1UlBDTmg3UDlqdHYxZXFHRm4tNno1R09nRUthLVJyUmt1N01IZERMS2htU0RIWk1zekRUSXRMX0N6SV9uWVQ4X0dPTldTekVXNThnWmkxc2c?oc=5",
+   "data": "2026-11-03T11:39:49+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.vietnam.vn/pl/di-lac-duong-nguoi-dan-ong-cuu-gia-dinh-14-nguoi-thoat-chet-trong-gang-tac",
+   "rozszerzony": true
+  },
+  {
    "id": "eaef11cb942c",
    "tytul": "Pięć osób uratowanych po trzech miesiącach dryfowania na Pacyfiku Południowym",
    "lead": "Pięć osób uratowali mieszkańcy wysp u wybrzeży Kiribati, po tym jak ich łódź dryfowała przez około trzy miesiące. Według ABC łódź płynęła z wyspy Murilo na wyspę Ruo w Mikronezji, lecz nagła burza zniosła ją na otwarte morze, około 5400 km na wschód. Na pokładzie było dziewięć osób, a 30 lipca przestała wrócić na Ruo. Ocaleni byli poważnie odwodnieni i niedożywieni, ale ich stan stopniowo się poprawia. Cztery osoby wciąż są zaginione, a Straż Przybrzeżna USA nadal weryfikuje informacje o ich losie.",
@@ -216,6 +270,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.vietnam.vn/pl/giai-cuu-5-nguoi-troi-dat-tren-bien-suot-3-thang-tai-nam-thai-binh-duong",
+   "rozszerzony": true
+  },
+  {
+   "id": "ee454905bdb9",
+   "tytul": "Strażacy z OSP Turek przeszkolili 1100 osób z RKO i zajęli pierwsze miejsce w Polsce",
+   "lead": "Druhowie z OSP Turek i MDP OSP Turek przeszkolili z resuscytacji krążeniowo-oddechowej 1100 osób w ramach obchodów Światowego Dnia Przywracania Czynności Serca. Dzięki temu zajęli pierwsze miejsce w Polsce wśród jednostek biorących udział w tej akcji. Organizatorzy przypominają, że podjęcie RKO przez świadków zdarzenia może nawet trzykrotnie zwiększyć szanse na przeżycie, a karetka zwykle dojeżdża dopiero po kilkunastu minutach. Strażacy podkreślają też, że umiejętność użycia defibrylatora AED może zdecydować o czyimś życiu.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Turek.net.pl",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXNNcFNTV29jYlRjcVItTDFCeHNtejJXTjNDQnFTdkRIbUphcy1BaDhfaFNrRy1RTkpMbGpTSGtYVFpBUEFNUUZDZDhGSjRFbE5SbnhTeVVpc0lQcDdsOF9QVHY4aEZ1US1pOHlvM29PZjZKdjZGR3NkMDZNVGpZNUQ2LUZpV2pMSWNfVkVCVGNDVG9rSHNDTk1BV2UxMUQzclcydUxKV3YtdUtPbk9sNWJMWlU1MG9GREE?oc=5",
+   "data": "2026-11-03T11:30:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.turek.net.pl/miasto/41827-1100-szans-na-uratowanie-ludzkiego-zycia-strazacy-z-osp-turek-zajeli-pierwsze-mi",
    "rozszerzony": true
   },
   {
@@ -388,19 +456,6 @@
    "kraj": "GB",
    "zrodlo": "Nauka w Polsce",
    "url": "https://naukawpolsce.pl/aktualnosci/news%2C115693%2Cwielka-brytania-nowy-gatunek-dinozaura-nazwany-na-czesc-oddanego-ojca-i",
-   "data": "2026-11-03T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "2c665a4a6775",
-   "tytul": "Nowy gatunek dinozaura z Anglii nazwano na cześć byłego kierownika zakładu w Ewhurst",
-   "lead": "Badacze z Muzeum Historii Naturalnej w Londynie opisali nowy gatunek roślinożernego iguanodona, Paludohadros proudlovii, na podstawie skamieniałości znalezionych w 2001 roku w zakładzie produkcji cegieł w Ewhurst w Surrey. Nazwa upamiętnia Willa Proudlove'a, byłego kierownika tego zakładu, który zmarł w wieku 35 lat krótko przed odkryciem i pozostawił żonę oraz dwoje dzieci. Dinozaur żył około 125 milionów lat temu, miał około pięciu metrów długości i ważył od 1,5 do 2 ton. Wyniki opublikowano w czasopiśmie „Journal of Systematic Palaeontology”.",
-   "kategoria": "sci",
-   "kraj": "GB",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://scienceinpoland.pl/aktualnosci/news%2C115693%2Cwielka-brytania-nowy-gatunek-dinozaura-nazwany-na-czesc-oddanego-ojca-i",
    "data": "2026-11-03T00:00:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
