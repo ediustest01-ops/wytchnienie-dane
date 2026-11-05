@@ -1,6 +1,19 @@
 {
- "aktualizacja": "2026-11-04T22:39:31.399522+00:00",
+ "aktualizacja": "2026-11-05T03:31:47.692426+00:00",
  "wiesci": [
+  {
+   "id": "543b7d9bb57d",
+   "tytul": "FDA dopuściła terapię mózgu MeRT w leczeniu PTSD. W badaniach remisja u 68 proc. pacjentów",
+   "lead": "Amerykańska Agencja ds. Żywności i Leków (FDA) dopuściła do stosowania nową terapię zaburzeń po stresie pourazowym (PTSD). Metoda o nazwie Magnetic e-Resonance Therapy (MeRT), opracowana przez kalifornijską firmę Wave Neuroscience, w badaniach klinicznych doprowadziła do remisji u 68 proc. pacjentów. Dla porównania, najskuteczniejsze zatwierdzone leki na to schorzenie osiągają wynik na poziomie około 10,9 proc., co pokazuje wyraźną różnicę na korzyść nowej terapii.",
+   "kategoria": "med",
+   "kraj": "US",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/personalized-brain-therapy-hits-68-percent-remission-for-ptsd/",
+   "data": "2026-11-05T00:00:30+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "cf85a14ec4bf",
    "tytul": "Brazylia powiększa park narodowy Pantanal Matogrossense o ponad 25 procent",
@@ -1765,32 +1778,6 @@
    "zrodlo": "Positive News",
    "url": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
    "data": "2026-10-29T07:00:10+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "efccb96dc64c",
-   "tytul": "Kenia uruchamia 160 mln dolarów na ochronę ekosystemów Masai Mara i Tsavo",
-   "lead": "Kenia przeznacza 160 mln dolarów w ciągu dziesięciu lat na ochronę 173 tys. km² terenów, m.in. Wielkiej Doliny Ryftowej i Masai Mara. Program Thamani Asili jest finansowany po połowie przez rząd i prywatnych darczyńców, w tym spadkobierców fortun rodzin Walton i Cargill. Pieniądze będą wypłacane warunkowo, po spełnieniu konkretnych zmian w polityce państwa, a nie na podstawie samych deklaracji. Według The Nature Conservancy obecnie chronionych jest 20–23% powierzchni Kenii, a plan ma pomóc zbliżyć się do celu 30% do 2030 roku.",
-   "kategoria": "nature",
-   "kraj": "KE",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/10/kenya-unlocks-160-million-to-protect-the-maasai-mara-and-tsavo-ecosystems/",
-   "data": "2026-10-29T00:00:06+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "cf597f711744",
-   "tytul": "Holandia przeznacza 500 mln dolarów na ochronę tropikalnych lasów",
-   "lead": "Holandia zadeklarowała wsparcie w wysokości 500 mln dolarów, rozłożone na 10 lat, dla funduszu Tropical Forest Forever Facility, który ma finansować długoterminową ochronę tropikalnych lasów. Zapowiedź ogłoszono 26 października, a łączne zobowiązania wynoszą obecnie około 7,8 mld dolarów wobec docelowych 125 mld. Fundusz działa na wzór funduszu majątkowego: zyski z inwestycji mają trafiać do krajów tropikalnych, by zachęcać do utrzymania lasów. Część ekspertów, jak ekonomista ze Stanforda Bard Harstad, wyraża jednak wątpliwości co do opłacalności tego modelu.",
-   "kategoria": "nature",
-   "kraj": "ŚW",
-   "zrodlo": "Good Good Good",
-   "url": "https://www.goodgoodgood.co/articles/netherlands-pledges-tropical-forests",
-   "data": "2026-10-28T23:50:00+00:00",
    "przetlumaczone": true,
    "wstepne": false,
    "rozszerzony": true
