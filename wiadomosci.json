@@ -1,5 +1,5 @@
 {
- "aktualizacja": "2026-11-05T20:41:51.505512+00:00",
+ "aktualizacja": "2026-11-06T01:36:04.813587+00:00",
  "wiesci": [
   {
    "id": "eb28ea9f8a5d",
@@ -12,6 +12,20 @@
    "data": "2026-11-05T19:09:16+00:00",
    "przetlumaczone": false,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "687f293a9087",
+   "tytul": "W Warszawie odnaleziono 9-letniego Macieja, który był poszukiwany",
+   "lead": "Zakończyły się poszukiwania 9-letniego Macieja z Warszawy, który został odnaleziony po kilku godzinach. Ostatnio widziano go na przystanku przy ulicy Stępińskiej, skąd wsiadł do autobusu linii 180 w kierunku Chomiczówki. Późnym wieczorem stowarzyszenie „Zaginieni: Cała Polska” poinformowało, że chłopiec jest cały i zdrowy, a odnalezienia dokonali policjanci.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "WP Wiadomości",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYWZFaUJUdXZ3dkg1bnpUb2dOMFhOSVpGQ1BVTUl1ZERXcV8wZV9KVkZnLXNyX3VZTnhnZVBELTQ3Nms4NllRdmFkUUZDMVFEUTVTRTdBTUVFczJYWkM4cEJJY0YxdFp1TnQwTGY4a0xGVHdwTEFDWndKNkp1VzJGLUV2eWJsR0hpdzFKNmFPTTBCaWNReTFFb2thb2s?oc=5",
+   "data": "2026-11-05T18:21:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://wiadomosci.wp.pl/pilne-poszukiwania-w-warszawie-zaginal-9-letni-maciej-7347821376055776a",
    "rozszerzony": true
   },
   {
@@ -2001,19 +2015,6 @@
    "przetlumaczone": false,
    "wstepne": true,
    "url_zrodla": "https://ua.news/pl/health/iaponski-naukovtsi-viiavili-bilok-omc1-shcho-pidtrimuie-zcheplennia-khromosom-iaitseklitin-news-medical",
-   "rozszerzony": true
-  },
-  {
-   "id": "e47b996ba151",
-   "tytul": "Floty pojazdów elektrycznych chronią Europę przed wahaniami cen ropy",
-   "lead": "Według analizy think tanku Ember sześć krajów europejskich uniknęło w okresie od marca do sierpnia 2026 roku kosztów importu ropy o wartości blisko 2,2 mld dolarów, czyli około 2 mld euro. Oszczędności wynikły z tego, że floty pojazdów elektrycznych ograniczyły zapotrzebowanie na importowaną ropę. Cena ropy wzrosła o 33 procent od początku konfliktu z Iranem pod koniec lutego 2026 roku, a Brent w końcu października oscylował blisko 100 dolarów za baryłkę. Wśród krajów UE największe oszczędności odnotowały Niemcy i Francja, a najwyższy udział w zużyciu ropy osiągnęła Dania, gdzie elektryki zastąpiły 13 procent zużycia z 2025 roku.",
-   "kategoria": "sky",
-   "kraj": "ŚW",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/10/how-ev-fleets-are-shielding-europe-from-oil-price-volatility/",
-   "data": "2026-10-30T00:00:47+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
    "rozszerzony": true
   }
  ]
