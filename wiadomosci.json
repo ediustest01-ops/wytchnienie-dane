@@ -1,6 +1,61 @@
 {
- "aktualizacja": "2026-11-06T17:31:48.866284+00:00",
+ "aktualizacja": "2026-11-06T23:13:42.800678+00:00",
  "wiesci": [
+  {
+   "id": "62ef5ce13d1e",
+   "tytul": "Ludzie z całego świata zebrali środki na zakup majątku w Wielkiej Brytanii dla ochrony przyrody",
+   "lead": "Kulik wielki, trzmiel górski, czajka i inne ptaki błotne znajdują schronienie na wyjątkowym szlacheckim majątku w Wielkiej Brytanii. Ziemia ta przez osiem stuleci należała do jednej brytyjskiej rodziny szlacheckiej. Teraz ludzie z różnych krajów świata zebrali miliony, by kupić ten cenny, bogaty biologicznie obszar i zachować go dla przyrody.",
+   "kategoria": "nature",
+   "kraj": "GB",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
+   "data": "2026-11-06T21:16:55+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "601592714421",
+   "tytul": "Rekordowa kwesta we Włodawie. Udało się zebrać prawie 22 tys. zł",
+   "lead": "Podczas kwesty we Włodawie udało się zebrać prawie 22 tys. zł, co jest rekordowym wynikiem.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "Super Tydzień Chełmski",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEcza2NrLUduZDVkeHZTRFJ3UnRxVmFiaFhLRS1pTTMxcnVPZi1BMVBiTGFuNFZzZUlCcDQ2QUJVMEdyX2p6R09mVkN3SzFOTnM1ZGw1NHJhaW1zOVdpZE5RcE01RXdiQ2ZMYmt0NjJubEo1ZzdlMHdlTVJpa2djRmpSSkpxOThpbWtXRGR1RmJqaS1rQkxOR3RSQkt6UWFIVkw3VkZLMzg?oc=5",
+   "data": "2026-11-06T20:32:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.supertydzien.pl/artykul/52052,wlodawa-rekordowa-kwesta-udalo-sie-zebrac-prawie-22-tys-zdjecia",
+   "rozszerzony": true
+  },
+  {
+   "id": "66f26ab1f9c7",
+   "tytul": "Strażacy spod Krakowa uratowali borsuka",
+   "lead": "Borsuk, który utknął w linkach z drutu w pobliżu ojcowskiego parku, został uwolniony przez strażaków z OSP Wola Kalinowska.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Dziennik Polski",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYndfSmlwYlRlOU9Oeklzdk90WGZpYnJ3U0dhR0UtZmFvMnk1QVhRRmR1dloxbmJMaVl2cUg5eENTelUtSDI3QWdtUE5ndGxDT1JQMjc2Y0Z6ZnI1UlV1aV81UWhiRmN0a2otbTBOODJUVHZMUDNPMTY5WngxTTRoRHVCSlFhaUtJTVlTMjdmYXQzaHBBTk1KNTBXSjU4RV9RUGpNeDk2M2xHVVIwQ0JXM19xUXFWZUNSTU9VQXVITWt3MFIzSTdNUUQ2SUQ0SC01TGQ3Z3NpdTQtRlJXMzVVN1lWVm5QclJfT01ncU5uU1czOC1QOXA3VElZUVh1Q0tqQVE?oc=5",
+   "data": "2026-11-06T18:00:31+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://dziennikpolski24.pl/strazacy-ratowali-borsuka-niezly-zwierzyniec-mozna-byloby-zrobic-ze-zwierzat-gadow-ptakow-uratowanych-przez-druhow-spod-krakowa/gh/c1p2-29505899",
+   "rozszerzony": true
+  },
+  {
+   "id": "7b385a9c96ea",
+   "tytul": "Rekordowa zbiórka żywności w Krakowie. Zebrano 16 ton",
+   "lead": "Zbiórka żywności w Krakowie zakończyła się rekordowym wynikiem: zebrano 16 ton produktów.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "TVP Kraków",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObVY5aVVLNllnbmtVZE13bXlHaWVYVzh0bEVmZXVLTzVSYnNWcnluLTZvVUV2TWF0STEta295WW5PUG41VEhsZEJMOVVOT1dsTEN4QVU4b2Q5dmRTRXk1SFpIMW1jaXIzOTdUTU1lU1kzV2VNdno5aUwtNWJkV0ZKRjFLRWtFMjlGUWc?oc=5",
+   "data": "2026-11-06T17:00:28+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://krakow.tvp.pl/96343500/krakow-pobil-rekord-zbiorki-zywnosci-zebrano-16-ton",
+   "rozszerzony": true
+  },
   {
    "id": "275a5c706fa4",
    "tytul": "Brazylijczyk przez 12 dni szukał właściciela znalezionych pieniędzy i oddał je robotnikowi",
@@ -12,6 +67,20 @@
    "data": "2026-11-06T16:30:31+00:00",
    "przetlumaczone": true,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "3ad69a7d4bd0",
+   "tytul": "Policjant po służbie uratował życie kobiety",
+   "lead": "W nocy z soboty na niedzielę w centrum Radomia 40-letnia kobieta nagle straciła przytomność, a jej stan szybko się pogarszał. Pomocy udzielił asp. Grzegorz Hernik z Komendy Wojewódzkiej Policji w Radomiu, który był wtedy po służbie. Przeprowadził resuscytację krążeniowo-oddechową i kobieta odzyskała funkcje życiowe, po czym trafiła do szpitala pod opiekę ratowników. Zdarzenie zarejestrował miejski monitoring.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "CoZaDzien.pl",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUxDOWFhWGhxN29JcTFvWUY2MmlDQW1UMm9FQTdRM202MDl3eGh1OEtSMmVzVWFVdFpBWEh3WmRFYTB4T3lLTUNGM3BDQWxZRWxZc25ZamdaeDU3N3licWxscVlOaFpEbjE2aXpYT25TR1B2NE15cjF4TGtNeFoyeVFfU0dXa0dXLU55WnV5akdyaU9qT3lVNmhhLWFsckpfZ2VzT19UeXlVaW5sdFQtWmNETGExWnoybmdV?oc=5",
+   "data": "2026-11-06T15:03:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.cozadzien.pl/artykul/96943,policjant-w-czasie-wolnym-od-sluzby-uratowal-zycie-kobiety-zobacz-material-wideo",
    "rozszerzony": true
   },
   {
@@ -233,20 +302,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://bydgoszcz.tvp.pl/wolontariusz-roku-2026-w-grudziadzu-zasady-konkursu-kategorie-i-termin-zgloszen,96319459",
-   "rozszerzony": true
-  },
-  {
-   "id": "a65f3acf0d6e",
-   "tytul": "Policjant po służbie uratował życie kobiety. Zdarzenie zarejestrował miejski monitoring",
-   "lead": "Asp. Grzegorz Hernik z Komendy Wojewódzkiej Policji w Radomiu uratował życie 40-letniej kobiety w centrum miasta. Do zdarzenia doszło w nocy z 31 października na 1 listopada, gdy kobieta straciła przytomność na skrzyżowaniu. Choć policjant był wtedy wolny od służby, zaopiekował się nią, polecił żonie zadzwonić pod numer alarmowy 112 i prowadził resuscytację, gdy doszło do zatrzymania krążenia. Po kilku chwilach udało się przywrócić czynności życiowe, a kobietę zabrali ratownicy medyczni.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Policja Mazowiecka",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ1Zqa0d5SHJzbnVnc0pobDdxaDJFNzZwSWRhSzhpRWt5Q0FYLTl5bWMxSzBvVldVc1J1MG1rQ3plN0hJMzdvUTdXTldwbTRFUmthSkVKbjNBYUhWSjdHWXlGS1hfdXd6R2dIWE9pdlJoUk5saFlQT2ctSzRIOWlvUXdHYVQtY1VIbzltXy1mbGlVQU56aUdLaVRvbVdzeEpBMUVmOTgyRWlWa2ExWlhIMW1PdzhFcE9XS3VIT1h3eFJMWVpsRDQ1bDF2dGoyT252ZXVUQnR3VXJKVHNETmIwX1huT1R2LWJX?oc=5",
-   "data": "2026-11-06T06:46:03+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://mazowiecka.policja.gov.pl/ra/aktualnosci/aktualnosci/140842,Policjant-w-czasie-wolnym-od-sluzby-uratowal-zycie-kobiety-Cala-sytuacje-uchwyci.html",
    "rozszerzony": true
   },
   {
@@ -1915,73 +1970,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://dziennikzachodni.pl/to-najlepsi-lekarze-rodzinni-w-wojewodztwie-slaskim-poznalismy-wyniki-plebiscytu-2026-sprawdz-kto-zostal-wyrozniony-w-twoim-miescie/ar/c14p2-29482655",
-   "rozszerzony": true
-  },
-  {
-   "id": "295625f565bb",
-   "tytul": "W Koninie trwa kwesta na renowację zabytkowych nagrobków",
-   "lead": "Towarzystwo Przyjaciół Konina po raz siedemnasty zorganizowało kwestę na konińskich cmentarzach, a wolontariusze zbierają pieniądze do godziny 15.00. W tym roku na remont grobu Bazylego i Marii Sławinów, sędziego śledczego i nauczycielki muzyki z okresu międzywojennego, potrzeba kilku tysięcy złotych. W zeszłym roku zebrano ponad 11,4 tys. zł, które pozwoliły odnowić nagrobek Waleriana i Wandy Gorochow. Dzięki takim zbiórkom w ostatnich latach odnowiono ponad 30 zabytkowych lub ważnych dla społeczności grobów.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "WP",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHVtVlEzY2pmeDNzYVhUMXhoMENUVkNBeFNXR0FsWnZlVTRTMFFjRWo0c3hnOHhoTjZkMjVidUJ2UGR2TVZnRkRkLWwzRGlXbjJtazhxWVloaDRZRjhkLS0wbW5ZTDhPdjVJaEtVbDZjRkdub0dwMjhpY0pCT0RJNmVMclNMVjhNZlVsUVFGYTNiNkRtU05yaV80NGI2dVVKMC0wUkg2dlB4TEVJZU8ya2tRcWt5MmJIQXBZUDJuUQ?oc=5",
-   "data": "2026-11-01T11:37:22+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://informacje.wp.pl/wiadomosci/wolontariusze-na-cmentarzu-w-koninie-trwa-zbiorka-na-zabytkowe-groby-7346309780773344a",
-   "rozszerzony": true
-  },
-  {
-   "id": "7e9c012e9b0b",
-   "tytul": "OSP Gołkowice otrzymało nowy lekki samochód pożarniczy",
-   "lead": "Strażacy-ochotnicy z Gołkowic odebrali nowy wóz strażacki, zbudowany na bazie dostawczego Volkswagena Craftera z dwulitrowym dieslem. Pojazd ma dziewięć miejsc, napęd 4x4, wyciągarkę, hak holowniczy i przestrzeń na sprzęt. Koszt wyniósł niecałe 411 tysięcy złotych, a największy udział w finansowaniu miała gmina Godów, która przekazała 250 tysięcy złotych. Pozostałą część pokryły WFOŚiGW w Katowicach, Urząd Marszałkowski Województwa Śląskiego oraz sami druhowie, którzy dołożyli 977 złotych. Przekazaniu towarzyszył piknik z pokazami i poczęstunkiem.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Radio 90",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2NhT3JrOElxaEtKVjZjWkwzZFVjTmVMU3lvT1lMM29Fc0JZZHR2T1lTd0lJX2J3c2ZoSXFWQjRtT25Uei1hTFctdDV4UEluT0tsejk2RWRTYy1ma0RkZTlBME5lUE1lNUtKYVJBZE5TRjJEamY0UGdNWnI1SkQ3UHliRFpMOG1LZDVaRE9jMzdSMG52Rm1uQU5pdmhtbEdYV1RIWUE3T0M5VEEtRjkyYlpJNjJCaDg?oc=5",
-   "data": "2026-11-01T09:40:50+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.radio90.pl/strazacy-osp-golkowice-maja-nowy-woz-strazacki-to-9-osobowy-bus-marki-volkswagen-zdjecia.html",
-   "rozszerzony": true
-  },
-  {
-   "id": "c7a692b172d1",
-   "tytul": "Genomy psów z Czarnobyla różnią się od innych. Zmiany dotyczą m.in. odporności i ryzyka nowotworów",
-   "lead": "W Strefie Wykluczenia wokół Czarnobyla żyje kilkaset psów, w większości potomków porzuconych zwierząt domowych. Badacze porównali genomy ponad stu z nich i ustalili, że psy z okolic elektrowni różnią się genetycznie od tych z dalszych terenów. Różnice nie są przypadkowe i dotyczą fragmentów DNA powiązanych z odpornością, funkcjonowaniem komórek i ryzykiem nowotworów. Naukowcy nie potwierdzili jeszcze, że to efekt selekcji, ale sugerują, że istniejąca zmienność mogła pomóc części psów przetrwać.",
-   "kategoria": "sci",
-   "kraj": "UA",
-   "zrodlo": "RMF24",
-   "url": "https://www.rmf24.pl/fakty/nauka/news-ewolucja-w-cieniu-katastrofy-psy-z-czaronobyla-maja-niezwykl,nIdn,1024266",
-   "data": "2026-11-01T08:53:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "580d019f621e",
-   "tytul": "Szwajcarski implant przekształca nadmiar glukozy w glukonian. Badania przedkliniczne, bez udziału ludzi",
-   "lead": "Badacze z ETH Zurich opracowali implant, który zamiast wpływać na sposób wykorzystania glukozy przez organizm, bezpośrednio usuwa jej nadmiar z krwi. Urządzenie zasila się bezprzewodowo, a połączony z nim czujnik wysyła dane o glukozie do smartfona i uruchamia się po posiłkach. W testach na myszach implant utrzymywał kontrolę glikemii przez sześć tygodni, a zwierzęta chudły; nie stwierdzono uszkodzeń tkanek. Naukowcy podkreślają, że to dopiero etap przedkliniczny, a skuteczność i bezpieczeństwo u ludzi pozostają nieznane.",
-   "kategoria": "med",
-   "kraj": "CH",
-   "zrodlo": "RMF24",
-   "url": "https://www.rmf24.pl/fakty/nauka/news-przelomowy-implant-z-zurychu-nowa-nadzieja-dla-chorych-na-cu,nIdn,1023597",
-   "data": "2026-11-01T07:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": true,
-   "rozszerzony": true
-  },
-  {
-   "id": "f29a96b2d67d",
-   "tytul": "Dłuższa nauka szkolna zmniejszyła ryzyko demencji, także u osób z wysokim ryzykiem genetycznym",
-   "lead": "Badacze z USA przeanalizowali brytyjską reformę z 1972 roku, która podniosła wiek obowiązkowej nauki z 15 do 16 lat. Dzięki temu porównali osoby urodzone w odstępie kilku dni, które różniły się wymogami edukacyjnymi, a poza tym były do siebie podobne. U osób objętych dłuższą nauką rzadziej rozpoznawano chorobę Alzheimera i pokrewne demencje, nawet wśród tych o wysokim ryzyku genetycznym. Autorzy uważają, że wykształcenie może chronić przed chorobą, a predyspozycje genetyczne nie muszą przesądzać o jej wystąpieniu.",
-   "kategoria": "med",
-   "kraj": "ŚW",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115667%2Cwiecej-edukacji-mniej-demencji.html",
-   "data": "2026-11-01T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
    "rozszerzony": true
   }
  ]
