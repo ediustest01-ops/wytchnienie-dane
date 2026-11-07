@@ -1,6 +1,19 @@
 {
- "aktualizacja": "2026-11-07T16:52:04.099327+00:00",
+ "aktualizacja": "2026-11-07T20:56:32.460173+00:00",
  "wiesci": [
+  {
+   "id": "2648a8e408f6",
+   "tytul": "Pies rodziny wyczuł przyspieszone bicie serca niemowlęcia. Chłopiec prawdopodobnie został uratowany",
+   "lead": "Kim Reynolds zauważyła, że jej doberman Saraya zachowuje się wyjątkowo natarczywie wobec sześciomiesięcznego Alexandra. Pies nie chciał odejść od chłopca i płakał za każdym razem, gdy dziecko zabierano od niego tego ranka. Według przekazu życie niemowlęcia prawdopodobnie udało się uratować po tym, jak rodzinny pies wyczuł jego przyspieszone bicie serca.",
+   "kategoria": "rescue",
+   "kraj": "US",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/",
+   "data": "2026-11-07T16:58:40+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "d7d76df5fed2",
    "tytul": "Politechnika Warszawska opracowuje lekką bioniczną dłoń dla dzieci",
@@ -43,17 +56,17 @@
    "rozszerzony": true
   },
   {
-   "id": "437b45104701",
-   "tytul": "W gliwickich szkołach zamontowano 10 nowych defibrylatorów AED",
-   "lead": "W 2026 roku Centrum Ratownictwa Gliwice uruchomiło 10 kolejnych punktów z ogólnodostępnymi defibrylatorami AED w gliwickich placówkach oświatowych. Wśród lokalizacji są m.in. dzielnice Kopernika, Sikornik czy Zatorze. AED sam analizuje rytm serca i prowadzi użytkownika komunikatami głosowymi, więc nie trzeba mieć wykształcenia medycznego. Największą szansę na uratowanie życia daje pierwsza pomoc udzielona w ciągu trzech minut od zatrzymania krążenia.",
-   "kategoria": "people",
+   "id": "9d97abad9f4b",
+   "tytul": "W gliwickich szkołach pojawiło się 10 nowych defibrylatorów AED",
+   "lead": "W 2026 roku Centrum Ratownictwa Gliwice uruchomiło 10 nowych punktów z ogólnodostępnymi defibrylatorami AED w gliwickich szkołach. Urządzenia znalazły się w różnych dzielnicach miasta, m.in. na Zatorzu, w Sikorniku i Żernikach, i mogą pomóc nie tylko uczniom, ale każdemu mieszkańcowi będącemu świadkiem nagłego zdarzenia. AED samodzielnie analizuje rytm serca poszkodowanego i głosowymi komunikatami prowadzi ratownika krok po kroku, dlatego nie trzeba mieć wykształcenia medycznego.",
+   "kategoria": "rescue",
    "kraj": "PL",
    "zrodlo": "Gliwice - oficjalna strona miasta",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOWRINWZZN0xza3ExQnZHVUNyS015Vl9GckNvWFprU09xaHo1Rm5ycjJBMjRrbndyaUZydFRDQkdiVFdyaHNMZTl0eVVfN0Y1RXBobkZqOVQ0cHNUQnZkbE9oYVFvV05qVDAtek91N25oNmZXMUJRZEIxdWhocFV3bGxRVm5HZjBXUkxHN3Q0YVk5TlpSMXVXd2luUkNRcnAtc3JlMzQzZ2trOFJ1Q0Y3YmpRUUpqWjBickxEMWtNNDM1NXRuVWcwYk54QlVfdl91SXFCdjgtb1BFUXViNU55ZnVlRURYdw?oc=5",
-   "data": "2026-11-07T05:34:02+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOczlZQWlrOWVKclVWYk1rUEc3Vk93al91X2NVa3g3SGtyX3JWbkdlbXUzQTF3ZGViT21CR0hvS0cxTUtXTFJSVHNpNERMbkJpTzdZLXR3eXJld3JkRW5wNy1WSG5FODB3WV9DV1o4RkNzWnFMaWhTZTF2cFUwSGtDRFVOdmpMbTkwSVkzdGxnWjR6ZkdsNmtydjNaZlhXN29MYnVIMXpMalFLdy1RR3hlVkpzQkFpTFBVYS1TYXVpVFRRNm9OaUw4YkcyUXlCNlFVdWxOcWRPZjRjdlByOGJ3RHY1bFFqZw?oc=5",
+   "data": "2026-11-07T06:51:48+00:00",
    "przetlumaczone": false,
    "wstepne": false,
-   "url_zrodla": "http://gliwice.eu/aktualnosci/zdrowie/10-nowych-defibrylatorow-aed-w-gliwickich-szkolach-sprawdz-ich-lokalizacje?language_content_entity=pl&language=ru",
+   "url_zrodla": "http://gliwice.eu/aktualnosci/zdrowie/10-nowych-defibrylatorow-aed-w-gliwickich-szkolach-sprawdz-ich-lokalizacje?language_content_entity=pl&language=fr",
    "rozszerzony": true
   },
   {
@@ -146,20 +159,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.supertydzien.pl/galeria/7073,wlodawa-rekordowa-kwesta-udalo-sie-zebrac-prawie-22-tys-zdjecia",
-   "rozszerzony": true
-  },
-  {
-   "id": "601592714421",
-   "tytul": "Rekordowa kwesta we Włodawie. Udało się zebrać prawie 22 tys. zł",
-   "lead": "Podczas kwesty we Włodawie udało się zebrać prawie 22 tys. zł, co jest rekordowym wynikiem.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "Super Tydzień Chełmski",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEcza2NrLUduZDVkeHZTRFJ3UnRxVmFiaFhLRS1pTTMxcnVPZi1BMVBiTGFuNFZzZUlCcDQ2QUJVMEdyX2p6R09mVkN3SzFOTnM1ZGw1NHJhaW1zOVdpZE5RcE01RXdiQ2ZMYmt0NjJubEo1ZzdlMHdlTVJpa2djRmpSSkpxOThpbWtXRGR1RmJqaS1rQkxOR3RSQkt6UWFIVkw3VkZLMzg?oc=5",
-   "data": "2026-11-06T20:32:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.supertydzien.pl/artykul/52052,wlodawa-rekordowa-kwesta-udalo-sie-zebrac-prawie-22-tys-zdjecia",
    "rozszerzony": true
   },
   {
@@ -353,20 +352,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.eostroleka.pl/maja-wielkie-serca-i-pomagaja-bezinteresownie-ostroleka-doceni-krwiodawcow,art133150.html",
-   "rozszerzony": true
-  },
-  {
-   "id": "e83233de12d5",
-   "tytul": "W gliwickich szkołach pojawiło się 10 nowych defibrylatorów AED",
-   "lead": "Centrum Ratownictwa Gliwice uruchomiło w 2026 roku kolejnych 10 punktów z ogólnodostępnymi defibrylatorami AED. Urządzenia zamontowano w placówkach oświatowych w różnych dzielnicach miasta, dzięki czemu sprzęt ratujący życie jest dostępny dla uczniów, mieszkańców i świadków zdarzeń. Defibrylator sam analizuje rytm serca i prowadzi osobę udzielającą pomocy głosowymi komunikatami, więc obsługa nie wymaga wykształcenia medycznego. Przy nagłym zatrzymaniu krążenia największe szanse na uratowanie życia są w ciągu pierwszych trzech minut.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "infogliwice.pl",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWElFU2wtU25HWUtRTE84WmNTTTNqRk9yTkJCWUFVeU1VYXZ2WFNYbGtxdDE1RTV5aFdDQWpUUnpCMnNjMUpSd1hWMkJFM3RZQkxKbV95aFVLSVJzOEhwUDFNdXBJYzBER0tNOXVZcXg4M3lSTWNBVm9XNV9sV1BmVUFJNWplRkRGOTlFYTdFMW16cU1JaXV3WXdRZTM2Qzg?oc=5",
-   "data": "2026-11-06T10:24:52+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://infogliwice.pl/10-nowych-defibrylatorow-aed-w-gliwickich-szkolach-sprawdz-ich-lokalizacje/",
    "rozszerzony": true
   },
   {
@@ -1699,19 +1684,6 @@
    "rozszerzony": true
   },
   {
-   "id": "2cc6fd180b88",
-   "tytul": "28 lat w drodze do domu: Karl Bushby ukończył pieszą wyprawę dookoła świata",
-   "lead": "Karl Bushby wyruszył w listopadzie 1998 roku z Chile, by okrążyć świat pieszo, bez żadnych środków transportu mechanicznego. W trakcie wyprawy przeszedł ponad 50 tysięcy kilometrów przez 29 krajów. Na Alasce wraz z Dimitrim Kiefferem jako pierwsi pokonali pieszo zamarznięta Cieśninę Beringa, a w drodze przepłynął również Morze Kaspijskie, spędzając na wodzie 31 dni. Po 28 latach wrócił do rodzinnego Hull, gdzie przywitała go rodzina i setki wspierających go osób.",
-   "kategoria": "people",
-   "kraj": "GB",
-   "zrodlo": "RMF24",
-   "url": "https://www.rmf24.pl/fakty/swiat/news-28-lat-w-drodze-do-domu-karl-bushby-ukonczyl-piesza-wyprawe-,nIdn,1024418",
-   "data": "2026-11-02T12:53:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
    "id": "1f44eb1ae1d9",
    "tytul": "Pijany mężczyzna umierał na parkingu w Legnicy. Uratował go policjant po służbie",
    "lead": "Pijany mężczyzna, który słabł na parkingu w Legnicy, został uratowany przez policjanta będącego po służbie.",
@@ -2008,32 +1980,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://leszno24.pl/artykul/aed-w-aucie-slawka-zygnera-n2562583",
-   "rozszerzony": true
-  },
-  {
-   "id": "362fc338f042",
-   "tytul": "Badacze wskazali, kiedy van Gogh mógł namalować „Gwiaździstą noc”",
-   "lead": "Zespół z Uniwersytetu Kyung Hee w Korei Południowej sprawdził, kiedy nad Saint-Rémy-de-Provence mógł być widoczny układ Księżyca i Wenus z obrazu van Gogha. Wyniki wskazują na okolice 22 lipca 1889 roku, a nie na czerwiec, jak dotąd przyjmowano. Naukowcy zaznaczają jednak, że nie da się w ten sposób jednoznacznie ustalić dokładnej daty powstania obrazu ani tego, czy artysta wprowadzał w nim późniejsze zmiany.",
-   "kategoria": "sci",
-   "kraj": "ŚW",
-   "zrodlo": "RMF24",
-   "url": "https://www.rmf24.pl/fakty/kultura/news-gwiazdzista-noc-van-gogha-skrywala-tajemnice-naukowcy-rozwia,nIdn,1023609",
-   "data": "2026-11-01T15:53:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "512c67335705",
-   "tytul": "Uczniowie z New Jersey zebrali ponad ćwierć miliona funtów żywności dla banków żywności",
-   "lead": "Setki uczniów z New Jersey zebrały w zeszłym tygodniu ponad ćwierć miliona funtów żywności. Worki z darami pokryły boisko szkoły średniej w Howell, a drużyna futbolowa przeniosła je do ciężarówek. Jedzenie trafiło do 30 banków żywności w całym stanie. Akcja to największa zbiórka w historii fundacji Dermer Dreams, organizowana już po raz drugi.",
-   "kategoria": "people",
-   "kraj": "US",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
-   "data": "2026-11-01T15:34:01+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
    "rozszerzony": true
   }
  ]
