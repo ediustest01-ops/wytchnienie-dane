@@ -1,6 +1,45 @@
 {
- "aktualizacja": "2026-11-07T02:54:23.039126+00:00",
+ "aktualizacja": "2026-11-07T10:19:40.925970+00:00",
  "wiesci": [
+  {
+   "id": "813b7b46180b",
+   "tytul": "Uniwersytet Przyrodniczy we Wrocławiu chce rozdać 6 tys. książek z biblioteki",
+   "lead": "Biblioteka Uniwersytetu Przyrodniczego we Wrocławiu chce rozdać ponad 6 tys. woluminów wycofanych z księgozbioru w ramach akcji „Przygarnij książkę”. Wśród nich dominują podręczniki i skrypty akademickie z lat 70., 80. i 90., dotyczące m.in. rolnictwa, ochrony środowiska czy medycyny, a także albumy, beletrystyka i czasopisma naukowe. Książki można otrzymać bez wydawania pieniędzy, a uczelnia zaprasza mieszkańców do Biblioteki Głównej przy ul. Norwida 29 w budynku A4, do Czytelni Pracy Grupowej. Akcja potrwa od 9 do 13 listopada 2026 r. lub do wyczerpania zbiorów.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115813%2Cwroclaw-uniwersytet-przyrodniczy-chce-rozdac-6-tys-ksiazek-z-biblioteki",
+   "data": "2026-11-07T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "33b2ab0fc4f7",
+   "tytul": "Białko OMC1 pomaga komórkom jajowym myszy utrzymać chromosomy przez dziesiątki lat",
+   "lead": "Badacze z Uniwersytetu Chiba i japońskiego RIKEN opisali w piśmie „Nature Aging” białko OMC1, które pomaga utrzymać chromosomy komórek jajowych myszy przez dziesiątki lat. Komórki te przez długi czas pozostają w uśpieniu, a z wiekiem słabnie kohezyna REC8, łącząca chromosomy, co sprzyja błędom w ich rozdziale. U myszy pozbawionych OMC1 podobne problemy występowały już w młodych komórkach, a przywrócenie białka w dorosłych oocytach częściowo je zmniejszyło. Odkrycie może w przyszłości pomóc w zrozumieniu i łagodzeniu związanego z wiekiem spadku jakości komórek jajowych.",
+   "kategoria": "sci",
+   "kraj": "ŚW",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115760%2Cwiadomo-jak-komorki-jajowe-chronia-chromosomy-przez-dekady.html",
+   "data": "2026-11-07T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "eb9cbfdd31dd",
+   "tytul": "W Światowy Tydzień Świadomości Stopy Cukrzycowej dostępne bezpłatne badania stóp",
+   "lead": "Od 13 do 20 listopada 2026 r. osoby z cukrzycą mogą skorzystać z bezpłatnych badań stóp, organizowanych przez Polskie Towarzystwo Leczenia Ran. Badanie trwa około 10 minut i obejmuje ocenę czucia, sprawdzenie tętna na tętnicach stopy oraz identyfikację czynników ryzyka cukrzycowej choroby stóp. Na jego podstawie pacjent trafia do odpowiedniej grupy ryzyka i otrzymuje zalecenia dotyczące profilaktyki. Organizatorzy przypominają, że co czwarta osoba z cukrzycą doświadcza w życiu owrzodzenia stopy. Akcja nie jest przeznaczona dla osób, które już leczą rany w przebiegu tej choroby.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115798%2Cswiatowy-tydzien-swiadomosci-stopy-cukrzycowej-bezplatne-badania-stop-dla",
+   "data": "2026-11-07T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "62ef5ce13d1e",
    "tytul": "Ludzie z całego świata zebrali środki na zakup majątku w Wielkiej Brytanii dla ochrony przyrody",
@@ -12,6 +51,20 @@
    "data": "2026-11-06T21:16:55+00:00",
    "przetlumaczone": true,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "f87f7b9eb28a",
+   "tytul": "Włodawa: rekordowa kwesta, zebrano prawie 22 tys.",
+   "lead": "Podczas kwesty we Włodawie udało się zebrać prawie 22 tys. Jest to rekordowa kwota dla tej akcji w mieście.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "Super Tydzień Chełmski",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTVJb0lSY0xpQ0Q3TW1FYVh0a2s4UmdSMDU3U0kwcVpDMUVfNHp5M2h5eURvUmdDY2sxUEJLMUlCdG5fX2RzZ2VmS0ZISDZEanRZbG5aQWtVbm5LNnQ4VE9INVlEenlIN1h0RlVHd3hIYVB2M3k5WXdDR3lqZ3FKWXNkMHpjVlphYXZkclduYXV4R2VJMUtmVDRXUnVIRlhoM2Y2VTNMbw?oc=5",
+   "data": "2026-11-06T21:08:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.supertydzien.pl/galeria/7073,wlodawa-rekordowa-kwesta-udalo-sie-zebrac-prawie-22-tys-zdjecia",
    "rozszerzony": true
   },
   {
@@ -460,6 +513,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.polskieradio.pl/13/11465/Artykul/3749774,polacy-odkryli-kolejne-elementy-jednej-z-najwazniejszych-swiatyn-sredniowiecznej-afryki",
+   "rozszerzony": true
+  },
+  {
+   "id": "0bdc9c8f4a6b",
+   "tytul": "Zebrano 2 mln zł na leczenie męża Danuty Stenki w niespełna 48 godzin",
+   "lead": "Janusz Grzelak, mąż aktorki Danuty Stenki, choruje na agresywny szpiczak plazmocytowy. Terapia, która może mu pomóc, nie jest refundowana, a jej koszt szacowany jest na około 2 mln zł. Rodzina zamknęła zbiórkę po niespełna 48 godzinach, zbierając pełną kwotę. Pierwsze objawy, bóle kręgosłupa i jamy brzusznej, pojawiły się we wrześniu, a początkowo lekarze podejrzewali chłoniaka. Choroba uszkodziła nerki, dwa kręgi w kręgosłupie oraz staw panewki biodrowej.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "Radio dla Ciebie",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGdxSk03dEJDRmU1c1I0Yjk2THZjRVJZeHQwTVllMi1hWVlfTGs2M3lrSnM2UzJTZmI5VjY0S2FkRFpBcFhnSVR2aUJVelExbnFTT3g3WHNLaE9tN3NpSnJuNW1zbWtLNlViSk9xbnYybXp3NUIxdnlNODE0RE81ZG5pRGlqQ0hkaDdjMGRpYXdVY3k2M1oyVHZ5b0hwSzQ0bHdFLW9BS2FUbW1taXUwZnFLbkI5eVptV3lwMDdEdnB1RmhzcFRLMFdKQzZmV2FYZ2ppbm5LbmM?oc=5",
+   "data": "2026-11-05T16:39:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.rdc.pl/aktualnosci/warszawa/blyskawiczna-zbiorka-na-leczenie-meza-danuty-stenki-slowa-nie-sa-w-stanie-opisac_e0Fhg2CXZ7cIDMOObipk",
    "rozszerzony": true
   },
   {
