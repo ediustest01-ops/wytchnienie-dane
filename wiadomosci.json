@@ -1,6 +1,61 @@
 {
- "aktualizacja": "2026-11-08T15:17:48.474498+00:00",
+ "aktualizacja": "2026-11-08T20:31:32.549510+00:00",
  "wiesci": [
+  {
+   "id": "373014d5cf92",
+   "tytul": "Strażacy ugasili pożar sadzy, uratowali psa i sprawdzili dom z czujką tlenku węgla",
+   "lead": "Strażacy wykonali trzy akcje: ugasili pożar sadzy, uratowali psa i skontrolowali dom, w którym zadziałała czujka tlenku węgla.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "cedarnews.net",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnJwNWRsZlhTSlZFRWtGcElvR2VLcnlDOF90WTYyLVExTUg0UjVtbG03R1dNUHh3cUZYVWlIOGg4dUpEM0Q4YVY2S20yS0tJTzkzSGRJMTczZ3c2Zy05aDNmSVphaHRVZDB6YVE2RUNDSXAzUzdsSTEwSFVwblhjN0RQcHZSVm5hYTk5azI5WGY?oc=5",
+   "data": "2026-11-08T20:23:13+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://cedarnews.net/polski/1125314/trzy-akcje-strazakow-gasili-pozar-sadzy-uratowali/",
+   "rozszerzony": true
+  },
+  {
+   "id": "173b6ccbbd58",
+   "tytul": "Strażacy ugasili pożar sadzy, uratowali psa i sprawdzili dom z czujką tlenku węgla",
+   "lead": "Strażacy z OSP i JRG Sokółka gasili pożar sadzy w kominie domu przy ulicy Okopy w Krynkach, który nie wydostał się poza komin. W Dworzysku, z trzcin nad rzeką Sokołdą, uratowano psa, który wrócił do właściciela. W Sokółce zadziałała czujka tlenku węgla w kotłowni jednego z domów, ale kontrola nie wykazała zagrożenia. Prawdopodobnie dym z rozpalania pieca dostał się do urządzenia.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "iSokolka.eu",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ29henRFSFhBSDl5c2ZYeFhRSkdrdEkwQTgwc2FBeWxhSm5PTFR6ZFItRDVPcHlHNGNYcG91Z2l2eTRWRU9GRmF3R1I4T0VPUGY3QURIeDdWS1o3QlRPWWdpYjhNaU9fZUEyOU41UW0wVjdYZ2JsczJsUFVOMjh6cW5ZcWxPYVRUaVF5VVBmOXJWcFdMSGZqaWVzVEs4WjdXLVllYy1mNUw2OWhCOExZemdfbHVpYndfbWdRVEUzQVlpZFVjWVBFbGEwcS1FeEFfc05GOWtxazFZRE1qQ21VcUMwOA?oc=5",
+   "data": "2026-11-08T20:04:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://isokolka.eu/sokolka/72900-trzy-akcje-strazakow-gasili-pozar-sadzy-uratowali-psa-i-skontrolowali-dom-w-ktorym-wlaczyla-sie-czujka-tlenku-wegla",
+   "rozszerzony": true
+  },
+  {
+   "id": "c6dfb1cde8d2",
+   "tytul": "Strażacy uratowali orła, który utknął na jeziorze. Do akcji użyto poduszkowca",
+   "lead": "Strażacy z OSP Olsza uratowali orła, który utknął na Jeziorze Zygmunta Augusta w miejscowości Czechowizna. Do akcji użyto poduszkowca, a w działaniach brały udział także zastępy z JRG Mońki i OSP Trzcianne, z dronem, policjanci i lekarz weterynarii. Po przebadaniu ptak trafił do członka Komitetu Ochrony Orłów. Interwencja zakończyła się po godzinie 14.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "iSokolka.eu",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZDNCUXpXdTQteVdvdTQ2SW5ZVzM2NndvTjVZTHJteWl6Zld5cmdxdGh1TUwyZzM2R2hlZmhfZE9RdzlWZTQ2WW9oaldvd2VOVlhHbkl0Z2hXWWNLeDVoZnpTRDRNNXhaZzB1RDRrLWJxSDM3eWRmUmYtOF9sR1JneDByNkJMUkROUU1Tc0lSME5qX2RhYzE1aTYyMEM1NmlYS2dJU1pLOWo0OUJIMFlJQm1FdW1zRXFmUFpVaXRqRkNZTDl2ZmE4amNoRQ?oc=5",
+   "data": "2026-11-08T19:20:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://isokolka.eu/podlaskie-2/72899-strazacy-uratowali-orla-ktory-utknal-na-jeziorze-w-akcji-wykorzystali-poduszkowiec-wideo-foto",
+   "rozszerzony": true
+  },
+  {
+   "id": "24d451d73911",
+   "tytul": "Psy mogą z dużą skutecznością wykrywać inwazyjne gatunki roślin",
+   "lead": "W Niemczech szkoli się psy do wykrywania inwazyjnych gatunków roślin, które należą do głównych przyczyn utraty bioróżnorodności na świecie. Naukowcy z Lipska sprawdzili, czy wolontariusze wraz ze swoimi psami mogą działać jako skuteczni tropiciele. Zespoły lokalizowały gatunki inwazyjne w naturze z 75-procentową dokładnością.",
+   "kategoria": "nature",
+   "kraj": "DE",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/",
+   "data": "2026-11-08T18:36:02+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "4f4087f13ac1",
    "tytul": "Strażacy w Ludwigsburgu uratowali około 90 zwierząt podczas pożaru stowarzyszenia hodowców",
@@ -161,6 +216,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://gazetakrakowska.pl/niezwykla-akcja-pod-krakowem-kon-ugrzazl-w-bagnie-na-terenie-lesnym-ratowali-go-strazacy-z-kilku-jednostek/gh/c16p2-29437347",
+   "rozszerzony": true
+  },
+  {
+   "id": "93b2a87aeaab",
+   "tytul": "Polsko-peruwiańska ekipa odkryła ponad 2,5 km wcześniej nieznanych dróg wokół Machu Picchu",
+   "lead": "Badacze z Centrum Badań Andyjskich Uniwersytetu Warszawskiego wraz z peruwiańskimi partnerami wykryli w rejonie Machu Picchu ponad 2,5 km dotąd nieznanych dróg prekolumbijskich. Prace na przełomie lipca i sierpnia objęły także tarasy, platformy i okrągłe struktury ukryte pod gęstym lasem na zboczu góry Yanantin. Skanowanie laserowe LiDAR z dronów pozwoliło odfiltrować roślinność i zobaczyć ukształtowanie terenu. Zygzakowaty przebieg dróg przypomina rozwiązania Inków, jednak ich pochodzenie nie zostało jeszcze jednoznacznie ustalone.",
+   "kategoria": "sci",
+   "kraj": "PL",
+   "zrodlo": "Zero.pl",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdk5kRnpCV2lvSFdVVFk0eGtvdmlKZkZnRzZhd0dncGxzUm9fUkowVVpVb0RyQnp5eE9ZbXNuLTJtbEItZzZhQ0JsaW9vb0hxR3Yxd3dPR1Y5ejJnLVVyV0pqX1FTZGdGUTE4QnRObVVpdXlFaVBXUENMY2JlajdJdTRfMXl4VXpBRUNTdDF2cklUXzRVUmtJ?oc=5",
+   "data": "2026-11-07T13:09:18+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://zero.pl/news/odkrycie-polskich-archeologow-w-machu-picchu-nowe-drogi-i-budowle-inkow",
    "rozszerzony": true
   },
   {
@@ -1969,72 +2038,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.dziennik.pl/zwierzaki/artykuly/11338116,zubry-wracaja-do-szwajcarii-po-1000-latach.html",
-   "rozszerzony": true
-  },
-  {
-   "id": "bbccf596e4ec",
-   "tytul": "Łagodne zimno wydłuża życie nicieni przez mięśnie. Niemieccy naukowcy opisali mechanizm w „Nature”",
-   "lead": "Zespół z Kolonii pod kierownictwem Davida Vilcheza opisał w „Nature” mechanizm łączący łagodne zimno z dłuższym życiem. Badania na nicieniach Caenorhabditis elegans pokazały, że mięśnie wytwarzają produkt przemiany materii, dihydrobiopterynę (BH2), który pomaga utrzymać równowagę białkową w innych tkankach. Wyniki sprawdzono także na ludzkich modelach komórkowych chorób Huntingtona i ALS. Podanie BH2 lub tyrozyny dawało podobny efekt bez zmiany temperatury. Autorzy podkreślają jednak, że do stworzenia tabletki wydłużającej życie jeszcze daleko.",
-   "kategoria": "sci",
-   "kraj": "ŚW",
-   "zrodlo": "Rzeczpospolita",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb2dxQUowUzhheFhrS0hlZ1NoSGVTMFBqYWdFRFIzOTFiazlsSHN3Nm1iUXdLbzU4ZWRUZVlxTl9pMFFEQkNDRThOWmJSMkhINjZEZU9iT2NkNy1JWERoT1FCcUVxU0dkQVB1YUlHeXEyY1AyUHg3b3NFOUtLN0tPREptSWhFc2VRQUw3Tm1RTU9KMGRDUVN0UG1tVlduZEw1NFNRQXFmSncxRVVBTmRNcXVXLUNUSzZpQjZpYUFB?oc=5",
-   "data": "2026-11-02T04:06:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": true,
-   "url_zrodla": "https://www.rp.pl/wydarzenia/art45422351-oto-wyniki-nowych-badan-nad-dlugowiecznoscia-naukowcy-odkryli-nieznany-mechanizm",
-   "rozszerzony": true
-  },
-  {
-   "id": "8b091bd7bbfb",
-   "tytul": "Na Azorach wyłączono na pięć nocy światła, by ratować młode ptaki morskie",
-   "lead": "Na wyspie Corvo na Azorach w ostatnie pięć nocy października wyłącza się oświetlenie publiczne, od 21:00 do 4:00, by chronić młode burzyki Cory'ego. Ptaki te wylatują na morze nocą, ale światła miast je oślepiają i często lądują na ziemi, gdzie potrzebują pomocy. Od 2019 roku działanie prowadzi gmina razem z portugalskim towarzystwem SPEA, a wolontariusze odnoszą ptaki do morza. Według The Guardian od 2015 roku na Azorach uratowano ponad 30 tys. młodych ptaków, z czego około 6 tys. na samym Corvo.",
-   "kategoria": "nature",
-   "kraj": "PT",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/",
-   "data": "2026-11-02T03:04:49+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "b3a6768018be",
-   "tytul": "Kalifornia zalegalizowała balkonowe panele słoneczne dla najemców i nie tylko",
-   "lead": "Gubernator Kalifornii Gavin Newsom podpisał ustawę, która legalizuje małe panele słoneczne montowane na balkonach, przy oknach lub w ogrodzie, bez dachu i wykonawcy. Zgodne z przepisami modele mają pojawić się w sklepach w połowie 2027 roku, a obecne zestawy kosztują od 300 do 2200 dolarów. Rejestracja ma być bezpłatna i natychmiastowa, a systemy muszą mieć moc do 1200 watów na dom oraz certyfikat bezpieczeństwa. Według przytoczonych danych taki zestaw może pokryć do 20 procent zapotrzebowania domu na prąd.",
-   "kategoria": "sky",
-   "kraj": "US",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/california-legalizes-balcony-solar-for-renters-and-beyond/",
-   "data": "2026-11-02T00:00:33+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "840d34bca6ad",
-   "tytul": "Piętnaście sardyńskich restauracji testuje posiłki bez ekranów; rodziny dostają pudełko z grami",
-   "lead": "Piętnaście sardyńskich restauracji prowadzi miesięczny pilotaż: goście odkładają telefony, a w zamian dostają pudełko z grami i pytaniami dla rodziców i dzieci, przygotowane przez pediatrów. Pomysł należy do Anny Cau, rzeczniczki praw dziecka na Sardynii, a restauracje przystąpiły do niego dobrowolnie. Właściciele zauważyli, że podczas rodzinnych posiłków rozmowy cichną, a dzieciom często podaje się telefon, by były spokojne. Cau podkreśla, że celem nie jest wyłącznie zakazywanie, lecz wsparcie rodziców przez otoczenie, w którym rodzina spędza czas.",
-   "kategoria": "people",
-   "kraj": "IT",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/sardinian-restaurants-are-banning-phones-for-families-at-meals/",
-   "data": "2026-11-02T00:00:30+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "49dcf5b4566e",
-   "tytul": "Popularny suplement diety mógłby pomóc w leczeniu łuszczycy",
-   "lead": "Pantetyna, pochodna witaminy B5, ograniczyła stan zapalny skóry u myszy, a w małym badaniu z udziałem 24 pacjentów poprawiła stan skóry, gdy stosowano ją razem z maścią. Naukowcy wykazali, że nadmierna aktywność enzymów zwanych waninami obniża poziom pantetyny, co sprzyja nadmiernej aktywacji komórek odpornościowych. Po 12 tygodniach poprawę zauważono zwłaszcza u osób z wysokim cholesterolem. Autorzy podkreślają jednak, że to dowód słuszności koncepcji, a nie bezpośrednie potwierdzenie mechanizmu działania.",
-   "kategoria": "med",
-   "kraj": "ŚW",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115678%2Cpopularny-suplement-diety-moglby-pomoc-w-leczeniu-luszczycy.html",
-   "data": "2026-11-02T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": true,
    "rozszerzony": true
   }
  ]
