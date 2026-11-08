@@ -1,6 +1,47 @@
 {
- "aktualizacja": "2026-11-08T00:43:05.033958+00:00",
+ "aktualizacja": "2026-11-08T07:26:55.215463+00:00",
  "wiesci": [
+  {
+   "id": "ffee82ac6f29",
+   "tytul": "W Białymstoku rozpoczęła się zbiórka darów dla szpitali z okazji Światowego Dnia Wcześniaka",
+   "lead": "Fundacja Mali Wojownicy zbiera w Białymstoku dary dla oddziałów neonatologicznych dwóch miejscowych szpitali. Potrzebne są pieluszki tetrowe i flanelowe, chusteczki nawilżane, emolienty oraz ubranka w rozmiarach od 48 do 50. Dary można przynosić do 14 listopada do siedziby fundacji przy ulicy Mickiewicza 50. W tym czasie zaplanowano też spotkania dla rodzin wcześniaków, w tym Fioletowy Spacer.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "Polskie Radio Białystok",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVNVowZUp1UVR6MnJiUGdwN2JNSkFJcVFKZ0lVd1hvQVk4ck5oMHlBOTNibXM4RGEtLVE4U1djNWZTXzhlR3R4VGFjZWpyb21qNnA3bWFMbzd4WEtMUkZ2UXlJQkktYjVq?oc=5",
+   "data": "2026-11-08T07:25:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.radio.bialystok.pl/wiadomosci/index/id/266534",
+   "rozszerzony": true
+  },
+  {
+   "id": "63fae333dbd4",
+   "tytul": "Badacze odkryli pod starożytnym Buto budowlę z okresu saickiego (688–525 p.n.e.)",
+   "lead": "Naukowcy wykorzystali dane radarowe z satelity Sentinel-1, a następnie tomografię elektrooporową, by zbadać strukturę terenu bez naruszania stanowiska. Pod warstwami z czasów ptolemejskich i rzymskich, na głębokości od 3 do 6 metrów, znaleźli dużą budowlę z cegły mułowej. Pod nią odkryto warstwę czystego piasku, która – według badaczy – pełniła funkcję podobną do współczesnego fundamentu. W pobliżu znaleziono figurki i wapienny ołtarz, co wskazuje na sakralny charakter miejsca. Wyniki opublikowano w czasopiśmie „Acta Geophysica”, a badacze planują dalsze prace w głębszych warstwach.",
+   "kategoria": "sci",
+   "kraj": "EG",
+   "zrodlo": "Rzeczpospolita",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXzFxQl9GcWpFRVJFcmZaalVKYXltVHNSTzJyd3JIdE5qV3c4b3EwUHE0aVdkdTFEOVN4c1JRd2pWZHJzVnVqSE96bkQ2S2VRSTUtNlJQSHJsNDI5OE1EaTJBdm5CdVVKdFVSYThLbFFXVkxlanptbU9Ia09LcWFtNlF3STk1VGdoMlZha2FJTExhdkZFV2Z1bXk4cmltcXNPWXhwTkdJLWlKeEljUzFJdDUxS0x0dDJlWjh0Zg?oc=5",
+   "data": "2026-11-08T05:24:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.rp.pl/nauka/art45443121-podziemne-konstrukcje-byle-ukryte-w-delcie-nilu-przez-2600-lat-dostrzegl-je-satelita",
+   "rozszerzony": true
+  },
+  {
+   "id": "82afb757de4b",
+   "tytul": "Polscy archeolodzy znaleźli blisko 100 pięściaków w dolinie Okwa na pustyni Kalahari",
+   "lead": "Zespół prof. Mirosława Masojcia z Uniwersytetu Wrocławskiego prowadzi badania w dolinie Okwa, w ramach grantu Narodowego Centrum Nauki. Naukowcy zebrali już blisko 100 kamiennych pięściaków oraz ślady ich produkcji, pochodzące z tradycji aszelskiej. Teren jest trudno dostępny z powodu gęstego buszu, dlatego badacze wykorzystali odsłonięcia osadów w wyrobiskach. Odnaleziono w nich ślady dawnych rzek i jeziora, a zabytki będą analizowane w Krakowie.",
+   "kategoria": "sci",
+   "kraj": "PL",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115771%2Cpiesciaki-z-kalahari-polscy-archeolodzy-badaja-slady-sprzed-setek-tysiecy",
+   "data": "2026-11-08T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "9ef20840622d",
    "tytul": "W USK w Białymstoku po raz pierwszy w województwie podlaskim zastosowano metodę EKOS przy zatorowości płucnej",
@@ -187,6 +228,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://dziennikpolski24.pl/strazacy-ratowali-borsuka-niezly-zwierzyniec-mozna-byloby-zrobic-ze-zwierzat-gadow-ptakow-uratowanych-przez-druhow-spod-krakowa/gh/c1p2-29505899",
+   "rozszerzony": true
+  },
+  {
+   "id": "26698028fc34",
+   "tytul": "Policjant w centrum Radomia uratował 40-latkę po zatrzymaniu krążenia",
+   "lead": "Asp. Grzegorz Hernik z radomskiej komendy wojewódzkiej przechodził przez skrzyżowanie w centrum miasta z żoną, gdy zauważył leżącą kobietę. Udzielił jej pierwszej pomocy, ułożył w pozycji bocznej i poprosił żonę o wezwanie pomocy pod numer 112. Po ponownym osunięciu się kobiety i zatrzymaniu krążenia rozpoczął resuscytację, która przyniosła efekt. Funkcjonariusz monitorował stan poszkodowanej do przyjazdu zespołu ratownictwa medycznego, który zabrał ją do szpitala.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Radio ESKA",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjZrQUpMdi10VF9ucngxbExxQnJGOVhHYkNZclh1cjJVRUxjRDRVMC1UcUtKdHBheDBBYWdPTnVjODVGSlhiT2lXZ1l1bHVNQkgzdGJPb3FLUlpMU2hTSFZlOXZCWVVKT3NGbmlwVnZiU2M3ZktwcHVuSGc2Q055Sl9JYWpOUVpyU1pGd183b0N6bWpUU2hKUEh0bXpJY3ZuMFk1Uk5BZUdMblMzN0xoZERXYkU?oc=5",
+   "data": "2026-11-06T17:01:15+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.eska.pl/news/zatrzymanie-krazenia-w-centrum-radomia-policjant-uratowal-40-latke-aa-AVpJ-gBwp-BVtM.html",
    "rozszerzony": true
   },
   {
@@ -1980,20 +2035,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://okkolobrzeg.pl/piec-godzin-kwesty-na-cmentarzu-dla-hospicjum-wiadomo-juz-ile-zebrali-wolontariusze/",
-   "rozszerzony": true
-  },
-  {
-   "id": "18b75da799e3",
-   "tytul": "AED w aucie Sławka Zygnera to początek większej akcji na rzecz bezpieczeństwa (wideo)",
-   "lead": "Sławek Zygner umieścił defibrylator AED w swoim samochodzie, co ma być początkiem szerszej akcji na rzecz bezpieczeństwa. Relacja jest dostępna w formie wideo.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "leszno24.pl",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4dVUtUjNuMWhhdmdFeDhISjhYZ2dBRXVHWUFfTElJMnM4dlVCTEZfYnJOcXdzeFRLZmVVc1FPYzdibnBmbU1hYjJCVEQ3T0FxbFl2LWF2VWcwY0l3VG9HZEU3cDdGajU0cmx1V09RN0g?oc=5",
-   "data": "2026-11-01T17:56:14+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://leszno24.pl/artykul/aed-w-aucie-slawka-zygnera-n2562583",
    "rozszerzony": true
   }
  ]
