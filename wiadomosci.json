@@ -1,6 +1,61 @@
 {
- "aktualizacja": "2026-11-09T00:56:58.505614+00:00",
+ "aktualizacja": "2026-11-09T08:02:17.337526+00:00",
  "wiesci": [
+  {
+   "id": "21800734c5a8",
+   "tytul": "Pożar uszkodził dom czteroosobowej rodziny; strażak znalazł w nim cztery szczeniaki",
+   "lead": "Po pożarze budynku, w którym mieszkała czteroosobowa rodzina, na miejsce wysłano kilka zastępów straży. Druh z OSP Małdyty znalazł tam cztery przemoczone, wystraszone szczeniaki, a jednostka poinformowała następnie, że wszystkie już mają domy. Budynek nie nadaje się obecnie do mieszkania: zniszczone są dach, strop i ściany, a akcja gaśnicza zalała wnętrza. Lokalna społeczność zbiera dla rodziny, w tym dwojga dzieci, ubrania, pościel, przybory szkolne i środki czystości.",
+   "kategoria": "nature",
+   "kraj": "PL",
+   "zrodlo": "Onet",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWpURW82Ml9vc2JNcFFaTDBQVm5JM2pCQ0lWcW5sa3FNZS1IaUd5clllbmRWZjg5SEJiRVNwckM4d3RoeEZtUW5zODZPUzhEZ0Z4cWdRdWJXZGhuTHhnbGZjbGlwZU9TbTYyX2kybi1kY0p1THhoekRkQmJ2dWs0TGZ0TDFsLTVQQXVwWktmOW5tUEg5aDNWQ0dSMXlEblZhcjlfTm9BMks1THAzT3VGaUp6c0toYXVvZnBORw?oc=5",
+   "data": "2026-11-09T08:01:59+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.onet.pl/informacje/olsztyncom/pozar-zabral-im-dom-w-pogorzelisku-strazak-znalazl-szczeniaki/5w7nrfn,30bc1058",
+   "rozszerzony": true
+  },
+  {
+   "id": "38709a2ac5aa",
+   "tytul": "Szpital w Przemyślu jako jeden z trzech w Polsce wykonuje takie zabiegi",
+   "lead": "Przemyski szpital znalazł się wśród zaledwie trzech placówek w Polsce wykonujących określone zabiegi medyczne. Oznacza to wysoki poziom medycyny w regionie.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "Przemyśl Nasze Miasto",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV05Iczlnc1E1MTdncW1uaHRfTWZ2X0FKSjhwcnRlSEJoSWN3RnpERjhHbDdVelVGRnJraUpHTXd6ck00RWJkSC1wclBVd1RQM0JqVWU0NnFMSjZYSXlfRXlGeDlXZXJyeGNYR3RzMFRwM1FsOTJ1RVRGZmFkMDdTcUZJNXNJNnc5LUdwM3FlT2l3T1R6RWtLTlFkQlRhVnF6MmlpMDE0X3lhMVhSS1Z3dzd5YUxlTjBURzVLVDl6M3V4eHlRaTN1LUF6TEFQdw?oc=5",
+   "data": "2026-11-09T08:00:42+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://przemysl.naszemiasto.pl/przemysl-wsrod-liderow-medycyny-tylko-trzy-szpitale-w-polsce-wykonuja-takie-zabiegi/ar/c14p2-29510765",
+   "rozszerzony": true
+  },
+  {
+   "id": "28d544fbb30b",
+   "tytul": "Policjanci uratowali 65-latka, który spał w pustostanie podczas pożaru",
+   "lead": "Przed godz. 3 w nocy łańcuccy policjanci dostali zgłoszenie o pożarze budynku w mieście. Sierż. Gabriel Sitarz i sierż. Oliwer Pawełek weszli do zadymionego budynku, nie czekając na inne służby, i w jednym z pomieszczeń znaleźli śpiącego 65-latka, którego wyprowadzili na zewnątrz. Mężczyzna trafił do szpitala, a na miejscu strażacy przystąpili do gaszenia pożaru. Policja przypomina, by w razie widoku osób przebywających w zimnie w pustostanach dzwonić pod numer alarmowy 112.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Rzeszów Info",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1JVeGdybXFaS1E4ZGFlak1lX05LWU1OUkVKc3ZNT04zNWtUNFpiZVNrZi01Wk82UHFjb0tOTzFubENUajN1ZEVaMnUzT2NPOGZkR0NxLVYtV3hscXRpczdoNE1tYktRbmpjRlJUSDYtZ21rWUFNalZianZsLWlIZlJyb3pyU1A4RkM3WlpLMW5pMGlvOV9DVGdfWXhIYUdrQnZuZUdCeFpKMGJM?oc=5",
+   "data": "2026-11-09T07:48:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.rzeszow-info.pl/artykul/14570,spal-w-pustostanie-gdy-wybuchl-pozar-policjanci-uratowali-65-latka",
+   "rozszerzony": true
+  },
+  {
+   "id": "8b41b22707cb",
+   "tytul": "Odkryto naturalny polimer w gniazdach pszczół, zbliżony do polietylenu i szybko ulegający rozkładowi",
+   "lead": "Naukowcy z Virginia Tech i University of Tennessee odkryli, że amerykańskie pszczoły ziemne z gatunku Colletes inaequalis wykładają gniazda naturalnym polimerem zbliżonym do polietylenu. W przeciwieństwie do niego materiał ulega w glebie biodegradacji w ciągu miesięcy, a w cztery miesiące zawartość polimeru w próbkach spadła z 73 do 40 proc. Główny autor badania, Jonathan Coote, chce poznać jego strukturę, by opracować podobne tworzywo produkowane na dużą skalę.",
+   "kategoria": "sci",
+   "kraj": "ŚW",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115824%2Cbiodegradowalny-pszczeli-plastik.html",
+   "data": "2026-11-09T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": true,
+   "rozszerzony": true
+  },
   {
    "id": "373014d5cf92",
    "tytul": "Strażacy ugasili pożar sadzy, uratowali psa i sprawdzili dom z czujką tlenku węgla",
@@ -13,20 +68,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://cedarnews.net/polski/1125314/trzy-akcje-strazakow-gasili-pozar-sadzy-uratowali/",
-   "rozszerzony": true
-  },
-  {
-   "id": "173b6ccbbd58",
-   "tytul": "Strażacy ugasili pożar sadzy, uratowali psa i sprawdzili dom z czujką tlenku węgla",
-   "lead": "Strażacy z OSP i JRG Sokółka gasili pożar sadzy w kominie domu przy ulicy Okopy w Krynkach, który nie wydostał się poza komin. W Dworzysku, z trzcin nad rzeką Sokołdą, uratowano psa, który wrócił do właściciela. W Sokółce zadziałała czujka tlenku węgla w kotłowni jednego z domów, ale kontrola nie wykazała zagrożenia. Prawdopodobnie dym z rozpalania pieca dostał się do urządzenia.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "iSokolka.eu",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ29henRFSFhBSDl5c2ZYeFhRSkdrdEkwQTgwc2FBeWxhSm5PTFR6ZFItRDVPcHlHNGNYcG91Z2l2eTRWRU9GRmF3R1I4T0VPUGY3QURIeDdWS1o3QlRPWWdpYjhNaU9fZUEyOU41UW0wVjdYZ2JsczJsUFVOMjh6cW5ZcWxPYVRUaVF5VVBmOXJWcFdMSGZqaWVzVEs4WjdXLVllYy1mNUw2OWhCOExZemdfbHVpYndfbWdRVEUzQVlpZFVjWVBFbGEwcS1FeEFfc05GOWtxazFZRE1qQ21VcUMwOA?oc=5",
-   "data": "2026-11-08T20:04:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://isokolka.eu/sokolka/72900-trzy-akcje-strazakow-gasili-pozar-sadzy-uratowali-psa-i-skontrolowali-dom-w-ktorym-wlaczyla-sie-czujka-tlenku-wegla",
    "rozszerzony": true
   },
   {
@@ -477,20 +518,6 @@
    "rozszerzony": true
   },
   {
-   "id": "35f8accc7cb5",
-   "tytul": "Policjant uratował życie kobiety w centrum Radomia",
-   "lead": "W nocy 1 listopada w centrum Radomia 40-letnia kobieta straciła przytomność na ulicy. Przechodzący obok policjant, asp. Grzegorz Hernik, choć był wtedy poza służbą, od razu udzielił pomocy i poprosił żonę o wezwanie numeru 112. Gdy doszło do zatrzymania krążenia, prowadził resuscytację, a po kilku chwilach udało się przywrócić czynności życiowe. Do przyjazdu ratowników monitorował jej stan, a następnie kobieta została przewieziona do szpitala.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Radom24.pl",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd3ZGSnpyZnN3Ny1PVUsxVmJnbmVOZlI2dXlaXzZrajlkZ2kydWE4NndqcTZvZjQ1VGRtV0xsa2xDbTlrVmZaZ2RyczNoamhwNFlRVS1PbHF3d1YyT2VIZ0J1RTNNYVhWdGMtZkE0YlhRLS04S2RHSEVpT3ZEUFlJRDhXVlRybGdka25MYVRiZjZNQlV0SFBzamdqY3d0Z2I3SmFfQW5xeWYycmNySlpLOWJwejNvaXhtRlhfek9BRlZTUFVhamUtTm9KLTJVNlUwMDlONGsydw?oc=5",
-   "data": "2026-11-06T13:13:09+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.radom24.pl/wiadomosci-radom/policjant-uratowal-zycie-kobiety-w-centrum-radomia-wszystko-uchwycily-kamery-monitoringu-wideo-63119",
-   "rozszerzony": true
-  },
-  {
    "id": "bd8da249d59f",
    "tytul": "Lekarze szpitala Ba Ria uratowali młodego mężczyznę po pęknięciu serca i zatrzymaniu akcji serca",
    "lead": "24-letni mężczyzna trafił do szpitala Ba Ria w stanie zatrzymania oddechu, śpiączki i ciężkiego wstrząsu spowodowanego pęknięciem serca. Zespół lekarzy ogłosił czerwony alarm i przeprowadził pilną operację. Podczas zabiegu serce pacjenta przestało bić, ale dzięki szybkim działaniom wznowiło pracę, a uszkodzoną prawą komorę udało się zszyć. Około godzinę po operacji pacjent odzyskał przytomność i mógł mówić. Jego stan jest stabilny, a wypisu ze szpitala spodziewa się się w ciągu kilku dni.",
@@ -934,20 +961,6 @@
    "data": "2026-11-05T10:17:14+00:00",
    "przetlumaczone": false,
    "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "666e84dac774",
-   "tytul": "Polscy archeolodzy odkryli w Starej Dongoli greckie inskrypcje i mniejszy kościół przy Wielkim Kościele Jezusa",
-   "lead": "Zespół archeologów z Centrum Archeologii Śródziemnomorskiej UW, kierowany przez prof. Artura Obłuskiego, odsłonił w Starej Dongoli schody i posadzkę Wielkiego Kościoła Jezusa. W przylegającej budowli odkryto mniejszy kościół z fragmentami malowideł oraz tynki z greckimi inskrypcjami zawierającymi biblijne pieśni, w tym modlitwę Anny, matki Samuela. Szacunkowe wymiary świątyni to około 47 na 57 metrów, a wysokość ostrożnie oceniono na 21 metrów. Badacze planują w kolejnym sezonie ustalić ostatecznie jej rozmiary. Na tym stanowisku trwa także projekt instalacji fotowoltaicznej, która zasila pompy doprowadzające wodę z Nilu dla około 10 tysięcy ",
-   "kategoria": "sci",
-   "kraj": "PL",
-   "zrodlo": "Interia Wydarzenia",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkQ5R1Q5amJBNXFqcGRhT1NnLWQtd1FnVW1XTlMxUGhiUUc0cTBqRzlZTjkxNlJRaVJJck9qWUFwZm9qQ1VjdHhFX3pxMExScHRxSEQwVnYxX3NEMWlDZERmcXI0V0lSS2tQdVhpQ2xvWTdnWXdBWTBCLVFleVBENTI2WGMzcXRINV9PQ3ZZX2FqeVJVdHJ5TjczRTZTazNLZklyZ1p5WGVGV3VmUE41SVVLbw?oc=5",
-   "data": "2026-11-05T10:06:01+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://wydarzenia.interia.pl/kraj/news-polscy-archeolodzy-odkryli-skarby-w-sudanie-monumentalna-swi,nId,23569240",
    "rozszerzony": true
   },
   {
@@ -1969,75 +1982,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.vietnam.vn/pl/canh-sat-duong-thuy-giai-cuu-nguoi-mac-luoi-giua-song-hong",
-   "rozszerzony": true
-  },
-  {
-   "id": "9cb7881fcfa6",
-   "tytul": "Kwesty na cmentarzach Podlasia zbierają pieniądze na renowację zabytkowych nagrobków",
-   "lead": "W pierwszych dniach listopada na cmentarzach w Podlaskiem odbyły się tradycyjne kwesty na ratowanie zabytkowych nagrobków. W Białymstoku na Cmentarzu Farnym wolontariusze zebrali 30,5 tys. zł, a dzięki wieloletniej akcji odnowiono już 45 pomników. W Łomży zbiórka przy ulicy Kopernika przyniosła ponad 79,5 tys. zł, a w Suwałkach zebrano prawie 19,2 tys. zł, czyli najwięcej w historii tej kwesty. W Augustowie wolontariusze zebrali ponad 27,5 tys. zł, a w Sejnach kwestowano przez cztery dni, zbierając na razie około 10 tys. zł.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "Polskie Radio Białystok",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YY0ZjaXk0V01lMEZfa3h1a1RZdlRlTlNTN0s5VW9Ga1dyaWNETzNlTWxTR05BdFRTMHJZemIya1BNblFoY3VPNFM2SnUzZGFmYmxiSWx5a09kOXowcEhkSlBCTDFSODJaV09V?oc=5",
-   "data": "2026-11-02T10:09:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.radio.bialystok.pl/wiadomosci/suwalki/id/266344",
-   "rozszerzony": true
-  },
-  {
-   "id": "c1f87029137b",
-   "tytul": "Osadzeni w Chojnicach ćwiczyli pierwszą pomoc z Państwową Strażą Pożarną",
-   "lead": "Osadzeni w Oddziale Zewnętrznym w Chojnicach ponownie wzięli udział w warsztatach z udzielania pierwszej pomocy. Zajęcia przygotował Dział Służby Zdrowia wspólnie z Państwową Strażą Pożarną, a część praktyczna odbyła się z udziałem funkcjonariuszy z Chojnic. Uczestnicy przypomnieli sobie, jak ważne są opanowanie i szybka ocena sytuacji w nagłych przypadkach. Spotkanie wpisuje się w działania resocjalizacyjne zakładu, których celem jest rozwijanie kompetencji i postaw społecznie odpowiedzialnych.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "Służba Więzienna",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBlak1oRG1rU1VtUjRxTzJldm5tdVJHb3JWNGNSYVl0TktTNTU2NDQyMTZta3k1VTVtR29DMTIyZy1WRVU?oc=5",
-   "data": "2026-11-02T09:28:32+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://sw.gov.pl/node/285179",
-   "rozszerzony": true
-  },
-  {
-   "id": "8c7545e3d602",
-   "tytul": "Nocne walki bokserskie dla kobiet mają finansować bezpłatne treningi dla ofiar przemocy",
-   "lead": "Seria nocnych gal bokserskich dla kobiet ma zebrać pieniądze na bezpłatne treningi dla osób, które przeżyły przemoc domową. Jedna z uczestniczek, Saria, mówi, że program Fight Forward uratował jej życie, a dzięki treningom odzyskała pewność siebie. Pierwsza gala, organizowana przez nowo powołaną firmę Fight Back Promotions, odbędzie się 28 listopada w Londynie. Ćwierć zysku z każdego wydarzenia ma trafić do organizacji Fight Forward CIC. Dotąd program ukończyło niespełna 40 kobiet.",
-   "kategoria": "people",
-   "kraj": "ŚW",
-   "zrodlo": "Positive News",
-   "url": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
-   "data": "2026-11-02T09:26:16+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "6b7fa4fe39a7",
-   "tytul": "32. kwesta na Starym Cmentarzu w Łodzi zebrała ponad 96 tys. zł",
-   "lead": "Podczas tegorocznej, 32. kwesty na rzecz ratowania zabytków Starego Cmentarza w Łodzi zebrano ponad 96 tys. zł. Pieniądze zbierano w sobotę i niedzielę, a w Dniu Wszystkich Świętych do akcji włączyli się także znani Łodzianie. Od pierwszej kwesty w 1995 roku zgromadzono już ponad 2 mln zł, dzięki czemu odrestaurowano 222 zabytkowe nagrobki. Zebrane środki posłużą kolejnym pracom konserwatorskim i ratunkowym na najstarszej istniejącej nekropolii w Łodzi.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "Portal Samorządowy",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDA2WlFlRFhoZ2VlLURqMUJOTlhIaFdKeUJKYVNsaHY5QmYwMl90b2s0YVUyRGFQYXR2SmplcGp2UlctRzJkOTJZSVdZcWpTckNGcjN2UWd0Z2ZrS1IyX1lVSGtKZ3A2RkgzRXdlUkEwWEZXQ3g4aGpURHVFSmlyMFJpM3ViOG1uczlRT05PakQzVE9CZ2lzSHFiYi1xdTNVSTVJMFBuZkFiOFY0VmNwanduVkg3c3R2amRHUTZxTXg?oc=5",
-   "data": "2026-11-02T09:09:31+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.portalsamorzadowy.pl/inwestycje/zebrali-96-tys-zl-w-dwa-dni-przez-30-lat-uratowali-juz-222-nagrobki,682551.html",
-   "rozszerzony": true
-  },
-  {
-   "id": "99bd324f01e6",
-   "tytul": "Żubry wracają do Szwajcarii. Stado w kantonie Solura po cztery latach obserwacji rośnie",
-   "lead": "Żubry, których na tym terenie nie było od około tysiąca lat, wracają do Szwajcarii. W 2022 roku do Welschenrohr w kantonie Solura przywieziono pięć zwierząt, a latem 2023 roku stado liczyło już 14 osobników. Przez cztery lata badacze stwierdzili, że żubry dobrze się zaaklimatyzowały. Najbardziej odczuwalne były straty na łąkach, gdzie plony spadły o około 20 proc., a kora została uszkodzona na 9 proc. drzew. Zanotowano 15 pozorowanych szarż, ale nie było bezpośrednich ataków, a organizatorzy zapowiadają dalsze badania.",
-   "kategoria": "nature",
-   "kraj": "ŚW",
-   "zrodlo": "Dziennik.pl",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVXlmZ3lvVm1MWGliRVBXZ19DQlVGMmFLenJzVlRHSlNYV0ZBS2VrbC13M1pnRU01b0RwSWFYSHd3YUZBNFRCb2JFaVAyTmN4WlRHcFVzMm44TTl6OFpjUVd1M3B6M05tRDZsdFBTY3hvMEgxX2VBRFFUdFRFSkRLdlpUNkljaXFFZlhCWWJ6akVlTG5uZTE5QVp6b3I3ellz?oc=5",
-   "data": "2026-11-02T05:04:13+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.dziennik.pl/zwierzaki/artykuly/11338116,zubry-wracaja-do-szwajcarii-po-1000-latach.html",
    "rozszerzony": true
   }
  ]

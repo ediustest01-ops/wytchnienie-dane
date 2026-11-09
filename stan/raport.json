@@ -1,18 +1,18 @@
 {
- "czas": "2026-11-09T00:56:58.505614+00:00",
+ "czas": "2026-11-09T08:02:17.337526+00:00",
  "zrodla": {
-  "https://www.polsatnews.pl/rss/polska.xml": 50,
-  "https://www.polsatnews.pl/rss/swiat.xml": 50,
-  "https://www.polsatnews.pl/rss/technologie.xml": 50,
-  "https://www.polsatnews.pl/rss/czysta-polska.xml": 50,
+  "https://www.polsatnews.pl/rss/polska.xml": "BŁĄD",
+  "https://www.polsatnews.pl/rss/swiat.xml": "BŁĄD",
+  "https://www.polsatnews.pl/rss/technologie.xml": "BŁĄD",
+  "https://www.polsatnews.pl/rss/czysta-polska.xml": "BŁĄD",
   "https://naukawpolsce.pap.pl/all/rss.xml": 10,
   "https://tvn24.pl/najnowsze.xml": 0,
   "https://www.rmf24.pl/feed": 50,
   "https://wydarzenia.interia.pl/feed": 50,
-  "uratowali": 23,
+  "uratowali": 29,
   "uratował życie": 24,
   "lekarze uratowali": 15,
-  "pierwszy w Polsce zabieg": 4,
+  "pierwszy w Polsce zabieg": 5,
   "polscy naukowcy odkryli": 6,
   "odnaleziony cały i zdrowy": 1,
   "wolontariusze pomogli": 0,
@@ -30,13 +30,13 @@
   "https://www.theguardian.com/world/series/the-upside/rss": 20
  },
  "zajawki": {
-  "probowano": 0,
-  "z_artykulu": 0,
-  "z_rss": 0,
-  "bez_tekstu": 0,
-  "gotowe": 0
+  "probowano": 4,
+  "z_artykulu": 3,
+  "z_rss": 1,
+  "bez_tekstu": 1,
+  "gotowe": 3
  },
  "bledy": [],
- "dobrych_nowych": 0,
- "razem": 150
+ "dobrych_nowych": 5,
+ "razem": 146
 }
