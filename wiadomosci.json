@@ -1,5 +1,5 @@
 {
- "aktualizacja": "2026-11-10T17:54:40.781978+00:00",
+ "aktualizacja": "2026-11-10T23:27:16.688493+00:00",
  "wiesci": [
   {
    "id": "b3b764b8105b",
@@ -12,6 +12,20 @@
    "data": "2026-11-10T16:30:45+00:00",
    "przetlumaczone": true,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "f02d976028fa",
+   "tytul": "Indonezja: uratowano osiem orangutanów, które mogą wrócić na wolność",
+   "lead": "Indonezja zmaga się z najintensywniejszymi od 11 lat pożarami lasów, głównie na Sumatrze i Borneo. Walka z ogniem może potrwać do listopada. Na Borneo ratownicy przenieśli osiem orangutanów z zagrożonego terenu do chronionego lasu Batu-Nyambu, licząc, że zwierzęta wrócą tam do życia na wolności. Od sierpnia do października uratowano łącznie 46 orangutanów poszkodowanych przez pożary, a ten gatunek jest krytycznie zagrożony. Jak podkreśla prezes YIARI, ochrona siedlisk pozostaje priorytetem, lecz dopóki są one zagrożone, ratowanie zwierząt jest jednym z najlepszych działań.",
+   "kategoria": "nature",
+   "kraj": "ID",
+   "zrodlo": "TVN24",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWlLWFdROTZIalpJSTBxdGZFWnp6Sm44cDM4a2hJVUE0UmtYeHdsbGtFLThUeDlzQnVLUGV0cHM5cElnWnhvN2pQQ1Y3NkNjNkI2S0ZIdkwwWjRmQVA2MDRmUXNSM3RMT252TUFuZk1FSW5TYjhfZHhSMWI3bElya2JDVG1MYnVfNlRmX25MV1VLR2pLY3B6WWtjSDVyZmQ5a09vUG5UclE3Tm82RHJ0TDZuYUVRbWlP?oc=5",
+   "data": "2026-11-10T16:26:12+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://tvn24.pl/tvnmeteo/swiat/indonezja-uratowali-osiem-orangutanow-szansa-na-powrot-do-zycia-na-wolnosci-st9280915",
    "rozszerzony": true
   },
   {
@@ -2021,19 +2035,6 @@
    "data": "2026-11-04T00:00:49+00:00",
    "przetlumaczone": true,
    "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "36f3ecbc3f77",
-   "tytul": "Naukowcy ze Stanfordu: zbielały koral może wracać do zdrowia przez dotyk",
-   "lead": "W laboratorium Stanforda w zbiorniku przewróciły się dwa fragmenty koralu. Gdy się zetknęły, zdrowy fragment przesłał zbielałemu kolorowe, pożyteczne glony symbiotyczne, których brak powoduje utratę barwy i pożywienia. Zbielały fragment zaczął wracać do zdrowia w ciągu kilku dni. Badacze obserwowali to zjawisko w warunkach laboratoryjnych.",
-   "kategoria": "nature",
-   "kraj": "US",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/stanford-scientists-discovered-bleached-coral-can-heal-through-touch/",
-   "data": "2026-11-04T00:00:01+00:00",
-   "przetlumaczone": true,
-   "wstepne": true,
    "rozszerzony": true
   }
  ]
