@@ -1,6 +1,46 @@
 {
- "aktualizacja": "2026-11-10T23:27:16.688493+00:00",
+ "aktualizacja": "2026-11-11T06:33:32.444730+00:00",
  "wiesci": [
+  {
+   "id": "bcb6fac6e3fe",
+   "tytul": "Policjanci z Da Nang uratowali dwie osoby podczas ulewnego deszczu",
+   "lead": "11 listopada funkcjonariusze drogówki z Da Nang, z Zespołu Policji Ruchu Drogowego nr 3, udzielili pomocy dwóm osobom poszkodowanym podczas ulewy na górskich drogach. Pierwszy mężczyzna poślizgnął się na Krajowej Drodze 14B, złamał lewą nogę i nie mógł się poruszać. Godzinę później na autostradzie Ho Chi Minha kobieta upadła, doznała urazu głowy i mocno krwawiła. W obu przypadkach policjanci przetransportowali rannych do szpitala, zapewniając im szybką pomoc medyczną.",
+   "kategoria": "rescue",
+   "kraj": "VN",
+   "zrodlo": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlZQUmY2OXUwMmNtbEl0eTFBRmdnWW4xTU84emlxNXpHcWFOWEhFZ1hTbDh3ZVlmTHVVYXhscjRGbTZDdFJOZDB0VHBOWTZkUmhxdjdkNTdTdl9XTE5jS1VDQjNJNGhDTm56dUIyaHNTc2c0MllyTlJvenlzN2ZXNC0xdDVOM0pNajB0OUlmSQ?oc=5",
+   "data": "2026-11-11T02:13:35+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.vietnam.vn/pl/csgt-da-nang-lien-tiep-cuu-giup-2-nguoi-gap-nan-giua-mua-lon",
+   "rozszerzony": true
+  },
+  {
+   "id": "74a2f1405928",
+   "tytul": "Prince Bashangezi zorganizował korepetycje rówieśnicze dla uczniów z obozu dla uchodźców",
+   "lead": "W marcu 2020 roku zamknięcie szkół przez pandemię COVID-19 dotknęło również obóz dla uchodźców Tongogara w Zimbabwe, położony w pobliżu granicy z Mozambikiem. Tam Prince Bashangezi kończył wtedy naukę na poziomie A-Level. Tekst jest skrócony, więc przedstawia tylko tło tej historii.",
+   "kategoria": "people",
+   "kraj": "ZW",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/prince-bashangezi-turned-personal-loss-into-peer-tutoring-for-refugee-students/",
+   "data": "2026-11-11T00:00:49+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "cc152d1d03a5",
+   "tytul": "Brazylia opublikowała pierwszy na świecie plan wycofywania paliw kopalnych",
+   "lead": "3 listopada Brazylia przedstawiła pierwszy na świecie plan stopniowego odchodzenia od paliw kopalnych, zapisany na piśmie wraz z harmonogramem działań. Jak podaje The Optimist Daily, to krok, na który od lat czekali uczestnicy międzynarodowych rozmów klimatycznych.",
+   "kategoria": "sky",
+   "kraj": "BR",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/brazil-releases-the-worlds-first-fossil-fuel-phaseout-roadmap/",
+   "data": "2026-11-11T00:00:37+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "b3b764b8105b",
    "tytul": "Ratownicy odnaleźli 6-letniego chłopca z autyzmem, który zaginął na trzy dni w Kentucky",
@@ -39,6 +79,20 @@
    "data": "2026-11-10T16:08:21+00:00",
    "przetlumaczone": false,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "1662abbb6ddf",
+   "tytul": "Student ostatniego roku po sześciu miesiącach nauczył się chodzić mimo niemal sparaliżowanych nóg",
+   "lead": "Nguyen Tan Phat, student ostatniego roku Uniwersytetu Przemysłowego w Ho Chi Minh, spadł z wysokości około sześciu metrów podczas pracy dorywczej. Upadek spowodował złamanie kręgu piersiowego i poważny uraz rdzenia kręgowego, co niemal całkowicie pozbawiło go sprawności w nogach. Po długiej operacji i wielomiesięcznej rehabilitacji w szpitalu w Ho Chi Minh potrafi już samodzielnie chodzić. Po ponad sześciu miesiącach leczenia został wypisany ze szpitala 29 października, a jego plany obejmują ukończenie studiów i powrót do pełnej sprawności do początku 2027 roku.",
+   "kategoria": "med",
+   "kraj": "VN",
+   "zrodlo": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVZLUXhhZC1Ud2tUSnNsd3VkOWVNNi0wOGlnQVNoMDh0aTlmbUs3eXJfaFFRWWFabkI2aVFFbW9Ta205T1IyZ2s4cnlnajloNm1hSHdhc29MME9ib0NWM3g5VDJqVVlqVXdxX082b2FQMUpFV05XZjVvekRNOGlBOFJya2M4Q1BHWGRKQXUxc2hxUQ?oc=5",
+   "data": "2026-11-10T14:39:15+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.vietnam.vn/pl/hai-chan-gan-nhu-liet-nam-sinh-nam-cuoi-tu-buoc-di-sau-6-thang",
    "rozszerzony": true
   },
   {
@@ -1981,60 +2035,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://twojradom.pl/policjanci-z-kozienic-uratowali-nieprzytomna-pasazerke-kobieta-miala-problemy-z-oddychaniem/1469932",
-   "rozszerzony": true
-  },
-  {
-   "id": "0dea0d6e77d8",
-   "tytul": "Kamera termowizyjna odnalazła 22-latka leżącego w zaroślach",
-   "lead": "Rodzina zgłosiła policjantom z Lubaczowa zaginięcie 22-latka, który wyszedł z domu i przestał się kontaktować. Noc była chłodna, a warunki utrudniały poszukiwania. Do akcji włączyli się funkcjonariusze Straży Granicznej z Placówki w Lubaczowie, a mężczyznę udało się zlokalizować dzięki dronowi z kamerą termowizyjną. Leżał w gęstych zaroślach i był wychłodzony, dlatego otrzymał pomoc policjantów i trafił pod opiekę ratowników medycznych. Jak podkreślono, odnaleziono go, zanim doszło do tragedii.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Rzeszów Info",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3RmVDFwREFtMXMtV2FLSUltdDRwUWhRZlotcG91elo4N1Ryc0JPdm5yamRrNmtKaVpKdTFIREtBVTBhTWJ5Z2dkekotN0UzR3ZWTmtQNDRlWjh4T2pFb0NMbGY3RXdyZXVOREdiWHVNTVVZYmI3SFNNNWl6V2NsNW5CMHZneTdROHlBb3lKSE94SkoxMUtSeHNHYVJQaDZFdHNr?oc=5",
-   "data": "2026-11-04T08:06:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.rzeszow-info.pl/artykul/14514,22-latek-lezal-w-zaroslach-uratowala-go-kamera-termowizyjna",
-   "rozszerzony": true
-  },
-  {
-   "id": "ac51643665e1",
-   "tytul": "Myszołów, który nie mógł latać, trafił do ośrodka rehabilitacji w Wirginii",
-   "lead": "Wolontariusze z Southwest Virginia Wildlife Center przyjęli samicę myszołowa rdzawoskrzydłego, która od pewnego czasu przebywała na podjeździe domu pod Roanoke i nie mogła wzbić się w powietrze. Badania w klinice nie wykazały złamań, zatrucia ołowiem ani problemów ze wzrokiem. Przyczynę ujawniło dopiero zważenie ptaka, które wykazało około 910 gramów, czyli znacznie więcej niż średnio waży samica. Okazało się, że u jednego z sąsiadów liczba swobodnie chodzących kur znacznie spadła, a drapieżnik regularnie najadał się łatwą zdobyczą. Wolontariusze apelują, by nie dokarmiać dzikich zwierząt i trzymać drób na zabezpieczonych wybiegach.",
-   "kategoria": "nature",
-   "kraj": "US",
-   "zrodlo": "TVN24",
-   "url": "https://tvn24.pl/tvnmeteo/swiat/usa-myszolow-nie-mogl-latac-powod-okazal-sie-niezwykly-st9321244?source=rss",
-   "data": "2026-11-04T07:10:55+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "31ea8e5c54b0",
-   "tytul": "Zakończyła się kwesta w Zduńskiej Woli",
-   "lead": "W Zduńskiej Woli zakończyła się kwesta na rzecz pomocy. Szczegóły dotyczące zebranej kwoty podaje lokalny portal eZdunska.pl.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "eZdunska.pl",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMEZGcnc5Zm50elFUQmNHOGJiaWUtdnJ5cFlvMHRYbld6YVlsSkh0eFkzVnJWVVVNY0ZvaXNUdnZ3b0g1TFpQb0ZxRVBLUDdBWjk1U2hHU2tmTlNfajluT21PUEczQU1HNUp3dGNkSGJ6MVROQzlyVlNUeTVOem1RNW53d19GMWNkZ1psaTQyemhTeTlSMXlwSlUwa1ZjbS1vRmxLOGNZNGg0NDBwZWg2dkhQVQ?oc=5",
-   "data": "2026-11-04T07:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://ezdunska.pl/wiadomosci/zakonczyla-sie-kwesta-w-zdunskiej-woli-ile-udalo-sie-uzbierac/q7auI6Cdjpfk8ljGUdhR",
-   "rozszerzony": true
-  },
-  {
-   "id": "6cdd1efd6754",
-   "tytul": "Maya Higa odmówiła pływania z kaszalotami na Dominice",
-   "lead": "Podczas wyjazdu na Dominikę, gdzie chciała poznać kaszaloty żyjące w tamtejszych wodach, Maya Higa dostała propozycję pływania z tymi zwierzętami i ją odrzuciła. Tekst jest zapowiedzią z cyklu The Optimist Daily o zmieniaczach do 30. roku życia, a dalsze szczegóły nie są w nim zawarte.",
-   "kategoria": "people",
-   "kraj": "US",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/",
-   "data": "2026-11-04T00:00:49+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
    "rozszerzony": true
   }
  ]
