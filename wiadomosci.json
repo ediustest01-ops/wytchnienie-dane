@@ -1,6 +1,33 @@
 {
- "aktualizacja": "2026-11-11T22:44:20.345026+00:00",
+ "aktualizacja": "2026-11-12T03:51:22.195069+00:00",
  "wiesci": [
+  {
+   "id": "d59bc119c516",
+   "tytul": "Los Angeles na stałe zakazało wiercenia ropy naftowej po dekadzie presji mieszkańców",
+   "lead": "Los Angeles zdecydowało o trwałym zakazie wiercenia ropy naftowej w mieście. Decyzja zapadła po wieloletnich naciskach mieszkańców, którzy od lat żyli w pobliżu odwiertów i nieczynnych szybów wydzielających metan. Wskazywano, że w okolicach wydobycia wykrywano benzen i siarkowodór, które łączono z wyższymi wskaźnikami problemów zdrowotnych.",
+   "kategoria": "nature",
+   "kraj": "US",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/after-a-decade-of-community-pressure-la-bans-oil-drilling-for-good/",
+   "data": "2026-11-12T00:00:35+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "750c83a9cdbf",
+   "tytul": "Strażacy wezwani na ratunek kotu w Orli",
+   "lead": "Strażacy zostali wezwani, aby pomóc kotu w Orli. Pozostała część przesłanego tekstu nie zawiera szczegółów tej interwencji.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Bielsk.eu",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XS0RsR1JuQ1RFNldpc1IxUE9XMUlNY003VHRVbGNHMjIzd2RSLS13ZmR2RDNKTzZjRkp6RjBJTnlDdE0zZUxncFdtd2JodXFnek4zUlZnaUVrb213aHF1Wk1zWkp2YUJabEx4VzJjbkpFS1pPems3aXZBOA?oc=5",
+   "data": "2026-11-11T20:21:55+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://bielsk.eu/orla/60731-strazacy-wezwani-na-ratunek-do-kota-w-orli",
+   "rozszerzony": true
+  },
   {
    "id": "d3efc5ca1dff",
    "tytul": "W Hiszpanii odkryto 280 grawerunków z epoki lodowej",
@@ -134,6 +161,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://bielskobiala.wyborcza.pl/bielskobiala/7,88025,33125973,historia-optymistyczna-po-ponad-dwoch-latach-zbiorki-sa-miliony.html",
+   "rozszerzony": true
+  },
+  {
+   "id": "45335d396e65",
+   "tytul": "Dofinansowanie na ochronę bioróżnorodności Roztocza",
+   "lead": "Na ochronę bioróżnorodności Roztocza, regionu na południowym wschodzie Polski, przyznano dofinansowanie. Środki mają wspierać przyrodę tego obszaru.",
+   "kategoria": "nature",
+   "kraj": "PL",
+   "zrodlo": "roztocze.net",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLUJEQ3dfTHh3RzlLZ2RKTWJvYTR4NWVDVkt5MnZkdVQybHVlTk1Oc3NtWnZfUFI0Vkpsa3QtR0NpeTlhd3I3cUF5ZHhlVFBTMWl1NlN2azlhSVBubWRWc0plZUFpQ3NDczkxdkM1VFY4cl9hSzVqRzZoeWNlMXUyaUZNZ254U3lUOFlHdGRwZ2FHSF9BNGQyYWRzZ0Y3dEhiblQ1endtQ3dMX1k?oc=5",
+   "data": "2026-11-11T11:23:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://roztocze.net/pl/15_fotorelacje/93_oficjalnie/6820_dofinansowanie-dla-bioroznorodnosci-roztocza.html",
    "rozszerzony": true
   },
   {
@@ -322,6 +363,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://rzeszow.tvp.pl/96406125/policjanci-uratowali-mezczyzne-z-plonacego-pustostanu-spal-w-zadymionym-budynku",
+   "rozszerzony": true
+  },
+  {
+   "id": "35fa5ae953d8",
+   "tytul": "Policjanci uratowali mężczyznę z płonącego pustostanu",
+   "lead": "Funkcjonariusze wyprowadzili z zadymionego budynku mężczyznę, który spał w środku, gdy wybuchł pożar pustostanu. Mężczyzna wyszedł z budynku.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "TVP Rzeszów",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0VHYUVjQ2dCaF9mcDRMQVpuejdBcUtZWkYteWNudWhrWkVjZEtsQVZBU0ZnWFVlMU5qYmlpb2ZYbHZIUkFMZWRjX2pwR1ZfR05BREpvOGV6eUI1SFVlSXZCeHJtcHhhVHBZdXp3NHRjaWY3ZzJIV3RQdzR2clJxc2hJOTlJejFITjlibTdiRXFBOXNLZi14U2J4Ulc0MmZmZ290ckVKZ19hbjZpdGp4MA?oc=5",
+   "data": "2026-11-10T13:59:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://rzeszow.tvp.pl/96406253/policjanci-uratowali-mezczyzne-z-plonacego-pustostanu-spal-w-zadymionym-budynku",
    "rozszerzony": true
   },
   {
@@ -1978,62 +2033,6 @@
    "data": "2026-11-05T10:17:14+00:00",
    "przetlumaczone": false,
    "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "b99ba36bef1f",
-   "tytul": "Nurek jaskiniowy zbadał głębiej jaskinię Vrelo w Macedonii Północnej",
-   "lead": "Nurek jaskiniowy, który zajmuje się eksploracją podwodnych jaskiń od 2016 roku, opowiedział o wyprawach do jaskini Vrelo w Macedonii Północnej. Przez lata eksploracja kończyła się na około 240 metrach, a w 2025 roku udało się dotrzeć do 287 metrów i stwierdzić, że korytarz prowadzi dalej. Tegoroczna wyprawa miała na celu zbadanie jeszcze większej głębokości i, według rozmówcy, zakończyła się sukcesem. W przygotowania zaangażowano ponad 20 osób, w tym zespół BAD Exploration Team oraz lokalnych partnerów.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "Gazeta Krakowska",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZkpENlpIYWtOTVRRclEwd05lZVpmazBoMzBHQjdyTGkxTGdBUjlTbWNkNExOLXdVUk84WlJ5M2pLR0tHSl9BNmdKSmgzR0FpcURvdnVKaVBxNUpwWWZnbkd0dktnRHFaY1lQMlQ3cnZRWnBheTNlOXVMR1lBN1NHeFd4bFg0eE1BdDB5cUQ4WnFFN2FIT2RjcU92Q3pLbjhwTVplSjdEbG5lTVlybTJ2dlRvc2tySVhHOHcwTWdFcVBSNVFhNmNUOGRibzhYc0tGclA3VHJHSExnSlI2aHBmV3J4NXA1YTB5OU1ZZnctbndGUWV3Mm9EQkRmUnRra3RtVHcwUVNLZw?oc=5",
-   "data": "2026-11-05T09:36:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://gazetakrakowska.pl/bartlomiej-pitala-nurkuje-w-jaskiniach-jak-gleboko-wlasnie-pobil-rekord-swiata-korzystalem-z-kilku-niezaleznych-systemow-oddechowych/ar/c1p2-29493753",
-   "rozszerzony": true
-  },
-  {
-   "id": "f95faaf70d6b",
-   "tytul": "W Chąśnie pojawił się defibrylator dzięki inicjatywie miejscowych gospodyń",
-   "lead": "Miejscowe gospodynie zadbały o to, by w Chąśnie znalazł się defibrylator. Urządzenie może uratować życie w nagłym przypadku.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "Łowiczanin.info",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUmNsUHpLQUlLSlI5dnNKWF9taWswS3haMW9WSi1GNjh5V1BiUG10NU9ybnEwSUw0RXpTbURKS1VuT0FjdzRLNWFZbTJsYXRHcFMyQXRsdWxmRUtjcDZpcGM5ckJfQ0JlbU94RFBYcGZKNnVHdFZZTkJmaGtvbHdoWWd4YkI2dDJENnA1cnRiRGlhdWJybDNwbkYtcHpMN2p1RG55a25uRFdib1VnSGl0MVB3WDZtYUNqWm9kbnNqRkZKQTZ5WEpkYTE5VEtCNWhueGRYU0JEZkp3enpSQmpEZ3dVaUFRaGla?oc=5",
-   "data": "2026-11-05T09:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://lowiczanin.info/wiadomosci-z-regionu/gospodynie-zrobily-cos-wyjatkowego-w-chasnie-pojawilo-sie-urzadzenie-ktore-ratuje-zycie/tSvTamHP741qeE4BL24r",
-   "rozszerzony": true
-  },
-  {
-   "id": "a8f3e3284449",
-   "tytul": "W słupskim szpitalu robotem da Vinci po raz pierwszy w regionie usunięto pęcherz moczowy",
-   "lead": "Wojewódzki Szpital Specjalistyczny w Słupsku przeprowadził jako pierwszy w regionie radykalne usunięcie pęcherza moczowego z asystą robota da Vinci. Zabieg wykonano u pacjenta z zaawansowanym nowotworem. Dotąd takie operacje wykonywano metodą otwartą, a technika robotyczna pozwala ograniczyć utratę krwi, ból i czas rekonwalescencji. Oddział urologiczny planuje wykonywać około 20 takich zabiegów rocznie. Przy okazji listopadowej akcji Movember lekarze przypominają, że przy raku prostaty wczesne wykrycie daje większe szanse, a badanie PSA można wykonać bezpłatnie w programie „Moje Zdrowie”.",
-   "kategoria": "med",
-   "kraj": "PL",
-   "zrodlo": "Radio Gdańsk",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmdpV3doSDhYaUNfNHctNGY4MHhpazIzNGF6cnZjUC0xWVdrNG1WeXJHNlVxVmdpNWh3R25NaG5XRGxQWnhRcnBtZ1FoQ0dQZjlLNVlOMFdfSFROem02VURLWTFFR1hRMmx2aTVIQ0YtUUJWVU9scFhTUUZEektGRGhEaV8tRXU2TFduWU55dTJtZEVEODVEVjZEeHJvSnVMN3ZFaDdrcUwzUU9tYlRBRVFMSXB6b29vUTQ2S2o3Q2VEVzQ?oc=5",
-   "data": "2026-11-05T08:46:33+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://radiogdansk.pl/wiadomosci/region/slupsk/2026/11/05/urologia-robotyczna-w-slupsku-osiagnela-najwyzszy-stopien-rozwoju/",
-   "rozszerzony": true
-  },
-  {
-   "id": "5c94604148a4",
-   "tytul": "W Wietnamie uratowano rybaka z silnym bólem brzucha na morzu",
-   "lead": "Rybak z Da Nang odczuwał silny ból brzucha podczas połowu u wybrzeży prowincji Quang Tri. Straż Graniczna z posterunku Nhat Le, po zgłoszeniu z 4 listopada, kontaktowała się ze statkiem i zorganizowała akcję ratunkową. Mężczyznę przewieziono na brzeg, a następnie do szpitala w Dong Hoi, gdzie stwierdzono perforację żołądka. Po szybkiej operacji jego stan jest bezpieczny, a lekarze nadal go monitorują.",
-   "kategoria": "rescue",
-   "kraj": "VN",
-   "zrodlo": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVc3WDNKX01xUkc4OE5mWENjdUljak95c3g5ZWJYN2toSjdGN2lQeXBfSWhwM0x3cWZ1UGMwR255OUstOEtCYmhKRHhfd0QxOGYtQ0wyYkExaUhtc0dRZWRsRy1jZGg3bk0zTzZXcjZOeTU3TkRNa2hRQ201QlQ4bXNmYUFSSUFEZS1ldTJrRQ?oc=5",
-   "data": "2026-11-05T08:39:21+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.vietnam.vn/pl/quang-tri-ung-cuu-kip-thoi-ngu-dan-bi-thung-da-day-tren-bien",
    "rozszerzony": true
   }
  ]
