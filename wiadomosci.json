@@ -1,6 +1,33 @@
 {
- "aktualizacja": "2026-11-12T20:51:47.992892+00:00",
+ "aktualizacja": "2026-11-13T01:52:21.350271+00:00",
  "wiesci": [
+  {
+   "id": "06569641826b",
+   "tytul": "Pierwsza na świecie oczyszczalnia usuwająca mikroplastik w Atlantic City",
+   "lead": "Oczyszczalnia ścieków w Atlantic City w stanie New Jersey jako pierwsza na świecie zaczęła usuwać mikroplastik z oczyszczanej wody. Wcześniej zakłady tego typu zatrzymywały bakterie, chemikalia i odpady biologiczne, lecz mikroplastik przechodził przez nie bez przeszkód. System opracowali dwaj absolwenci Princeton.",
+   "kategoria": "nature",
+   "kraj": "US",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/how-two-princeton-graduates-built-the-worlds-first-microplastics-removal-system/",
+   "data": "2026-11-13T00:00:54+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "fce8c0c7366a",
+   "tytul": "Zaginiony kot klubowy odnalazł się po poszukiwaniach w Niecieczy",
+   "lead": "Klub Bruk-Bet Termalica Nieciecza wieczorem zaapelował o pomoc w odnalezieniu zaginionego kota Ryśka. Do poszukiwań włączyło się wielu internautów. Po 22:00 klub poinformował, że rudy kot się odnalazł, a na zdjęciu wygląda na zdrowego. Klub podziękował wszystkim za udostępnienia.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "weszlo.com",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPazVDRElsQ1ZiUHk0SDlzNVpIZkw3X2UxeUtMVGVPSVZrbUlmZHlWSUFtTjhORlgtT1Y0M2QxaHF4R09kcm1jaU1aLWtSNFF2NnBoVnA4QWFDbUVjb3RzY3RYUkFJV29IOHQxb180dDNadDNrbXpsVnVSbVpBSHBPYTQ2OFVLaFA2NUpnS3dVRQ?oc=5",
+   "data": "2026-11-12T22:31:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://weszlo.com/wielkie-poszukiwania-w-niecieczy-zakonczone-kluby-kot-sie-odnalazl/",
+   "rozszerzony": true
+  },
   {
    "id": "fc3776b1a4f5",
    "tytul": "Chiny uruchomiły największą na świecie instalację magazynowania energii z powietrza ciekłego",
@@ -703,6 +730,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://palukiznin.pl/artykul/medal-za-ratowanie-ludzkiego-n2575853",
+   "rozszerzony": true
+  },
+  {
+   "id": "877b5bb162b4",
+   "tytul": "Maria Skłodowska-Curie upamiętniona w Nowym Jorku",
+   "lead": "Jeden z narożników skrzyżowania York Avenue i 66. ulicy na Manhattanie nosi od wtorku imię Marii Skłodowskiej-Curie. Miejsce nazwano z inicjatywy polskiego konsulatu, w przeddzień Narodowego Święta Niepodległości. Podczas uroczystości przypomniano, że w latach 30. wzdłuż East River istniała wcześniej ulica jej imienia, zlikwidowana przy budowie FDR Drive. Odtworzono też wygenerowany przez sztuczną inteligencję głos noblistki.",
+   "kategoria": "sci",
+   "kraj": "PL",
+   "zrodlo": "Zero.pl",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGowYkF0ZFFUVVNxdzl4U19Lb2gxSkRaRDNjTlJnV1ZlTGpZalR0X1VsUldsUnJNekZ6a1pGbWJZZkFNWVZNa285QWVjLTg3a0VKdkN0TGt4X3EtTXVJOU5HN01XWUJ6TzFTb1RrS1g3M1NKMjB3WWhQZDVvSXMtb0VXczFwd2J6Zjd4NUU3MTR2cjNZNFdGdGV0U2x3dw?oc=5",
+   "data": "2026-11-11T07:22:12+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://zero.pl/news/maria-sklodowska-curie-upamietniona-w-nowym-jorku-wpisalismy-w-miasto-polske",
    "rozszerzony": true
   },
   {
@@ -1991,47 +2032,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.eska.pl/news/zatrzymanie-krazenia-w-centrum-radomia-policjant-uratowal-40-latke-aa-AVpJ-gBwp-BVtM.html",
-   "rozszerzony": true
-  },
-  {
-   "id": "7b385a9c96ea",
-   "tytul": "Rekordowa zbiórka żywności w Krakowie. Zebrano 16 ton",
-   "lead": "Zbiórka żywności w Krakowie zakończyła się rekordowym wynikiem: zebrano 16 ton produktów.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "TVP Kraków",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObVY5aVVLNllnbmtVZE13bXlHaWVYVzh0bEVmZXVLTzVSYnNWcnluLTZvVUV2TWF0STEta295WW5PUG41VEhsZEJMOVVOT1dsTEN4QVU4b2Q5dmRTRXk1SFpIMW1jaXIzOTdUTU1lU1kzV2VNdno5aUwtNWJkV0ZKRjFLRWtFMjlGUWc?oc=5",
-   "data": "2026-11-06T17:00:28+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://krakow.tvp.pl/96343500/krakow-pobil-rekord-zbiorki-zywnosci-zebrano-16-ton",
-   "rozszerzony": true
-  },
-  {
-   "id": "275a5c706fa4",
-   "tytul": "Brazylijczyk przez 12 dni szukał właściciela znalezionych pieniędzy i oddał je robotnikowi",
-   "lead": "Na publicznym placu w południowej Brazylii Pedro Moro znalazł gotówkę, a w pobliżu nie było nikogo, kto by jej szukał. Okazało się, że trzyma w ręku całą miesięczną pensję młodego robotnika budowlanego, którą ten wypłacił z banku z myślą o swojej córce. Pan Moro przez dwanaście dni szukał właściciela i ostatecznie oddał mu pieniądze.",
-   "kategoria": "people",
-   "kraj": "BR",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/man-spends-12-days-returning-lost-cash-a-laborer-needed-for-his-daughter/",
-   "data": "2026-11-06T16:30:31+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "3ad69a7d4bd0",
-   "tytul": "Policjant po służbie uratował życie kobiety",
-   "lead": "W nocy z soboty na niedzielę w centrum Radomia 40-letnia kobieta nagle straciła przytomność, a jej stan szybko się pogarszał. Pomocy udzielił asp. Grzegorz Hernik z Komendy Wojewódzkiej Policji w Radomiu, który był wtedy po służbie. Przeprowadził resuscytację krążeniowo-oddechową i kobieta odzyskała funkcje życiowe, po czym trafiła do szpitala pod opiekę ratowników. Zdarzenie zarejestrował miejski monitoring.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "CoZaDzien.pl",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUxDOWFhWGhxN29JcTFvWUY2MmlDQW1UMm9FQTdRM202MDl3eGh1OEtSMmVzVWFVdFpBWEh3WmRFYTB4T3lLTUNGM3BDQWxZRWxZc25ZamdaeDU3N3licWxscVlOaFpEbjE2aXpYT25TR1B2NE15cjF4TGtNeFoyeVFfU0dXa0dXLU55WnV5akdyaU9qT3lVNmhhLWFsckpfZ2VzT19UeXlVaW5sdFQtWmNETGExWnoybmdV?oc=5",
-   "data": "2026-11-06T15:03:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.cozadzien.pl/artykul/96943,policjant-w-czasie-wolnym-od-sluzby-uratowal-zycie-kobiety-zobacz-material-wideo",
    "rozszerzony": true
   }
  ]
