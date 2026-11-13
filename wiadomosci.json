@@ -1,6 +1,47 @@
 {
- "aktualizacja": "2026-11-13T17:47:36.602620+00:00",
+ "aktualizacja": "2026-11-13T23:37:21.266452+00:00",
  "wiesci": [
+  {
+   "id": "4b2b8d3aa9c8",
+   "tytul": "Szop pracz, który włamał się do sklepu w Wirginii, pomógł zebrać setki tysięcy dolarów na pomoc innym",
+   "lead": "Przed rokiem szop pracz wszedł do sklepu monopolowego w jednym z miast w amerykańskiej Wirginii i zasnął w toalecie. Teraz wiadomo, że jego nocna wizyta przyniosła dobre skutki. Sprzedaż gadżetów z jego wizerunkiem zebrała setki tysięcy dolarów, które mają trafić do osób potrzebujących pomocy.",
+   "kategoria": "people",
+   "kraj": "US",
+   "zrodlo": "TVN24",
+   "url": "https://tvn24.pl/tvnmeteo/ciekawostki/szop-w-usa-zaslynal-z-wlamania-sie-do-sklepu-monopolowego-pomogl-zebrac-setki-tysiecy-dolarow-na-dobry-cel-st9338526?source=rss",
+   "data": "2026-11-13T19:57:41+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "7fe8edd3b541",
+   "tytul": "Krwiodawcy z Woli zostali wyróżnieni za oddawanie krwi",
+   "lead": "W Woli odbyła się uroczysta akademia z okazji Dni Honorowego Krwiodawstwa, które przypadają 22–26 listopada. Spotkanie zorganizował Klub HDK-PCK przy KWK Piast Ruch II, działający od ponad 40 lat i regularnie organizujący zbiórki krwi. Wręczono odznaki, statuetki i medale, m.in. za oddanie od 25 do 60 litrów krwi, a najwyższe wyróżnienie otrzymali Marek Cader i Janusz Starzec. Dawcy otrzymali też upominki od Powiatu Pszczyńskiego, który od lat wspiera publiczną służbę krwi.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "powiat.pszczyna.pl",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVk41V0wwamRVSTl2YUstbFh1VDQ2X1RiRlB3RTRpaTdMeHZJVTd1Z3hDMElvQjhGR3I4aXV4R05RSFBIczdMenVUYzFQN2JSQ1VDekhvbU5SU2FJRlFua2NqYk1LQ3pLamkwdUFKZ0NLTnM0Rzk0R1hkUUNwN0JlYmJmdEp5NmlONzdZNmtrdE1USnNGak1FMUNrOXR1aG81cWM5emRQcjNPTGhq?oc=5",
+   "data": "2026-11-13T19:14:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.powiat.pszczyna.pl/aktualnosci/12098-krew-to-dar-ktory-ratuje-zycie-krwiodawcy-z-woli-wyroznieni",
+   "rozszerzony": true
+  },
+  {
+   "id": "6733e0c28c69",
+   "tytul": "Polscy naukowcy odkryli białko z rekordowo złożonym węzłem",
+   "lead": "Zespół prof. Joanny Sułkowskiej z Uniwersytetu Warszawskiego opisał nową rodzinę białek z węzłem 8_3, czyli z ośmioma skrzyżowaniami. To najbardziej złożony splot zaobserwowany dotąd w białkach. Strukturę wstępnie przewidział program AlphaFold, a badacze z początku podejrzewali, że to błąd modelu. Podobne białka znaleziono u beztlenowych bakterii żyjących w ludzkich jelitach, a ich budowę potwierdzono doświadczalnie. Nowej rodzinie nadano nazwę EIGHT fold, lecz to, jak powstaje jej podwójny przeplot, wciąż pozostaje niewyjaśnione.",
+   "kategoria": "sci",
+   "kraj": "PL",
+   "zrodlo": "Podlaskie TV",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTEtoOFNtYWxueTJLVEYySHl0VWZLQ1QzSU12RkFra194RU8yR0hyeHZUWUJXb2M1WXdrVUt2ZnVVSGY3WVRFYnVlY0VZWGViLXJacnAtaXpXdGdjbHdvYWlQM0ttMFlTbTNMZkp0OUJ2WERNVmdyRVBBV3RLR3U1eE5XUWxyUHc?oc=5",
+   "data": "2026-11-13T18:11:45+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://podlaskie.tv/polscy-naukowcy-odkryli-bialko-z-rekordowo-zlozonym-wezlem/",
+   "rozszerzony": true
+  },
   {
    "id": "cb0e01208be6",
    "tytul": "Seniorzy napisali listy do Świętego Mikołaja. Ich marzenia mogą spełnić zwykli ludzie",
@@ -1992,46 +2033,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://isokolka.eu/podlaskie-2/72899-strazacy-uratowali-orla-ktory-utknal-na-jeziorze-w-akcji-wykorzystali-poduszkowiec-wideo-foto",
-   "rozszerzony": true
-  },
-  {
-   "id": "24d451d73911",
-   "tytul": "Psy mogą z dużą skutecznością wykrywać inwazyjne gatunki roślin",
-   "lead": "W Niemczech szkoli się psy do wykrywania inwazyjnych gatunków roślin, które należą do głównych przyczyn utraty bioróżnorodności na świecie. Naukowcy z Lipska sprawdzili, czy wolontariusze wraz ze swoimi psami mogą działać jako skuteczni tropiciele. Zespoły lokalizowały gatunki inwazyjne w naturze z 75-procentową dokładnością.",
-   "kategoria": "nature",
-   "kraj": "DE",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/",
-   "data": "2026-11-08T18:36:02+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "4f4087f13ac1",
-   "tytul": "Strażacy w Ludwigsburgu uratowali około 90 zwierząt podczas pożaru stowarzyszenia hodowców",
-   "lead": "Straż pożarna w Ludwigsburgu o godzinie 22.00 otrzymała zgłoszenie o pożarze stowarzyszenia hodowców małych zwierząt w dzielnicy Pflugfelden. Duży budynek, mający około 30 na 30 metrów, płonął już podczas dojazdu pierwszych zastępów. Strażacy jednocześnie gasili ogień i wydobywali zwierzęta z klatek, przecinając metalowe elementy. Zwierzęta przeniesiono do boksów znajdujących się poza zasięgiem ognia. Po około dwóch godzinach płomienie opanowano, a dron z kamerą termowizyjną pomagał wykrywać i dogaszać ukryte zarzewia. W akcji wzięło udział 110 strażaków z 24 pojazdami. Nikt z ludzi nie odniósł obrażeń. Przyczyna pożaru nie jest jeszcze znana",
-   "kategoria": "rescue",
-   "kraj": "DE",
-   "zrodlo": "TRYBUNA POLSKA",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3NfUXZhLUhIalRna09jdzRMQTZvbS0wODRTRWd1N0tSS3U0eUh1dzBTV3BYUE9xdmtkeXpaVXpiMFAtSGdOVTdjUWxBMVhzNkZvX1NvdkY4TjRTZlY3TE1wdDJvUzdfejNKQWFVVlNUOHF3YWtPQjVSNk9paXgyZ09vNjA4UHNDeEM4ZzBwbWtZUmlNQ1ZSQ1FmSQ?oc=5",
-   "data": "2026-11-08T14:12:49+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://trybunapolska.pl/niemcy/ludwigsburg-pflugfelden-strazacy-uratowali-90-zwierzat-z-pozaru",
-   "rozszerzony": true
-  },
-  {
-   "id": "f446d3e31786",
-   "tytul": "Papużka falista uciekła podczas burzy i odnalazła się w kanale burzowym milę od domu",
-   "lead": "Papużka falista o imieniu Luna wydostała się przez okno, które otworzył silny wiatr po burzy Boelo, w domu swojej właścicielki w Northampton w Anglii. Ptaszek został znaleziony w kanale burzowym około mili od domu. Zauważył go kierowca przejeżdżający obok.",
-   "kategoria": "nature",
-   "kraj": "GB",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/lucky-bird-found-in-storm-drain-a-mile-from-home/",
-   "data": "2026-11-08T14:08:15+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
    "rozszerzony": true
   }
  ]
