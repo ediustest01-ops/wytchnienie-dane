@@ -1,5 +1,5 @@
 {
- "aktualizacja": "2026-11-14T19:13:15.002311+00:00",
+ "aktualizacja": "2026-11-14T23:02:01.757991+00:00",
  "wiesci": [
   {
    "id": "06be0ef25aed",
@@ -12,6 +12,34 @@
    "data": "2026-11-14T18:56:02+00:00",
    "przetlumaczone": true,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "491890b6d6cf",
+   "tytul": "Policjanci z Łomży zaryzykowali własnym życiem, by ocalić innych",
+   "lead": "Policjanci z Łomży podjęli ryzykowną akcję ratunkową i uratowali cudze życie. Relację z wydarzenia przygotowała TVP Białystok.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "TVP Białystok",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTk3VkwyM3V5Y1Yzclcza0FiQTNYUEJRNENJOU5uTmtUaTZFbFpxNHF3aGRyWVpPVnZwSE1aSjQwV21SM2tycmNwZXpKSmtHZVphYko0TlB4X2Z6bzBXYmsyOE9IVXEtWm8tZXBkZ0RmWEFoc2dtcTNpNkEyanRGZ21hNWFQRGVOVXRSbURRZHlwdXd0UV9ibUEtYUJ2MGtMQnFLQ01sWnNieHIxTldCVDNDQkZhUUQyYWc?oc=5",
+   "data": "2026-11-14T18:52:47+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://bialystok.tvp.pl/96478918/ryzykowali-wlasnym-zyciem-by-ocalic-cudze-bohaterska-akcja-policjantow-z-lomzy-wideo",
+   "rozszerzony": true
+  },
+  {
+   "id": "30a6dd37f924",
+   "tytul": "Żubry wracają do polskiego krajobrazu",
+   "lead": "Żubry coraz częściej pojawiają się w polskim krajobrazie. PAP pyta, czy mieszkańcy są gotowi na współistnienie z tymi zwierzętami.",
+   "kategoria": "nature",
+   "kraj": "PL",
+   "zrodlo": "Polska Agencja Prasowa SA",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjFvcTBESWZJTk9YSURXd1g0SkZSVTJmaEkwbXl5VjRIRldIWkxOTzhPZ05MOTVoUGM0UnBiVGRPMTNGdnBvTVh2TmpndG4zWUJveTFTektVYjlKeXNOYk1VZ1loRXFLTnZrOWEwaGtzc1NyWFQ0QlRRczFEcjRTSld6MUpuNHhMeUdLQ19CblBjNk5QRkc0bkswZHFjd1ZieXhla2ExcDJhZzc2Nzc5SkZn?oc=5",
+   "data": "2026-11-14T18:08:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.pap.pl/aktualnosci/zubry-wracaja-do-polskiego-krajobrazu-czy-ludzie-sa-gotowi-zyc-z-nimi-za-pan-brat",
    "rozszerzony": true
   },
   {
@@ -1998,32 +2026,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://informacje.wp.pl/wiadomosci/nocowal-w-szalasie-podczas-mrozu-policjanci-uratowali-wychlodzonego-75-latka-7349220006848960a",
-   "rozszerzony": true
-  },
-  {
-   "id": "13922fc03ca7",
-   "tytul": "Uczelnie wspierają studentów z dziećmi, m.in. pudełkami z kolorowankami i klockami w biurach doradczych",
-   "lead": "Pudełka z kolorowankami i klockami, przygotowane w pobliżu biura doradczego uczelni New River, mają pomagać studentom, którzy opiekują się dziećmi. Stephanie Addikis, która je wyposażała, zauważyła, że zabawki są wyraźnie używane, czyli tak, jak miała nadzieję. Tekst jest krótki, więc na tym etapie wiadomo o tej inicjatywie niewiele.",
-   "kategoria": "people",
-   "kraj": "US",
-   "zrodlo": "Reasons to be Cheerful",
-   "url": "https://reasonstobecheerful.world/rural-colleges-student-parents-support/",
-   "data": "2026-11-09T16:39:10+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "bf13cdf7f713",
-   "tytul": "Nastolatek stworzył bezpłatną aplikację, która pomaga rodzinom odczytywać emocje osób autystycznych",
-   "lead": "Obserwując, jak dorośli mylnie odczytują sygnały od jego autystycznego kuzyna, nastolatek sam nauczył się uczenia maszynowego i stworzył aplikację, która ma w tym pomóc. Kora jest bezpłatna i pomaga rodzicom oraz opiekunom rozpoznawać emocje osób autystycznych. Z programu korzysta już ponad 700 użytkowników w 12 krajach, a dotarcie do rodzin zapewniły ośrodki terapii autyzmu.",
-   "kategoria": "people",
-   "kraj": "ŚW",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/",
-   "data": "2026-11-09T16:30:23+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
    "rozszerzony": true
   }
  ]
