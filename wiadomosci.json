@@ -1,6 +1,19 @@
 {
- "aktualizacja": "2026-11-14T23:02:01.757991+00:00",
+ "aktualizacja": "2026-11-15T02:44:08.506915+00:00",
  "wiesci": [
+  {
+   "id": "c7a7e3006729",
+   "tytul": "Rakieta Starship po raz pierwszy została przechwycona przez robotyczne ramiona wieży startowej",
+   "lead": "Firma SpaceX poinformowała o pierwszym w historii przypadku, gdy rakieta Starship wylądowała i została przechwycona przez robotyczne ramiona wieży startowej. Agencja Associated Press uznała ten moment za przełom w rozwoju pojazdu, który w przyszłości ma odegrać kluczową rolę w podróżach na Księżyc i Marsa. Mimo sobotniego sukcesu firma nie zrealizowała jednak założonego celu, a tekst nie podaje, na czym dokładnie polegał.",
+   "kategoria": "sky",
+   "kraj": "US",
+   "zrodlo": "Interia",
+   "url": "https://wydarzenia.interia.pl/zagranica/news-przelomowy-moment-rakieta-starship-przechwycona-przez-wieze,nId,23573572",
+   "data": "2026-11-14T23:09:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "06be0ef25aed",
    "tytul": "Małżeństwo z autyzmem i ADHD czyści zabrudzone tabliczki z nazwami ulic",
@@ -2012,20 +2025,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://ddb24.pl/artykul/czujnosc-po-sluzbie-n1877642",
-   "rozszerzony": true
-  },
-  {
-   "id": "313bf4f3f59c",
-   "tytul": "Policjanci w Włoszczowie uratowali wychłodzonego 75-latka, który nocował w szałasie",
-   "lead": "Włoszczowscy policjanci podczas nocnego patrolu znaleźli przy ulicy Wiśniowej prowizoryczny szałas, a w nim śpiącego 75-letniego mężczyznę. Był wychłodzony, więc funkcjonariusze zabrali go do radiowozu, gdzie mógł się ogrzać, i dali mu ciepłą herbatę. Na miejsce przyjechało pogotowie, które zdecydowało o przewiezieniu seniora do szpitala. Policja poinformowała też instytucje pomocowe, by mogły zapewnić mu dalsze wsparcie. Przy mrozach funkcjonariusze sprawdzają pustostany i altany, a w razie wątpliwości warto zadzwonić pod numer 112.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "WP",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY0F4WHc4UDFrTlRab2pNMHhhdzdoaVFHNWI4LXhLa044ZUJfNV8tWUdraDBqMVFkVC1wVmR6OERSWk5STkJaVUc3cGEtQzg4R2ViRFctNU05SmNMblZrS3pXVWMzYjlqX1VNSHVJdEs4YktBZGxOTzYySGJzOWNPNThPdHJBMzhNQUZsZ2JJTzJTNkp3c0NFd2dNelBTR1FrdENwQUVBOHRsV1ZQVXQtcFgxbGNZVk1oVklpYkVqOXRGV2VxYU0zUU93?oc=5",
-   "data": "2026-11-09T16:55:01+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://informacje.wp.pl/wiadomosci/nocowal-w-szalasie-podczas-mrozu-policjanci-uratowali-wychlodzonego-75-latka-7349220006848960a",
    "rozszerzony": true
   }
  ]
