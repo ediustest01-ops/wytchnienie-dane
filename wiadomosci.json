@@ -1,6 +1,60 @@
 {
- "aktualizacja": "2026-11-15T17:46:27.597913+00:00",
+ "aktualizacja": "2026-11-15T22:53:50.222306+00:00",
  "wiesci": [
+  {
+   "id": "b5520bdff465",
+   "tytul": "Korespondencyjni przyjaciele z nastoletnich lat są po 32 latach małżeństwem",
+   "lead": "W 1994 roku angielski nastolatek David spędził z rodziną tydzień na greckiej wyspie Kos, gdzie poznał nową korespondencyjną przyjaciółkę. Wśród 12 dzieci z różnych rodzin, które utworzyły przyjacielską grupę, była piętnastoletnia wtedy Jodie. Jak podaje serwis, po 32 latach oboje są szczęśliwym małżeństwem.",
+   "kategoria": "people",
+   "kraj": "GB",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/they-became-pen-pals-as-teens-now-32-years-later-theyre-happily-married/",
+   "data": "2026-11-15T22:29:05+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "55433872455b",
+   "tytul": "W USA przeprowadzono pierwszy na świecie przeszczep szpiku przy chorobie niezłośliwej",
+   "lead": "Franciscan Health, katolicki system opieki zdrowotnej na Środkowym Zachodzie USA, jako pierwszy na świecie udokumentował przeszczep szpiku w leczeniu choroby niezłośliwej. Szpik pochodził od zmarłego dawcy narządów i trafił do 40-letniej kobiety z anemią aplastyczną, która chorowała od dekady. Zabieg został przeprowadzony pomyślnie.",
+   "kategoria": "med",
+   "kraj": "US",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/",
+   "data": "2026-11-15T20:32:08+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "b3b17e4d02db",
+   "tytul": "Mieszkańcy Radomia wyprowadzali psy ze schroniska na spacer w listopadową niedzielę",
+   "lead": "W listopadową niedzielę mieszkańcy Radomia zabrali na spacer psy ze Schroniska dla Bezdomnych Zwierząt w tym mieście. Tekst nie zawiera dalszych szczegółów wydarzenia.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "Radom Nasze Miasto",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMzVtd3g1YnRUbzJYTzRjQ1NHMWMyOTdOdHphbElVUlVkbXBFZEJkaWRQZTVTYi1obTNSX1RvcHdIV1M2MHROREh3WmNKNUZCc0FOcFZiRFJkU3ZIZ3VvZ0RUUnZSWU5JbG95RWRRbWVWaDNFNDdidHFFQTVIU29fU1NtR3EtRDA4NDVRZ3UzZGg3eXZPeFJrLTRFeEV0RHB6Q1VYc1JvcFZ2SEQ5Q2lENmVkLXBQTk9vUW8xMlp0MklZSnZaSEpGZll2SHJkLVdIQ3A0Y3RBcVRuSklneFdUNFE5clc2UEFnNlp1YV85YVNRdWdCM1BXaFBpbjZydnEzMndybGJn?oc=5",
+   "data": "2026-11-15T19:48:29+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://radom.naszemiasto.pl/listopadowa-niedziela-w-radomskim-schronisku-dla-bezdomnych-zwierzat-mieszkancy-radomia-wyprowadzali-psy-na-spacer-zobacz-zdjecia/ar/c1p2-29527525",
+   "rozszerzony": true
+  },
+  {
+   "id": "8ec3fbc8ef90",
+   "tytul": "W zoo w Trypolisie na świat przyszło pierwsze młode białego tygrysa",
+   "lead": "W zoo w Trypolisie urodziło się pierwsze młode białego tygrysa. Matka rodziła po raz pierwszy i odrzuciła potomstwo, dlatego tygrysiątko umieszczono w inkubatorze i otoczono całodobową opieką, a jego stan zdrowia wyraźnie się poprawia. Zoo, założone w 1985 roku na obszarze około 45 hektarów, ucierpiało w czasie konfliktu w Libii, gdy wiele zwierząt padło lub zaginęło. Po renowacji ponowne otwarcie obiektu i narodziny tygrysiątka są postrzegane jako optymistyczne oznaki ożywienia.",
+   "kategoria": "nature",
+   "kraj": "LY",
+   "zrodlo": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVl9xTFZtM1pwRkJwazBkRnZ1Z1AwU1pMNkxGN0NiaDhrNklWLXppRjhEa3BOT3BzejJYbVNuM3RzcV9MT0dtZ19oMXpick1hZURxWGpaNWdFbU94dkpFRjdqUVF2emE0TW1neFQyUkxETHF4SnZXa2hlMEhUUmNnOVNxZUJLVWY5UkJz?oc=5",
+   "data": "2026-11-15T17:48:37+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.vietnam.vn/pl/libya-ho-trang-con-dau-tien-chao-doi-tai-vuon-thu-tripoli",
+   "rozszerzony": true
+  },
   {
    "id": "2582608910ac",
    "tytul": "Naukowcy badają nietknięte atole, jedne z ostatnich takich miejsc na Ziemi",
@@ -247,6 +301,19 @@
    "rozszerzony": true
   },
   {
+   "id": "ccde6884466a",
+   "tytul": "Rakieta Starship po raz pierwszy została przechwycona przez wieżę startową",
+   "lead": "Rakieta Starship wróciła w sobotę do bazy Starbase w Teksasie, skąd wystartowała 22 godziny wcześniej, i po raz pierwszy została przechwycona przez robotyczne ramiona wieży startowej. Piątkowy start zakończył się eksplozją pierwszego stopnia, więc podwójnego przechwycenia nie udało się zrealizować. Podczas lotu uwolniono 26 satelitów Starlink, a statek okrążył Ziemię 14 razy na wysokości 265 kilometrów. Wszystkie elementy, w tym osłona termiczna, działały prawidłowo.",
+   "kategoria": "sky",
+   "kraj": "US",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115918%2Cusa-po-raz-pierwszy-w-historii-rakieta-starship-wyladowala-przechwycona",
+   "data": "2026-11-15T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
    "id": "c7a7e3006729",
    "tytul": "Rakieta Starship po raz pierwszy została przechwycona przez robotyczne ramiona wieży startowej",
    "lead": "Firma SpaceX poinformowała o pierwszym w historii przypadku, gdy rakieta Starship wylądowała i została przechwycona przez robotyczne ramiona wieży startowej. Agencja Associated Press uznała ten moment za przełom w rozwoju pojazdu, który w przyszłości ma odegrać kluczową rolę w podróżach na Księżyc i Marsa. Mimo sobotniego sukcesu firma nie zrealizowała jednak założonego celu, a tekst nie podaje, na czym dokładnie polegał.",
@@ -421,6 +488,20 @@
    "rozszerzony": true
   },
   {
+   "id": "18f35b32c9ea",
+   "tytul": "Głogowianie pobiegli w charytatywnym biegu dla Ady",
+   "lead": "Mieszkańcy Głogowa wzięli udział w biegu wspierającym Adę. Akcja pokazała, że lokalna społeczność potrafi się zjednoczyć, by pomóc.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "MyGlogow",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOURmT3RlZGVIQjNCdENHUUVWaTRrdmlNUGVDOUVnVXB4WUFkMVUzTVQ5QXFPRzNWNk02c3llTHBPbnZZUS1oNzYyMzEzc1dwMWR2MmkwQWtPVUR3MVZKZWQzU0YxcGZnY2dwV0VmcldXVVhxZGJEYVR3LW9KSGE1S2hKNklRcVMwTkdPQUU5ejN2enE4NXdmM045Q2c5elFZWGQ4cHdwYndON1Jla1JTRkJLWmQ?oc=5",
+   "data": "2026-11-14T10:53:26+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://myglogow.pl/pl/11_dzieje-sie/194776_-foto-pobiegli-dla-ady-glogowianie-pokazali-ze-maja-wielkie-serca.html",
+   "rozszerzony": true
+  },
+  {
    "id": "c0484f9aeb44",
    "tytul": "Martyna Wojciechowska rusza z kampanią „Dzięki, że jesteś”",
    "lead": "Martyna Wojciechowska przedstawiła w TVN24 kampanię „Dzięki, że jesteś”. Podkreśliła, że chciałaby, aby cała Polska zalana została pomarańczową falą pozytywnej energii. Zachęciła, by zadzwonić do kogoś bliskiego i zarejestrować tę osobę na stronie projektu „Młode głowy”.",
@@ -485,6 +566,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://cedarnews.net/polski/1145440/pozar-sadzy-kominie-policjanci-raciaza-uratowali-mieszkancow/",
+   "rozszerzony": true
+  },
+  {
+   "id": "a5dd8a4fc02a",
+   "tytul": "Policjanci z Raciąża uratowali mieszkańców podczas pożaru sadzy w kominie",
+   "lead": "W czwartek, 12 listopada, przed godziną 21 policjanci z Raciąża zauważyli podczas patrolu dym w pobliżu drogi. Chwilę później dostrzegli płomienie wydobywające się z komina jednego z domów w gminie. Domownicy nie wiedzieli, że w przewodzie kominowym doszło do pożaru sadzy. Funkcjonariusze zaalarmowali straż pożarną, a mieszkańcy bezpiecznie opuścili budynek. Mazowiecka policja przypomina o znaczeniu regularnych przeglądów i czyszczenia kominów.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Panorama Płock",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUNPX05vQTVONGFmWFlWdWhqclJKMWp6ODhqRURxRnJlWVg2TXVDM3pLc2NXV0dRa1pUTU9qek9rRTgtbkFSNmpTYkw2c3UzTWtLS3lrRGw3d1BhUmg3T3BrN2FCamhIWG5rc2kzUG52TXpsLUp4R3lCaTZha3NWWmQxUHdPc2JIbl9MRDd1bjdqamVJVnJoZkNhM3dTZklxWi1yc1l6NWVaSThNNUUtR3hieFE0LWNHTzFIMi01M2xILXI5eURYSWRIVVc?oc=5",
+   "data": "2026-11-14T07:07:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://panoramaplock.pl/pozar-sadzy-w-kominie-policjanci-z-raciaza-uratowali-mieszkancow-przed-niebezpieczenstwem,7350661786123744a",
    "rozszerzony": true
   },
   {
@@ -1929,103 +2024,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://katowice.tvp.pl/96404558/pozar-domu-w-miedzybrodziu-bialskim-sasiedzi-uratowali-mieszkancow",
-   "rozszerzony": true
-  },
-  {
-   "id": "bc10438e5ed3",
-   "tytul": "85-letni aktor Peter Marinker wraca na scenę mimo diagnozy choroby Alzheimera",
-   "lead": "85-letni Peter Marinker, u którego zdiagnozowano chorobę Alzheimera, nie zrezygnował z aktorstwa. Jesienią wystąpił w monodramie Becketta „Krapp’s Last Tape” w londyńskim Cockpit Theatre, a produkcję wsparto autocue, podpowiadaczem w uchu i dodatkowym czasem na próby. W spektaklu wykorzystano też nagrania z jego wcześniejszego wystąpienia w tej roli z 1983 roku. Reżyser Dave Wybrow podkreśla, że przedstawienie powstało właśnie z powodu choroby aktora, a nie mimo niej. Czterodniowe londyńskie przedstawienia we wrześniu wsparły zbiórkę na rzecz Alzheimer’s Society.",
-   "kategoria": "people",
-   "kraj": "GB",
-   "zrodlo": "Positive News",
-   "url": "https://www.positive.news/society/actor-85-takes-to-the-stage-despite-alzheimers-diagnosis/",
-   "data": "2026-11-10T11:34:34+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "3bd92ff7d6b3",
-   "tytul": "W Wałbrzychu na świat przyszły trojaczki: dwóch chłopców i dziewczynka",
-   "lead": "W Specjalistycznym Szpitalu Ginekologiczno-Położniczym im. E. Biernackiego w Wałbrzychu na świat przyszły trojaczki. W poniedziałek, 9 listopada, jako pierwsza ze szpitala wyszła dziewczynka, a jej bracia wciąż pozostają pod opieką personelu. Lekarze i pielęgniarki czekają na moment, w którym cała trójka będzie mogła wrócić do domu rodziców.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "Wałbrzyszek.com",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUtteVJYT18xYnVyUkp1Z1hpU0Q1bG5qazJtakUtTTQyTU5CeV9ZNTlPeTU5MndwbnktSUdlSy14UDQ2cVhMdFRwRDBaTE1ucUJTZTVydGRieVBhRkhTQkFNYS1CUUk2TVBOMXphc09hY3hyTm9FR24wR2ZIMjJBMTdpQ0xJc1V1a01NTg?oc=5",
-   "data": "2026-11-10T11:23:21+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.walbrzyszek.com/w-walbrzychu-przyszly-na-swiat-trojaczki-zdjecia-139869/",
-   "rozszerzony": true
-  },
-  {
-   "id": "3332f2f237ac",
-   "tytul": "Dane satelitarne i tomografia ujawniły pod starożytnym Buto dużą budowlę z cegły mułowej",
-   "lead": "Badacze, wykorzystując dane satelity Sentinel-1 Europejskiej Agencji Kosmicznej, wykryli w Buto dużą, owalną anomalię. Dalsze badania metodą tomografii elektrooporowej, która nie narusza stanowiska, ujawniły pod powierzchnią budowlę z cegły mułowej z okresu saickiego. Pod nią znajduje się gruba warstwa czystego piasku, która – zdaniem naukowców – miała rozkładać ciężar konstrukcji i odprowadzać wodę. W pobliżu znaleziono figurki i wapienny ołtarz, co wskazuje na religijny charakter tego miejsca. Wyniki opublikowano w „Acta Geophysica”.",
-   "kategoria": "sci",
-   "kraj": "EG",
-   "zrodlo": "Rzeczpospolita",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU2lwcVpPTG5ma2lDcHpBUTdtbFhpbkg0M3NoRW1UTzNzYm4zeUhZS2FrdUJ4cGdpRGM3Zm93c2o5LTJtbXVlODZSbzRhLUJSYlJXa1pNRUd1YVYtZ1dpdVVNQkc2amEyMUhRNkNWTVJlZW8zNl9qUDJjeTFkajdmSnQ3SDdWWTBtYXgyeE9tX0dFemtHX2JFTFhObFdWb0dQbkEwQnlUcmJfNTd5bXc?oc=5",
-   "data": "2026-11-10T11:18:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.rp.pl/nauka/art45443121-spektakularne-odkrycie-w-egipcie-podziemne-konstrukcje-dostrzegl-satelita",
-   "rozszerzony": true
-  },
-  {
-   "id": "6a39c9041973",
-   "tytul": "Maciej Stuhr, Grudziądz i troje innych Polaków uhonorowani w kosmosie",
-   "lead": "Maciej Stuhr, miasto Grudziądz oraz troje innych Polaków zostali uhonorowani w związku z kosmosem.",
-   "kategoria": "sky",
-   "kraj": "PL",
-   "zrodlo": "Well.pl",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXlwdVlwaEJ0ek5MMnBDYzljUnNHWjVqakg0VjYyOE1yeXd6bXNtSGhZd0lDUXEzUl9Md1dCMkdZLU4xcVNvVXViVzlLOHM5RGgyX0lqbTZ6WXVEQXB6OXRjTGFleWpzcjhqbXBaQTdaTHVlaFVMR1JDQXhsSVpYOGlyVHBwSjNyUDl5WkJTVzUzS1FaV1pMajJVWGwzb3hpM0xhRDZLWjY1Tmk3ME9RU3Jn?oc=5",
-   "data": "2026-11-10T10:33:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.well.pl/life/148/maciej_stuhr_i_grudziadz_w_kosmosie_uhonorowano_tez_troje_innych_polakow,27009.html",
-   "rozszerzony": true
-  },
-  {
-   "id": "8e0bf3fe0190",
-   "tytul": "Policjanci z Kolna uratowali rannego psa i zziębniętego kociaka",
-   "lead": "Funkcjonariusze z Kolna udzielili pomocy rannemu psu oraz zziębniętemu kociakowi. Zwierzęta otrzymały potrzebną opiekę.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "kolniak24",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOHlZTFFDZEpXS0ZKTUtHNjN3b0FPeFR0Z25vUHQxNnUxc012SDdyODRJZl94ZjU0d3pSeW5MamdObWxRWVgzTmc1bUVCVVZZemVJeU9zTHlUbzdHalNJcU1JWHN2SHdqNmNBUXk3enF2WmRpcVpPOXNxMkFTT1hXU1p3M2U1TlczWjNaeG9zV3k4SUt4b1lqa2k2TEh3NDJHLVJ4U29jb0gwRm93S0wyOHBPZw?oc=5",
-   "data": "2026-11-10T09:56:59+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://kolniak24.eu/pl/473_na-sygnale/58831_policjanci-z-kolna-uratowali-rannego-psa-i-zziebnietego-kociaka.html",
-   "rozszerzony": true
-  },
-  {
-   "id": "fe0cf953cb40",
-   "tytul": "Sąsiedzi w Międzybrodziu Bialskim uratowali dwie osoby z pożaru",
-   "lead": "Mieszkańcy Międzybrodzia Bialskiego wyciągnęli z pożaru dwie osoby. Dzięki szybkiej reakcji sąsiadów obie zostały uratowane.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "ŻywiecInfo",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmliUGhwUWJxMm85djdNY2ROX3BzNERzX2tHaFRTWHB2ZEl4VzZpZXRIZW9RS2pibEp0Q0JHOVNsWmM4SDJGV0UzT3laZDhjT3VkVHo4clVsU3BWX3dsUEY3T29qV3BqNFE0N1Fxa2R4b0NZQzF1X1RVcEQ4VkQtNEhTN1RkY25SVTExYkMzVXc1Wkp6QkxKN2lMZm5IT2tzQTFkR0RaSWpqdE9wVFZRSGNtWkhzZ3ZXdm12cDVZWEJkYk5RSlYtdVlvMVlDQQ?oc=5",
-   "data": "2026-11-10T08:44:59+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://zywiecinfo.pl/pl/785_wydarzenia/126286_bohaterska-postawa-sasiadow-w-miedzybrodziu-bialskim-uratowali-dwie-osoby-z-pozar.html",
-   "rozszerzony": true
-  },
-  {
-   "id": "407754953c3b",
-   "tytul": "Zabiegi robotowe stały się w Polsce standardem leczenia raka prostaty",
-   "lead": "W 2025 roku 82 proc. operacji raka prostaty w Polsce wykonano z pomocą robotów, a w ciągu pięciu lat liczba prostatektomii radykalnych podwoiła się. Lekarze wskazują, że krzywa uczenia się przy robocie jest krótsza: powtarzalności wymaga 20–40 zabiegów zamiast 200–400 operacji otwartych lub laparoskopowych, a powikłań jest wielokrotnie mniej. Eksperci zwracają jednak uwagę na ryzyko nadleczalności i brak obowiązkowych rejestrów, a część wczesnych nowotworów o małym ryzyku kieruje się do aktywnego nadzoru. Podkreślają też, że o jakości zabiegu decyduje doświadczenie chirurga, który steruje robotem.",
-   "kategoria": "med",
-   "kraj": "PL",
-   "zrodlo": "mzdrowie.pl",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1J3SlhkbEl5YnBBb0xnV0NiVUJaa29FcS1acldfaldWNmNDaWZkZ0t2aXRsTXNXTkxuTDhnNE10OGFUcDY5REpWcTFUSXEtQUhYbGdnc1B5RG0tZW9kZG1RYml3ZU5qaGRGcElmZ3RpUTg3YURJNGF6TjlFc0xNQldFTzVZTlQySWQ3RG1BVFJrbHlfUjIyakZrd2RVeEhNbHV2b1BiN2w?oc=5",
-   "data": "2026-11-10T08:08:13+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.mzdrowie.pl/medycyna/zabiegi-robotowe-staly-sie-w-polsce-standardem-w-leczeniu-raka-prostaty/",
    "rozszerzony": true
   }
  ]
