@@ -1,6 +1,19 @@
 {
- "aktualizacja": "2026-11-15T22:53:50.222306+00:00",
+ "aktualizacja": "2026-11-16T02:47:31.539106+00:00",
  "wiesci": [
+  {
+   "id": "c642f7b6155b",
+   "tytul": "Urządzenie na nadgarstek zmniejszyło tiki w zespole Touretta średnio o 25 procent w brytyjskim badaniu",
+   "lead": "W badaniu klinicznym z 2023 roku, z udziałem 121 osób w Wielkiej Brytanii, noszenie prototypowego urządzenia na nadgarstek zmniejszyło częstotliwość tików średnio o 25 procent. Urządzenie, nazwane Neupulse, powstało w ramach badań na Uniwersytecie w Nottingham. Tekst wspomina też o opiniach osób, które korzystają z niego od trzech lat, ale w podanym fragmencie ich treść jest niepełna.",
+   "kategoria": "med",
+   "kraj": "GB",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/this-tourettes-wrist-device-cut-tics-by-a-quarter-in-a-uk-trial/",
+   "data": "2026-11-16T00:00:57+00:00",
+   "przetlumaczone": true,
+   "wstepne": true,
+   "rozszerzony": true
+  },
   {
    "id": "b5520bdff465",
    "tytul": "Korespondencyjni przyjaciele z nastoletnich lat są po 32 latach małżeństwem",
@@ -2010,20 +2023,6 @@
    "data": "2026-11-10T12:30:35+00:00",
    "przetlumaczone": true,
    "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "29822ce01ec1",
-   "tytul": "Sąsiedzi uratowali mieszkańców płonącego domu w Międzybrodziu Bialskim",
-   "lead": "Podczas pożaru domu w Międzybrodziu Bialskim sąsiedzi wyciągnęli mieszkańców z budynku. Relacja nie wskazuje ofiar śmiertelnych.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "TVP Katowice",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzdyUXpjSmdCanUxdkpnU1FCN0xDSVRvcUpvVVNpckdkem15MDhaLU1nb1d3TXJienBzSXF0aFBpYm9HWnJSSV9qUDFFeGZMeVlDLWNsVlNUakRfUjZUcmpQNnRjeHRuc2s2WjUyaUFFMDhaVzVCeE9JWF9lTG5INjR2R2plU1JfMEZRT2R1V3hESDNBMDlWNTdQUjM2SVda?oc=5",
-   "data": "2026-11-10T12:19:11+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://katowice.tvp.pl/96404558/pozar-domu-w-miedzybrodziu-bialskim-sasiedzi-uratowali-mieszkancow",
    "rozszerzony": true
   }
  ]
