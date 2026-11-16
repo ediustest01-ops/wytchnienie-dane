@@ -1,27 +1,27 @@
 {
- "czas": "2026-11-16T11:31:52.045679+00:00",
+ "czas": "2026-11-16T22:12:01.013749+00:00",
  "zrodla": {
   "https://www.polsatnews.pl/rss/polska.xml": 50,
   "https://www.polsatnews.pl/rss/swiat.xml": 50,
   "https://www.polsatnews.pl/rss/technologie.xml": 50,
   "https://www.polsatnews.pl/rss/czysta-polska.xml": 50,
   "https://naukawpolsce.pap.pl/all/rss.xml": 10,
-  "https://tvn24.pl/najnowsze.xml": 26,
+  "https://tvn24.pl/najnowsze.xml": 20,
   "https://www.rmf24.pl/feed": 50,
   "https://wydarzenia.interia.pl/feed": 50,
-  "uratowali": 16,
-  "uratował życie": 25,
-  "lekarze uratowali": 7,
-  "pierwszy w Polsce zabieg": 1,
-  "polscy naukowcy odkryli": 11,
-  "odnaleziony cały i zdrowy": 1,
+  "uratowali": 18,
+  "uratował życie": 28,
+  "lekarze uratowali": "BŁĄD",
+  "pierwszy w Polsce zabieg": "BŁĄD",
+  "polscy naukowcy odkryli": "BŁĄD",
+  "odnaleziony cały i zdrowy": "BŁĄD",
   "wolontariusze pomogli": 2,
-  "urodziły się młode zoo": 1,
+  "urodziły się młode zoo": 3,
   "żubry": 7,
-  "bociany powrót": 0,
-  "bezinteresownie pomógł": 2,
+  "bociany powrót": "BŁĄD",
+  "bezinteresownie pomógł": "BŁĄD",
   "zbiórka się udała": 2,
-  "dobre serce mieszkańców": 1,
+  "dobre serce mieszkańców": "BŁĄD",
   "https://www.goodnewsnetwork.org/feed/": 50,
   "https://www.positive.news/feed/": "BŁĄD",
   "https://reasonstobecheerful.world/feed/": 10,
@@ -30,13 +30,16 @@
   "https://www.theguardian.com/world/series/the-upside/rss": 20
  },
  "zajawki": {
-  "probowano": 10,
-  "z_artykulu": 7,
-  "z_rss": 3,
-  "bez_tekstu": 2,
-  "gotowe": 8
+  "probowano": 19,
+  "z_artykulu": 10,
+  "z_rss": 9,
+  "bez_tekstu": 6,
+  "gotowe": 12
  },
- "bledy": [],
- "dobrych_nowych": 10,
+ "bledy": [
+  "gnews: {'success': False, 'message': 'Failed to fetch data attributes from Google News.'}",
+  "gnews: {'success': False, 'message': 'Failed to fetch data attributes from Google News.'}"
+ ],
+ "dobrych_nowych": 19,
  "razem": 150
 }
