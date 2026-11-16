@@ -1,25 +1,25 @@
 {
- "czas": "2026-11-16T02:47:31.539106+00:00",
+ "czas": "2026-11-16T11:31:52.045679+00:00",
  "zrodla": {
   "https://www.polsatnews.pl/rss/polska.xml": 50,
   "https://www.polsatnews.pl/rss/swiat.xml": 50,
   "https://www.polsatnews.pl/rss/technologie.xml": 50,
   "https://www.polsatnews.pl/rss/czysta-polska.xml": 50,
   "https://naukawpolsce.pap.pl/all/rss.xml": 10,
-  "https://tvn24.pl/najnowsze.xml": 17,
+  "https://tvn24.pl/najnowsze.xml": 26,
   "https://www.rmf24.pl/feed": 50,
   "https://wydarzenia.interia.pl/feed": 50,
-  "uratowali": 14,
+  "uratowali": 16,
   "uratował życie": 25,
-  "lekarze uratowali": 9,
+  "lekarze uratowali": 7,
   "pierwszy w Polsce zabieg": 1,
-  "polscy naukowcy odkryli": 17,
+  "polscy naukowcy odkryli": 11,
   "odnaleziony cały i zdrowy": 1,
-  "wolontariusze pomogli": 3,
+  "wolontariusze pomogli": 2,
   "urodziły się młode zoo": 1,
-  "żubry": 4,
+  "żubry": 7,
   "bociany powrót": 0,
-  "bezinteresownie pomógł": 1,
+  "bezinteresownie pomógł": 2,
   "zbiórka się udała": 2,
   "dobre serce mieszkańców": 1,
   "https://www.goodnewsnetwork.org/feed/": 50,
@@ -30,13 +30,13 @@
   "https://www.theguardian.com/world/series/the-upside/rss": 20
  },
  "zajawki": {
-  "probowano": 1,
-  "z_artykulu": 0,
-  "z_rss": 1,
-  "bez_tekstu": 0,
-  "gotowe": 1
+  "probowano": 10,
+  "z_artykulu": 7,
+  "z_rss": 3,
+  "bez_tekstu": 2,
+  "gotowe": 8
  },
  "bledy": [],
- "dobrych_nowych": 1,
+ "dobrych_nowych": 10,
  "razem": 150
 }
