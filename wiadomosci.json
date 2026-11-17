@@ -1,6 +1,32 @@
 {
- "aktualizacja": "2026-11-16T22:12:01.013749+00:00",
+ "aktualizacja": "2026-11-17T04:33:24.373601+00:00",
  "wiesci": [
+  {
+   "id": "1a531502045d",
+   "tytul": "Sprzątanie greckiego wybrzeża posłużyło do stworzenia mapy zanieczyszczeń",
+   "lead": "Na wyspie Patroklos na Zatoce Saronijskiej, ok. 75 mil od Aten, wyrzucona na brzeg została puszka po piwie z hiszpańskojęzyczną reklamą mundialu z lat 90. Autorzy tekstu opisują, jak zebrane w ten sposób śmieci posłużyły do przygotowania mapy zanieczyszczeń greckiego wybrzeża.",
+   "kategoria": "nature",
+   "kraj": "GR",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/the-greek-coastline-cleanup-that-turned-trash-into-a-pollution-map/",
+   "data": "2026-11-17T00:00:25+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "cf2c52bc6bb4",
+   "tytul": "W Waszyngtonie 73 proc. wyborców poparło zakaz sprzedaży foie gras",
+   "lead": "Foie gras jest w Stanach Zjednoczonych luksusowym produktem, który podaje się głównie w eleganckich restauracjach. Mimo to podczas wyborów 3 listopada w dwóch amerykańskich miastach referendalne głosowania w sprawie dobrostanu zwierząt przyniosły bardzo wyraźne rezultaty. W Waszyngtonie 73 proc. wyborców poparło zakaz sprzedaży tego produktu.",
+   "kategoria": "nature",
+   "kraj": "US",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/animal-welfare-ballot-measures-had-a-strong-night-in-the-2026-midterms/",
+   "data": "2026-11-17T00:00:24+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "27a713ea8bff",
    "tytul": "Pierwszy załogowy lot elektrycznego samolotu pasażerskiego",
@@ -10,6 +36,19 @@
    "zrodlo": "RMF24",
    "url": "https://www.rmf24.pl/fakty/swiat/news-przelom-w-lotnictwie-pierwszy-zalogowy-lot-elektrycznego-sam,nIdn,1026378",
    "data": "2026-11-16T20:44:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "7d11375a2256",
+   "tytul": "Turystka zaginiona w Tatrach odnaleziona żywa. Poszukiwania zakończone",
+   "lead": "We wtorek po północy TOPR poinformowało, że zaginiona turystka została odnaleziona żywa w żlebie opadającym z Granackiej Przełęczy w stronę Doliny Buczynowej. Kobieta jest mocno wychłodzona i w ciężkim stanie po upadku z wysokości. W akcji brało udział kilkudziesięciu ratowników z dronami. W Tatrach obowiązuje pierwszy stopień zagrożenia lawinowego.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "RMF24",
+   "url": "https://www.rmf24.pl/regiony/zakopane/news-koniec-poszukiwan-w-tatrach-turystka-odnaleziona-zywa,nIdn,1026375",
+   "data": "2026-11-16T20:32:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
    "rozszerzony": true
@@ -84,6 +123,20 @@
    "rozszerzony": true
   },
   {
+   "id": "7975054cabdf",
+   "tytul": "Naukowcy Politechniki Krakowskiej pracują nad nowymi sposobami walki z glejakiem",
+   "lead": "Zespół dr. inż. Przemysława Zarębego z Politechniki Krakowskiej opracował cząsteczki blokujące receptory serotoninowe, które w badaniach nad glejakami wywoływały efekt przeciwnowotworowy. Obecnie naukowcy sprawdzają, jak szerzej wykorzystać to odkrycie, w ramach projektu realizowanego wspólnie z Uniwersytetem Medycznym w Łodzi. Glejak wielopostaciowy jest najbardziej agresywnym nowotworem mózgu, a dostępne metody leczenia wciąż nie są satysfakcjonujące. Badacze zwracają też uwagę na możliwe efekty uboczne i zdolność komórek nowotworowych do szukania alternatywnych dróg.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "Dziennik Polski",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOVNkdFFIVE1aS1Z4M1FfNXU1Q0ZaQVk3TEwxV05pZGFWQ3lodXFEMkpidFpIZXc4ZVg2VHZ0d0RtUU9tNFdhWU5aR1N4Vm8xYmUwMGtFV0RmbVN0Yk1Wa3FGUVNNZDg4cWlTYU5UaUJ6Yjk4RTNyMFdjSHlKckppVFNSYXQ2UDBXSkpQSG5GSW5iUEl1cGR6alhiVEVXT29GX1NLdmRMSWJvLWRpdUx0OHR4MmNhaEI4cHFhWWJsb3N2WTJ2Ti15eFl2a0lNNFZMSUVXaDdlUnREczJySTNLazZwTQ?oc=5",
+   "data": "2026-11-16T16:45:58+00:00",
+   "przetlumaczone": false,
+   "wstepne": true,
+   "url_zrodla": "https://dziennikpolski24.pl/naukowcy-politechniki-krakowskiej-opracowuja-nowe-strategie-walki-z-glejakiem-i-lekoopornymi-nowotworami/ar/c1p2-29528979",
+   "rozszerzony": true
+  },
+  {
    "id": "5a72fd612016",
    "tytul": "Stężenie „wiecznych chemikaliów” w rzekach Anglii spadło o 30%, a w rybach o 49%",
    "lead": "W rzekach Anglii wyraźnie maleje poziom dwóch znanych związków chemicznych, które ze względu na obawy o zdrowie zostały zakazane na mocy prawa międzynarodowego. Stężenie tzw. wiecznych chemikaliów spadło o 30 proc. w wodzie i o 49 proc. w rybach. Jeden z badaczy, cytowany przez BBC, ocenił te wyniki bardzo pozytywnie i uznał je za dowód na to, jak daleko udało się zajść.",
@@ -94,6 +147,20 @@
    "data": "2026-11-16T16:30:13+00:00",
    "przetlumaczone": true,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "e234ecf5737c",
+   "tytul": "Uniwersytecki Szpital Kliniczny w Białymstoku uruchomił dwa urządzenia do diagnostyki radioizotopowej",
+   "lead": "Zakład Medycyny Nuklearnej Uniwersyteckiego Szpitala Klinicznego w Białymstoku otrzymał dwa nowoczesne systemy SPECT/CT, w tym pierwszy taki model w Polsce. Inwestycja o wartości prawie 10 mln zł została sfinansowana z Krajowego Planu Odbudowy. Nowy sprzęt łączy diagnostykę radioizotopową z tomografią komputerową, co pozwala oceniać funkcjonowanie narządów, skraca czas badań i ogranicza narażenie pacjentów na promieniowanie. Urządzenia będą wykorzystywane m.in. w onkologii, kardiologii i diagnostyce nerek, tarczycy oraz mózgu.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "Białystok Online",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWhVclJacWkyM2oyR01lNWNOSVFjVlJPTkVYRVg5RDUzUzV2eUFoQnhaaGgxOVd2MXhYZUcwU0dOOFFRdUp5LS1mX2RXVm5IcjUyVTctTnlWLVlIMG5ndGhLNUFIX1FJZ05MV0t0eXJYYklVUjNQLW8zYmx1WFR6bHF4Vkp2Q2VnYmptUTQyTUhSQnBBUEszaXdJQTlvVThOSTBnelBLTE1ESXRsaWpqbDkxVlBWSUdXamhGcm9TejJNaGQ2dlFrdkgzbVE?oc=5",
+   "data": "2026-11-16T15:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.bialystokonline.pl/nowoczesny-sprzet-w-bialostockim-szpitalu-pierwsza-taka-gamma-kamera-w-polsce,artykul,151802,9,1.html",
    "rozszerzony": true
   },
   {
@@ -149,6 +216,20 @@
    "data": "2026-11-16T13:29:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "d3b415362370",
+   "tytul": "Wewnątrz konkrecji polimetalicznych z dna oceanu badacze znaleźli bogate ekosystemy",
+   "lead": "Naukowcy z Królewskiego Holenderskiego Instytutu Badań Morskich zbadali wnętrze konkrecji polimetalicznych pobranych z głębokości blisko 5 km. Po rozbiciu 244 sztuk znaleźli w ich szczelinach nicienie, skorupiaki i wieloszczety, których skład różni się od fauny z sąsiedniego dna. Zwierzęta z konkrecji oddalonych od siebie o ponad tysiąc kilometrów okazały się sobie bliższe genetycznie niż mieszkańcom pobliskiego mułu. Wyniki wpisują się w debatę o wydobyciu metali z tych formacji.",
+   "kategoria": "sci",
+   "kraj": "ŚW",
+   "zrodlo": "National Geographic Polska",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV3Y3eF96R2dyeDNmOWEzRHZFNlU2ZGhXR2d2V1JuOXRQVy1BdXlqYTlfbDFLLWxoVXNwRnlaMnFXeHU1Undid3lNd0htTnpxb1lvWEl2bVVTaW4wYUdvd1RPN1pYckJTaXZLb1ZIVG91Vk9QUEF2b3lwUGtrcGh3WnZhMkZFdHl2U1RZVFNBTDZ0ODdYd0xtTi1ITlVBbm1na2tLOXNaNG5DQk5iU1RhZVVOaXZlSVJvYmZfdHB6VHluU0d3Yk9wajR2QU82TU41RW1NMWZvR0dlVUVWa3c?oc=5",
+   "data": "2026-11-16T13:11:22+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.national-geographic.pl/przyroda/dziwne-metalowe-ziemniaki-z-morskiego-dna-mialy-byc-martwe-wlasnie-odkryto-w-nich-nieznany-ekosystem/",
    "rozszerzony": true
   },
   {
@@ -271,6 +352,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.se.pl/rzeszow/policjant-z-trzebowniska-oddal-niemal-12-litrow-krwi-ratuje-zycie-od-13-lat-aa-pAUw-HQzh-6DbP.html",
+   "rozszerzony": true
+  },
+  {
+   "id": "79089693a659",
+   "tytul": "W Lututowie 33 osoby oddały krew. Zebrano blisko 15 litrów",
+   "lead": "W niedzielę, 15 listopada, w Lututowie zebrano 14,85 litra krwi od 33 dawców, a zgłosiło się 37 osób. Jedna z nich oddawała krew po raz pierwszy. Cztery osoby zarejestrowały się w bazie potencjalnych dawców szpiku, do czego zachęcali przedstawiciele DKMS z Łodzi. Akcja odbyła się mimo wstrzymania przez łódzkie RCKiK pobierania krwi grup A Rh+ oraz AB Rh+. Organizatorzy podziękowali uczestnikom i zapowiedzieli kolejne inicjatywy.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "tugazeta.pl",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObThsbkx0bU56LVB0RGFxb1BpVXQzZ2hTd2V1OWxnVEMtNVRXMHhGcDBCZ1JHY1MyeHJHWENuTEhubjY5azdNU2doZXlmWUJ3NkVSVXpld2x2S3o2RVVaRWpxbnpRSWxEdEdWMlhWc0MtMXZSNmFXTnh1em4zUXdOQXBBZTd0blZINDJQZmpWbnhHS0Q5NWJnVEd2bGJRVW1FTHdHUENUNmdtNm1XRFIxYW5WQUZWdHRnQnBKdA?oc=5",
+   "data": "2026-11-16T09:41:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.tugazeta.pl/1,blisko-15-litrow-krwi-podczas-akcji-w-lututowie-33-osoby-podzielily-sie-darem-zycia,66243.html",
    "rozszerzony": true
   },
   {
@@ -432,6 +527,20 @@
    "rozszerzony": true
   },
   {
+   "id": "554e6fd162fa",
+   "tytul": "Gmina Krzeszowice przeznaczy pieniądze na zakup stołu operacyjnego",
+   "lead": "Radni gminy Krzeszowice zgodzili się przekazać 50 tysięcy złotych chrzanowskiemu szpitalowi na zakup stołu operacyjnego, który kosztuje około 300 tysięcy złotych. Wsparcie dołożyły także Rada Powiatu Krakowskiego i Fundacja TAURON. Samorząd dofinansowuje ten szpital od 2019 roku, łącznie kwotą 260 tysięcy złotych. W pierwszym półroczu 2026 roku z gminy hospitalizowano tam 1113 pacjentów.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "krzeszowiceone.pl",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQczAzd2JENk5IaWtCUnpVZmgwd3NQc1ZONlRCRWNyTkprOWcxeVFfOFd6RHlkZlRIUmlHLWw5cE9kTmVuQmRGVFlvNVhJRmlEeWJwcXdsR2F3eEZRZWRuWjRUVVRSZmswTFhZWTVPXzNjNTVaSFZtVjJnY3l6TzlOWmVLWGxLUzliaVZMRUxYYzhhVlltUEtBc09odFEyd3phd2NmM0hR0gGrAUFVX3lxTE8yV0Vrb3o1NmVvTmM0bHh4S2NzS0VpU1lhQzhJTzJHU2JIXzNrOXNhczI2SmJMd3ZESUl2c0NFeDlXVjhMcjlKUUdqcEhNUlBoMlNUeUVpOUM2MmQyaDlSTmxwZWdubVUwUUg3eHV2MFliZEZIVXAteTZwbW0wb1NDNTg3LTdaUjI5c3prbW1WVktRNE83Q202aFcwbmItTEUyMG5YX2cxbkFGdw?oc=5",
+   "data": "2026-11-15T20:00:28+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://krzeszowiceone.pl/archive/2026/11/15/gmina-krzeszowice-wylozy-pieniadze-na-stol-operacyjny.html",
+   "rozszerzony": true
+  },
+  {
    "id": "b3b17e4d02db",
    "tytul": "Mieszkańcy Radomia wyprowadzali psy ze schroniska na spacer w listopadową niedzielę",
    "lead": "W listopadową niedzielę mieszkańcy Radomia zabrali na spacer psy ze Schroniska dla Bezdomnych Zwierząt w tym mieście. Tekst nie zawiera dalszych szczegółów wydarzenia.",
@@ -484,6 +593,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://pomorska.pl/strazacy-z-barcina-uratowali-bobra-zwierze-zatrzasnelo-sie-w-klatce/ar/c1p2-29527169",
+   "rozszerzony": true
+  },
+  {
+   "id": "797b1baeab38",
+   "tytul": "Strażacy z Barcina zajęli się bobrem, który utknął w klatce",
+   "lead": "Strażacy z OSP w Barcinie zostali wezwani kilkanaście minut po godzinie 8 na posesję przy ulicy Polnej. Na miejscu okazało się, że bóbr wszedł do klatki pozostawionej na zewnątrz, rzekomo przygotowanej na lisy, i w niej utknął.",
+   "kategoria": "nature",
+   "kraj": "PL",
+   "zrodlo": "Express Bydgoski",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3o3Z0hieVUyNnFyQTN5RU5XN19GMEVRRXZ1TWV6emZKdGluaFpTZjZGOEhRdG1QYU1RNGd1SUEtT1lHSU9aaGJOdXBBT2Riak5VX1Q3VkxlZDhYUWVmb0NfSjdIR1FIRWdLOFpZcnV5SjU0a3R4djJBbmUxcHVSejhjS2RVYmhSUjI2ZndMNkwyWG5Sc1N3MENoMTZpQTdZYnFCZ045TEp2akRrNnRCOQ?oc=5",
+   "data": "2026-11-15T15:43:11+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://expressbydgoski.pl/strazacy-z-barcina-uratowali-bobra-zwierze-zatrzasnelo-sie-w-klatce/ar/c1p2-29527169",
    "rozszerzony": true
   },
   {
@@ -1903,125 +2026,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://zambrow.org/artykul/uczniowie-sp-nr-3-pomogli-n1878380",
-   "rozszerzony": true
-  },
-  {
-   "id": "55d0eff2c4df",
-   "tytul": "Badacze opracowali test krwi wykrywający przednowotworowe zmiany związane z rakiem jajnika",
-   "lead": "Naukowcy opracowali test krwi, który mierzy stężenie cząsteczki RNA o nazwie Tu-Stroma. Badanie objęło ponad 500 pacjentek, zarówno zdrowych, jak i z różnymi stadiami raka jajnika. Test wykrywał nie tylko zaawansowanego raka, ale także zmiany STIC, czyli stan przednowotworowy w jajowodzie, i był skuteczniejszy niż powszechnie stosowany marker CA125. Może to być istotne dla kobiet z mutacjami BRCA, ponieważ pozwoliłoby podejmować decyzje o operacji na podstawie konkretnych zmian. Metoda wymaga jednak dalszych badań i nie jest jeszcze gotowa do rutynowej diagnostyki.",
-   "kategoria": "med",
-   "kraj": "ŚW",
-   "zrodlo": "RMF24",
-   "url": "https://www.rmf24.pl/fakty/nauka/news-przelom-w-walce-z-rakiem-jajnika-test-z-krwi-wykryje-przedno,nIdn,1025773",
-   "data": "2026-11-12T06:23:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": true,
-   "rozszerzony": true
-  },
-  {
-   "id": "5527629070c8",
-   "tytul": "Dak Lak: ratownicy w nocnej powodzi uratowali kierowcę ciężarówki uwięzionego w rwącej wodzie",
-   "lead": "Policja gminy Dong Xuan w prowincji Dak Lak poinformowała o uratowaniu kierowcy ciężarówki z kontenerem, który w nocy 11 listopada utknął na zalanym terenie. Mężczyzna nie umiał pływać, bał się opuścić kabinę, a woda odcięła drogę dla pojazdów. Ratownicy dotarli do niego wzdłuż torów kolejowych, sprowadzili na brzeg i zaprowadzili do wiejskiego ośrodka kultury, by mógł odpocząć.",
-   "kategoria": "rescue",
-   "kraj": "VN",
-   "zrodlo": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSlZieEJRZENIQ2toR1AySmEwbkRrNzhVWWxyZlRPRFc5dGR2Vk1Rc3g3enJTMXlreVhoR0p2VWN4bzBGWEFqSE83QWx3di1iaFA5RkUxMVZfUHhQRHpndTZVUDh6bUtyVGhBa0dQZW95bXBVN3Fxcm82NWJNNm82V3RmTlRjV0RRX0VNUWFoTk9rVU1yZ1RpdVpQaTBvVG1aM1NyTTFCMTdnSV95MFVCVWxR?oc=5",
-   "data": "2026-11-12T04:48:12+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.vietnam.vn/pl/dak-lak-bang-qua-mua-lu-trong-dem-giai-cuu-tai-xe-xe-container-ket-giua-dong-nuoc-xiet",
-   "rozszerzony": true
-  },
-  {
-   "id": "d59bc119c516",
-   "tytul": "Los Angeles na stałe zakazało wiercenia ropy naftowej po dekadzie presji mieszkańców",
-   "lead": "Los Angeles zdecydowało o trwałym zakazie wiercenia ropy naftowej w mieście. Decyzja zapadła po wieloletnich naciskach mieszkańców, którzy od lat żyli w pobliżu odwiertów i nieczynnych szybów wydzielających metan. Wskazywano, że w okolicach wydobycia wykrywano benzen i siarkowodór, które łączono z wyższymi wskaźnikami problemów zdrowotnych.",
-   "kategoria": "nature",
-   "kraj": "US",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/after-a-decade-of-community-pressure-la-bans-oil-drilling-for-good/",
-   "data": "2026-11-12T00:00:35+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "76475d3ffa09",
-   "tytul": "Robot w kształcie ćmy wytwarza we własnym ciele czujnik UV dzięki sztucznemu układowi krążenia",
-   "lead": "Zespół z Uniwersytetu w Tartu i Włoskiego Instytutu Technologii w Genui zbudował niewielkiego robota przypominającego ćmę. Maszyna za pomocą sztucznego układu krążenia transportuje substancje chemiczne i w miejscach oświetlonych ultrafioletem wytwarza czujnik UV. Badacze widzą w tym sposób, by roboty w przyszłości same tworzyły potrzebne im elementy wyposażenia.",
-   "kategoria": "sci",
-   "kraj": "ŚW",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115834%2Cpowstal-robot-ktory-potrafi-sobie-wytworzyc-nowy-zmysl.html",
-   "data": "2026-11-12T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": true,
-   "rozszerzony": true
-  },
-  {
-   "id": "9131fad1e1cf",
-   "tytul": "Polscy naukowcy opisali nową rodzinę białek o silnie splątanej budowie",
-   "lead": "Zespół prof. Joanny Sułkowskiej z UW opisał w „PNAS” nową rodzinę białek, których łańcuch tworzy węzeł o ośmiu skrzyżowaniach, najbardziej złożony z dotąd zaobserwowanych. Strukturę wskazał wcześniej program AlphaFold, a badacze potwierdzili ją w białkach bakterii beztlenowych z ludzkich jelit. Jak taki węzeł powstaje, na razie nie wiadomo, a jego rozwijanie trwa 72 godziny w sześciu fazach.",
-   "kategoria": "sci",
-   "kraj": "PL",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115830%2Chalucynacje-ai-doprowadzily-do-odkrycia-polacy-opisali-nowa-niemozliwie",
-   "data": "2026-11-12T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "3297cbd94b32",
-   "tytul": "Narożnik skrzyżowania na Manhattanie w Nowym Jorku nosi imię Marii Skłodowskiej-Curie",
-   "lead": "W przeddzień Narodowego Święta Niepodległości jeden z narożników skrzyżowania York Avenue i 66. Ulicy na Manhattanie otrzymał imię Marii Skłodowskiej-Curie. Uhonorowanie z inicjatywy Konsulatu Generalnego RP wspólnie z władzami Nowego Jorku przypomina, że dawna ulica jej imienia zniknęła pod FDR Drive. Podczas uroczystości zaprezentowano też głos uczonej przygotowany przez sztuczną inteligencję.",
-   "kategoria": "sci",
-   "kraj": "PL",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115872%2Cusa-rog-ulic-na-nowojorskim-manhattanie-otrzymal-imie-marii-sklodowskiej",
-   "data": "2026-11-12T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "c617ec6642ee",
-   "tytul": "Prezydent odznaczył Orderem Orła Białego neurochirurga prof. Mirosława Ząbka",
-   "lead": "W dniu Święta Niepodległości prezydent Karol Nawrocki wręczył Order Orła Białego neurochirurgowi Mirosławowi Ząbkowi, profesorowi Centrum Medycznego Kształcenia Podyplomowego. Kieruje on Kliniką Neurochirurgii i Urazów Układu Nerwowego w Mazowieckim Szpitalu Bródnowskim i ma na koncie około 3 tys. operacji tętniaków mózgu. Był pionierem wielu zabiegów w Polsce, m.in. głębokiej stymulacji mózgu u chorych na Parkinsona, a także autorem lub współautorem ponad 170 publikacji naukowych. Wcześniej jego dorobek uhonorowano między innymi Złotym Krzyżem Zasługi oraz tytułem laureata konkursu „Wybitny Polak”.",
-   "kategoria": "med",
-   "kraj": "PL",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115870%2Cprezydent-odznaczyl-orderem-orla-bialego-lekarza-neurochirurga-prof-cmkp-dr",
-   "data": "2026-11-12T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "750c83a9cdbf",
-   "tytul": "Strażacy wezwani na ratunek kotu w Orli",
-   "lead": "Strażacy zostali wezwani, aby pomóc kotu w Orli. Pozostała część przesłanego tekstu nie zawiera szczegółów tej interwencji.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Bielsk.eu",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XS0RsR1JuQ1RFNldpc1IxUE9XMUlNY003VHRVbGNHMjIzd2RSLS13ZmR2RDNKTzZjRkp6RjBJTnlDdE0zZUxncFdtd2JodXFnek4zUlZnaUVrb213aHF1Wk1zWkp2YUJabEx4VzJjbkpFS1pPems3aXZBOA?oc=5",
-   "data": "2026-11-11T20:21:55+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://bielsk.eu/orla/60731-strazacy-wezwani-na-ratunek-do-kota-w-orli",
-   "rozszerzony": true
-  },
-  {
-   "id": "d3efc5ca1dff",
-   "tytul": "W Hiszpanii odkryto 280 grawerunków z epoki lodowej",
-   "lead": "Na śródziemnomorskim wybrzeżu Hiszpanii odkryto trzecią co do wielkości kolekcję grawerunków z epoki lodowej, liczącą 280 dotąd niezauważonych przedstawień. Przez ponad sześćdziesiąt lat tysiące odwiedzających przechodziło tuż obok nich, a niektórzy nawet wpisywali w te powierzchnie swoje imiona i daty.",
-   "kategoria": "sci",
-   "kraj": "ES",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/",
-   "data": "2026-11-11T19:30:10+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
    "rozszerzony": true
   }
  ]
