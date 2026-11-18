@@ -1,6 +1,60 @@
 {
- "aktualizacja": "2026-11-18T04:28:00.227930+00:00",
+ "aktualizacja": "2026-11-18T14:06:29.559766+00:00",
  "wiesci": [
+  {
+   "id": "2facbc7b1b90",
+   "tytul": "Liczebność płetwali błękitnych na Antarktydzie wzrosła z 418 do 4018 osobników od 1973 roku",
+   "lead": "Populacja płetwali błękitnych na Antarktydzie odbudowuje się od momentu zakończenia polowań w 1973 roku. Wtedy w regionie żyło około 418 tych zwierząt, a obecnie ich liczba wynosi 4018. Średnio odnotowywano wzrost o 4,5 procent rocznie. Międzynarodowa Komisja Wielorybnicza zakazała zabijania tego gatunku w 1964 roku, jednak nielegalne łowiska działały jeszcze do 1973 roku.",
+   "kategoria": "nature",
+   "kraj": "ŚW",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/",
+   "data": "2026-11-18T14:00:45+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "ba4292b8f308",
+   "tytul": "Trwa nabór zgłoszeń do konkursu Edmund 2026 dla społeczników",
+   "lead": "Do 30 listopada można zgłaszać kandydatury do konkursu Wolontariusz Roku Powiatu Gostyńskiego „Edmund 2026”. Wyróżnienia obejmują pięć kategorii: wolontariat indywidualny, grupowy i młodzieżowy, biznes społecznie odpowiedzialny oraz wydarzenie roku. Zgłosić może każdy, także osoby prywatne, firmy i instytucje, za zgodą kandydata, a formularz znajduje się na stronie powiatgostynski.pl. Laureaci otrzymają statuetki nawiązujące do błogosławionego Edmunda Bojanowskiego, a wręczenie nastąpi podczas Gali Wolontariusza Roku 14 grudnia.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "elka.pl",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VaXRGYVRYLXM0dmdjMmxBMzh5d3k1bU4tQ0VKUGVBNmNCYlFzZm1ycnlFX2tvbUdFeVNEcGdMcXAxbDEwSTRfMl9lOTM1VWlH?oc=5",
+   "data": "2026-11-18T12:45:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://elka.pl/content/view/132618/78/",
+   "rozszerzony": true
+  },
+  {
+   "id": "7239b5ad2883",
+   "tytul": "Naukowcy z UC San Francisco usunęli agresywne guzy mózgu u myszy nową terapią immunologiczną",
+   "lead": "W badaniach na myszach naukowcy z UC San Francisco usunęli agresywny dziecięcy nowotwór mózgu i zapewnili trwałą ochronę przed jego nawrotem. Zastosowano nowy rodzaj terapii komórkami odpornościowymi, która aktywuje się dopiero po wniknięciu do mózgu. Dzięki temu komórki atakują nowotwór, a poza mózgiem pozostają nieaktywne.",
+   "kategoria": "med",
+   "kraj": "US",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/",
+   "data": "2026-11-18T12:30:20+00:00",
+   "przetlumaczone": true,
+   "wstepne": true,
+   "rozszerzony": true
+  },
+  {
+   "id": "0c15882610b6",
+   "tytul": "Polscy naukowcy rozwijają nową terapię komórkową przeciw nowotworom jako pierwsi w regionie Europy",
+   "lead": "W Narodowym Instytucie Onkologii w Warszawie rozwijana jest terapia wykorzystująca limfocyty T naciekające guz (TIL). Jako pierwsi w tej części Europy zajmują się nią polscy naukowcy. Jak przekazał prof. Piotr Rutkowski, ta metoda jest już zarejestrowana w Stanach Zjednoczonych, a w regionie nie rozwija się jej nigdzie poza tym instytutem.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "Puls Medycyny",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeGhUVzJlVG53bFhtckZINTBGOGdfOTVjUFBpdnJ0ZnowTFl4cmMwamswem0zZXlUa2VFOG1IWml3aS0zeHJ6dEJEUDUzcFhEOXhqUWlEaUhLOUhMVkFldTlvSlNKUmxESmhRbXAzR08xd3hPOU1nTGU5aDd0Yy1ldmpMV0I1TWZ3Q1kzU3RRQTU5V3RELWhZUHVHM2FtX1dPNFYtUmQ1NDJPOHZSNzRaaUsxUWJ3c1hMRFBFSHlXWUpZdlA5U1dqYVJQV24xRUVudU9OWnk4VQ?oc=5",
+   "data": "2026-11-18T08:49:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": true,
+   "url_zrodla": "https://pulsmedycyny.pl/medycyna/onkologia/polacy-rozwijaja-nowa-przeciwnowotworowa-terapie-komorkowa-jako-pierwsi-w-naszym-regionie-europy/",
+   "rozszerzony": true
+  },
   {
    "id": "b49f5f70db27",
    "tytul": "Liczba osób bezdomnych w USA spadła w 2025 roku o ponad 6 proc., najmocniej od ponad dekady",
@@ -516,6 +570,20 @@
    "rozszerzony": true
   },
   {
+   "id": "494a63015ad6",
+   "tytul": "Żubrów w sześciu gminach Pomorza Zachodniego przybyło: z 184 do 265 osobników",
+   "lead": "Badanie opublikowane w „Ecology and Society” pokazuje, że po reintrodukcji populacja żubrów w sześciu gminach województwa zachodniopomorskiego wzrosła z 184 do 265 osobników. Najczęściej wskazywanym problemem są szkody w uprawach oraz obawy o bezpieczeństwo na drogach, a krytyczniej wypowiadają się rolnicy. Jednocześnie 84 proc. ankietowanych w 2018 roku zadeklarowało, że spotkało żubra na wolności, a wielu dostrzega korzyści, np. dla turystyki. Poparcie dla dalszego zwiększania liczebności zmalało jednak w porównaniu z 2015 rokiem.",
+   "kategoria": "nature",
+   "kraj": "PL",
+   "zrodlo": "InfoWET.pl",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXA3U3F3ZzNNRXhYV2J5emJ0Wmh1bmh0SlNFRW9HNDY1VlhOOGRvYUYtXzZnVEVuQ1NMZlpTNDV0WDM2Sm9kbEw1OF9PeFAzT3V5VS1LQjRKRXVyNHF6akttMlhhRHFyOGNHWUFXS2QxU3FaOWlFVFpOazMyOVVuQTVsMXM3bXAwWWtYTjB0a000TTFwcjM4Qzg5OE1OWHlJWWFVb2cxOXhuZlJxczJfS24tdEJrUEhUNW93?oc=5",
+   "data": "2026-11-16T22:18:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://www.infowet.pl/aktualnosci/215/rosnie_populacja_polskich_zubrow_to_korzysc_ale_tez_wyzwanie_spoleczne,6162.html",
+   "rozszerzony": true
+  },
+  {
    "id": "27a713ea8bff",
    "tytul": "Pierwszy załogowy lot elektrycznego samolotu pasażerskiego",
    "lead": "Chiński elektryczny samolot CE-25A, przeznaczony do krótkich lotów między miastami, wykonał pierwszy lot z załogą. Na pokładzie byli dwaj piloci i inżynier, a maszyna przebywała w powietrzu 16 minut i 38 sekund. Samolot osiąga prędkość przelotową do 300 km/h i pułap 2400 metrów, a może zabrać do 19 pasażerów. Producent ubiega się teraz o certyfikat CAAC, który jest niezbędny do regularnych lotów komercyjnych.",
@@ -677,6 +745,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.bialystokonline.pl/nowoczesny-sprzet-w-bialostockim-szpitalu-pierwsza-taka-gamma-kamera-w-polsce,artykul,151802,9,1.html",
+   "rozszerzony": true
+  },
+  {
+   "id": "5743b29e8ab9",
+   "tytul": "Rodzinę rysi nagrano w pobliżu granicy",
+   "lead": "Funkcjonariusze Podlaskiego Oddziału Straży Granicznej ponownie natrafili na samicę rysia z dwójką młodych na terenach leśnych przy granicy polsko-białoruskiej. Rysica pojawiła się tym razem w nowym miejscu, a nagranie z jej wędrówki opublikowano w mediach społecznościowych oddziału. Spotkanie matki z młodymi jest rzadkie, ponieważ ryś, największy dziko żyjący kot w Europie i objęty w Polsce ścisłą ochroną, prowadzi skryty tryb życia i unika kontaktu z ludźmi.",
+   "kategoria": "nature",
+   "kraj": "PL",
+   "zrodlo": "iSokolka.eu",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOS1rMTgxcGdhTmxJSFc3ellta2RHWkphdktLblhjR0FjVXRzYmNZMnpiQ1YwWDhCNmMtQmc2Q1ZMYk9xWGxXTDF1TFZkSTBjbV9lNlJKVG9uaVcyT3Z4VWJINnJvVkVhZTFfYUVmNS03Um44UmMwS0kzVDNtNlVTbmlBS0xpVHZNaHNiZUxsMA?oc=5",
+   "data": "2026-11-16T14:57:04+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://isokolka.eu/podlaskie-2/73038-rysia-rodzina-dala-sie-nagrac-przy-granicy-wideo",
    "rozszerzony": true
   },
   {
@@ -1951,85 +2033,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://dziennikzachodni.pl/pozar-w-piekarach-slaskich-plomienie-siegaly-juz-okien-mieszkania-policjanci-w-ostatniej-chwili-wyprowadzili-kobiety/ar/c1p2-29521835",
-   "rozszerzony": true
-  },
-  {
-   "id": "8810a9bdff09",
-   "tytul": "Harwardzkie badanie od 1938 roku: jakość relacji lepiej wskazuje na szczęście niż bogactwo czy sława",
-   "lead": "Harwardzkie badanie rozwoju dorosłych, prowadzone od 1938 roku, jest najdłużej trwającym projektem naukowym poświęconym życiu dorosłych ludzi. Jego wyniki pokazują, że jakość bliskich relacji jest lepszym wskaźnikiem dobrostanu niż bogactwo, sława, ciężka praca czy dobre geny. Osoby zadowolone ze swoich relacji w średnim wieku zazwyczaj miały później lepsze zdrowie i żyły dłużej, a samotność wiązała się z większym ryzykiem problemów zdrowotnych. Liczy się przy tym nie liczba znajomych, lecz zaufanie i wsparcie w kilku wartościowych więziach.",
-   "kategoria": "sci",
-   "kraj": "US",
-   "zrodlo": "Polskie Radio 24",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUnZNc0Z5ei1mQ0NPZ1RMZFhTOUhPRmhWUTlyVTNiMjNJZUZYOWNqZG9IRUozSmEtTDAtczdKWVVXbGw1Qm00b0VJbVpBNUpfclZub2FUb0wteGNVeWdNenE3azh4bnh4X0pSalcwNmdyMEFUby1Ya0o2Tkl5c3RZSTJaOWhOam91OGo3U2U0aVN0MEhJeFBuNDN5OFY0NlpsTEZPUWNDZ0xoekdoWVE?oc=5",
-   "data": "2026-11-13T08:24:19+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://polskieradio24.pl/nauka/trwa-od-1938-roku-najdluzsze-badanie-ludzkiego-zycia-ujawnia-sekret-szczescia",
-   "rozszerzony": true
-  },
-  {
-   "id": "06569641826b",
-   "tytul": "Pierwsza na świecie oczyszczalnia usuwająca mikroplastik w Atlantic City",
-   "lead": "Oczyszczalnia ścieków w Atlantic City w stanie New Jersey jako pierwsza na świecie zaczęła usuwać mikroplastik z oczyszczanej wody. Wcześniej zakłady tego typu zatrzymywały bakterie, chemikalia i odpady biologiczne, lecz mikroplastik przechodził przez nie bez przeszkód. System opracowali dwaj absolwenci Princeton.",
-   "kategoria": "nature",
-   "kraj": "US",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/how-two-princeton-graduates-built-the-worlds-first-microplastics-removal-system/",
-   "data": "2026-11-13T00:00:54+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "22a8401c229c",
-   "tytul": "Uniwersytet Przyrodniczy we Wrocławiu będzie bezpłatnie leczył psy ratownicze",
-   "lead": "Psy ratownicze z WOPR-u, GOPR-u i OSP oraz czworonogi na emeryturze będą mogły bezpłatnie korzystać z opieki weterynaryjnej Uniwersytetu Przyrodniczego we Wrocławiu. Nowa umowa obowiązuje do końca 2028 roku i obejmuje konsultacje, badania diagnostyczne, analizy laboratoryjne oraz leczenie, a opiekunowie płacą tylko za leki i materiały. Lekarze zwracają uwagę, że te psy najczęściej mierzą się z problemami kostno-stawowymi, urazami skóry i stresem wpływającym na żołądek i jelita.",
-   "kategoria": "nature",
-   "kraj": "PL",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115881%2Cwroclaw-uniwersytet-przyrodniczy-bedzie-bezplatnie-leczyl-psy-ratownicze",
-   "data": "2026-11-13T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "82cc2abd6c4b",
-   "tytul": "Polskie służby zyskają stały dostęp do danych satelitarnych ICEYE o powodziach i pożarach",
-   "lead": "Polsko-fińska firma ICEYE i Centrum Badań Kosmicznych PAN podpisały umowę dającą polskim służbom stały dostęp do danych satelitarnych o powodziach, pożarach i krze lodowej. Zamiast uruchamiać usługi osobno przy każdym zdarzeniu, strażacy i sztaby kryzysowe korzystają z nich w ramach abonamentu. Pakiet obejmuje mapy zasięgu wody aktualizowane co kilka godzin, a także pilotażowe monitorowanie pożarów i lodu na rzekach.",
-   "kategoria": "sci",
-   "kraj": "PL",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115866%2Cpolskie-sluzby-zyskaja-staly-dostep-do-danych-satelitarnych-iceye-o",
-   "data": "2026-11-13T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "adfb861d5e24",
-   "tytul": "Żurawie z nadajnikami GPS z Lubelszczyzny odwiedziły 20 krajów na dwóch kontynentach",
-   "lead": "Lubelskie żurawie z nadajnikami GPS odwiedziły w czasie wędrówek 20 krajów na dwóch kontynentach, od Węgier po Algierię. Dane zebrane przez sześć lat przez Fundację Dla Przyrody pokazują, że razem przeleciały ponad 101 tys. km. Badacze ustalili też, że ptaki zaczynają jesienną wędrówkę, gdy po deszczowym froncie nadchodzi wyż, a do głównych zagrożeń dla populacji zaliczają osuszanie mokradeł i susze.",
-   "kategoria": "nature",
-   "kraj": "PL",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115882%2Clubelskie-zurawie-z-nadajnikami-gps-odwiedzily-20-krajow-na-dwoch",
-   "data": "2026-11-13T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "037e738f064f",
-   "tytul": "Trzech polskich naukowców otrzymało granty ERC",
-   "lead": "Trzej polscy badacze otrzymali granty ERC Synergy 2026, czyli największe pod względem finansowym granty Europejskiej Rady ds. Badań Naukowych. Prof. Janusz Bujnicki z IIMCB zbada chemiczne modyfikacje tRNA i ich wpływ na działanie komórek. Prof. Aldona Sopata z UAM w Poznaniu wraz z partnerami z Portugalii i Niemiec przeanalizuje zmiany języków dzieciństwa osób wracających z zagranicy. Dr hab. Bogumił Szady z KUL zbada, jak społeczeństwa Europy Środkowo-Wschodniej radziły sobie z różnorodnością religijną i językową w XIV–XVIII wieku.",
-   "kategoria": "sci",
-   "kraj": "PL",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115883%2Ctroje-polskich-naukowcow-z-grantami-erc.html",
-   "data": "2026-11-13T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
    "rozszerzony": true
   }
  ]
