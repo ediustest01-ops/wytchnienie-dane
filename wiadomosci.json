@@ -1,6 +1,32 @@
 {
- "aktualizacja": "2026-11-17T22:56:17.585546+00:00",
+ "aktualizacja": "2026-11-18T04:28:00.227930+00:00",
  "wiesci": [
+  {
+   "id": "b49f5f70db27",
+   "tytul": "Liczba osób bezdomnych w USA spadła w 2025 roku o ponad 6 proc., najmocniej od ponad dekady",
+   "lead": "Liczba osób bezdomnych w Stanach Zjednoczonych zmniejszyła się w 2025 roku o ponad 6 proc. To najmocniejszy roczny spadek od ponad dekady, czyli około 49 tys. osób mniej bez dachu nad głową. Był to drugi z rzędu roczny spadek, po mniejszym obniżeniu w 2024 roku.",
+   "kategoria": "people",
+   "kraj": "US",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/us-homelessness-decline-hits-its-steepest-one-year-drop-in-a-decade/",
+   "data": "2026-11-18T00:00:36+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "8a95c430f89c",
+   "tytul": "April Surac stworzyła NeuraSensa, sztukę dostosowującą się do odbiorców",
+   "lead": "Tekst należy do serii Local Changemakers 2026, która przedstawia osoby do 30. roku życia zmieniające otoczenie na lepsze. Bohaterką jest April Surac, autorka projektu NeuraSensa. Artykuł zauważa, że przestrzenie publiczne projektuje się z myślą o przeciętnym odbiorcy, a oświetlenie, hałas, faktura podłoża i tempo pomieszczenia zakładają określony typ ciała.",
+   "kategoria": "people",
+   "kraj": "ŚW",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/how-april-surac-turned-textile-art-into-therapeutic-tools-for-neurodivergent-communities/",
+   "data": "2026-11-18T00:00:03+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "78b198be6ba1",
    "tytul": "Lekarze z Gliwic wydrukowali implant i uratowali oko 75-letniej pacjentki",
@@ -66,6 +92,20 @@
    "data": "2026-11-17T15:55:24+00:00",
    "przetlumaczone": true,
    "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "90a2178f8574",
+   "tytul": "Ruszył konkurs na imię dla małego żubra z Pokazowej Zagrody Zwierząt w Gołuchowie",
+   "lead": "W Pokazowej Zagrodzie Zwierząt w Gołuchowie ruszył konkurs na imię dla małego żubra. Według zapowiedzi pomysłów na nazwę może być bardzo dużo, nawet tysiące.",
+   "kategoria": "nature",
+   "kraj": "PL",
+   "zrodlo": "Września Nasze Miasto",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSWgyOHYtSVd1Q0E5Vk1ZbGFCSWF2TEIxUU1fclhWMGozQ1hMVml4WnJlRmZWTGp5aURRNDczWmlKZ2ZDcGVuUFl5Z053ZVRzNnRyUXp1anZqNVAwakY2OWZTLWdDOF9rSlNqSHNSeHNBaUl0cWpBenphTkh4aHBoNlhfNEU4Z0JFVVdXWkE5YnVLWExiRXlGSUQ2YXpyejVfN20xMlVvclpjamE5eXVaWG81bndqdjJGeDJHakdJSmZUS3l0blJPbVVnZ241VFhVWml1ckZ1bGE2N1pBOXZlczBLMEl2VG02cWFTb1BFNy1lZ05uWGhUakVuUmdQdm9ybEZJbzBsWS0?oc=5",
+   "data": "2026-11-17T14:44:42+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://wrzesnia.naszemiasto.pl/jak-nazwac-malego-zubra-z-pokazowej-zagrody-zwierzat-w-goluchowie-ruszyl-konkurs-a-pomyslow-moze-byc-tysiace-przejdz-do-historii/ar/c1p2-29531485",
    "rozszerzony": true
   },
   {
@@ -596,6 +636,20 @@
    "przetlumaczone": false,
    "wstepne": true,
    "url_zrodla": "https://dziennikpolski24.pl/naukowcy-politechniki-krakowskiej-opracowuja-nowe-strategie-walki-z-glejakiem-i-lekoopornymi-nowotworami/ar/c1p2-29528979",
+   "rozszerzony": true
+  },
+  {
+   "id": "7dd4aa7bd0b5",
+   "tytul": "Naukowcy z Politechniki Krakowskiej opracowują nowe strategie walki z glejakiem i nowotworami opornymi na leki",
+   "lead": "Naukowcy z Politechniki Krakowskiej, wspólnie z zespołem z Uniwersytetu Medycznego w Łodzi, pracują nad nową metodą leczenia glejaka, najbardziej agresywnego nowotworu mózgu. Opracowano cząsteczki blokujące receptory serotoninowe, które w badaniach wywołały efekt przeciwnowotworowy. Obecnie sprawdzane są możliwości szerszego wykorzystania tego odkrycia. Badacze zwracają jednak uwagę, że komórki nowotworowe mogą szukać alternatywnych dróg, by przetrwać.",
+   "kategoria": "med",
+   "kraj": "PL",
+   "zrodlo": "Dziennik Polski",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOExENVNhd3dFdDdVaTBzajd4eVpOcGg5RXNwYjhoVFhFM2pCNGVWQk54Q05rQy1ERFRHMjZYbnVPTGV0THpocjhVNnRDUFBoV1hKSUZzNUhjcVhZeWpKeE4zY0JDWVRKbEVlM1JOVkJBMjdGbkkwX2U1Z2dTQy1EdkpUV29tSUFEenMyTElmaW1jamJLZlktZnFJT3hOcWZkcTlVTjNZR0J4VTJWWFZXTWwzWmZOMkVqY09qZ0FvMldIOGtUOWJ3UG9Xbk5tcDN0STNCMWFnMHZ0eU5SX3NZMncyd2RTQQ?oc=5",
+   "data": "2026-11-16T16:45:58+00:00",
+   "przetlumaczone": false,
+   "wstepne": true,
+   "url_zrodla": "https://dziennikpolski24.pl/naukowcy-z-politechniki-krakowskiej-opracowuja-nowe-strategie-walki-z-glejakiem-i-lekoopornymi-nowotworami/ar/c1p2-29528979",
    "rozszerzony": true
   },
   {
@@ -1973,58 +2027,6 @@
    "kraj": "PL",
    "zrodlo": "Nauka w Polsce",
    "url": "https://naukawpolsce.pl/aktualnosci/news%2C115883%2Ctroje-polskich-naukowcow-z-grantami-erc.html",
-   "data": "2026-11-13T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "b509cc4a8a94",
-   "tytul": "Śląski Uniwersytet Medyczny wykorzystuje druk 3D do produkcji trenażerów medycznych",
-   "lead": "Śląski Uniwersytet Medyczny sam projektuje i wytwarza trenażery do nauki procedur medycznych, m.in. tamowania krwotoków i szycia chirurgicznego. Uczelnia korzysta z druku 3D oraz technik odlewniczych, co ogranicza koszty zakupu komercyjnych pomocy szkoleniowych. Powstają m.in. modele do nauki wkłuć, konikotomii i badania per rectum, a także silikonowe trenażery do szycia w obrębie jamy ustnej. Z tych narzędzi korzystają studenci kierunków lekarskich, lekarsko-dentystycznych, pielęgniarstwa i ratownictwa medycznego.",
-   "kategoria": "med",
-   "kraj": "PL",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115864%2Ckatowice-slaski-uniwersytet-medyczny-wykorzystuje-druk-3d-do-produkcji",
-   "data": "2026-11-13T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "dbdaa7926fe5",
-   "tytul": "W Portugalii odnotowano rekordową populację rysia iberyjskiego",
-   "lead": "Według raportu portugalskiego rządu populacja rysia iberyjskiego w Portugalii i Hiszpanii osiągnęła rekordowy poziom. Na początku tego roku w Portugalii żyło prawie 400 osobników, a na całym Półwyspie Iberyjskim około 2663. Jeszcze w 2002 roku liczbę tych zwierząt w Portugalii szacowano na zaledwie 100, a w czerwcu ubiegłego roku gatunek wykreślono z listy zagrożonych. Najliczniejsze populacje występują w rejonie Toledo oraz w masywie Sierra Morena.",
-   "kategoria": "nature",
-   "kraj": "PT",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115865%2Cportugalia-rekordowa-populacja-rysia-iberyjskiego.html",
-   "data": "2026-11-13T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "14bbb52c41c1",
-   "tytul": "Śląski Uniwersytet Medyczny produkuje trenażery medyczne w technologii druku 3D",
-   "lead": "Śląski Uniwersytet Medyczny wytwarza we własnych pracowniach pomoce szkoleniowe w technologii druku 3D oraz odlewnictwa. Modele służą m.in. do nauki tamowania krwotoków, szycia chirurgicznego, wkłuć i konikotomii, a uczelnia rozwija także silikonowe trenażery do szycia w stomatologii. Samodzielna produkcja pozwala modyfikować sprzęt, wymieniać zużyte elementy i ograniczać koszty zakupu komercyjnych symulatorów. Z przygotowanych narzędzi korzystają studenci kierunków lekarskich, lekarsko-dentystycznych, pielęgniarstwa i ratownictwa medycznego.",
-   "kategoria": "sci",
-   "kraj": "PL",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://scienceinpoland.pl/aktualnosci/news%2C115864%2Ckatowice-slaski-uniwersytet-medyczny-wykorzystuje-druk-3d-do-produkcji",
-   "data": "2026-11-13T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "9df61af2dd1a",
-   "tytul": "W Portugalii odnotowano rekordową populację rysia iberyjskiego",
-   "lead": "Portugalscy biolodzy odnotowali rekordowy wzrost liczby rysi iberyjskich, a na początku tego roku w kraju żyło ich prawie 400. Według najnowszego raportu rządowego, przygotowanego we współpracy z Hiszpanią, populacja na całym Półwyspie Iberyjskim sięga już ponad 2400 osobników. Gatunek został w czerwcu ubiegłego roku wykreślony z listy zagrożonych, a w latach 2019–2024 jego populacja wzrosła o około 280 proc. Jeszcze w 2002 roku w Portugalii liczbę tych zwierząt szacowano na zaledwie 100.",
-   "kategoria": "nature",
-   "kraj": "PT",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://scienceinpoland.pl/aktualnosci/news%2C115865%2Cportugalia-rekordowa-populacja-rysia-iberyjskiego.html",
    "data": "2026-11-13T00:00:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
