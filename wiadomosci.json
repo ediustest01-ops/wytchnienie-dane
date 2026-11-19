@@ -1,6 +1,19 @@
 {
- "aktualizacja": "2026-11-18T22:00:34.154869+00:00",
+ "aktualizacja": "2026-11-19T03:35:03.618931+00:00",
  "wiesci": [
+  {
+   "id": "f2fde0ac67bb",
+   "tytul": "Zakazy ograniczyły stężenie dwóch szkodliwych PFAS w angielskich rzekach o około 30 procent",
+   "lead": "Stężenie dwóch najbardziej toksycznych tzw. wiecznych chemikaliów, PFOS i PFOA, spadło w angielskich rzekach w ciągu ostatniej dekady. Według nowych danych Agencji Środowiska (EA) poziom PFOS obniżył się o 30 proc., a PFOA o 29 proc. W rybach słodkowodnych stężenie tych substancji zmniejszyło się aż o 49 proc. Agencja przypisuje ten spadek wprowadzonym zakazom.",
+   "kategoria": "nature",
+   "kraj": "GB",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/bans-cut-two-forever-chemicals-by-30-percent-in-englands-rivers/",
+   "data": "2026-11-19T00:00:51+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "bc38bd99524a",
    "tytul": "Wisznice: ruszyła rejestracja wolontariuszy do 35. Finału WOŚP",
@@ -70,6 +83,19 @@
    "rozszerzony": true
   },
   {
+   "id": "05491dae3dd4",
+   "tytul": "Sonda Voyager 1 ustanowiła rekord jako najdalszy od Ziemi obiekt zbudowany przez człowieka",
+   "lead": "Sonda Voyager 1 znalazła się obecnie najdalej od Ziemi spośród wszystkich obiektów stworzonych przez człowieka. Dzieli ją od naszej planety prawie 26 mld km, czyli mniej więcej jeden dzień świetlny. Wystrzelona w 1977 roku maszyna nadal utrzymuje łączność z NASA. Na jej pokładzie znajduje się złota płyta z przesłaniem skierowanym do ewentualnych obcych cywilizacji.",
+   "kategoria": "sky",
+   "kraj": "ŚW",
+   "zrodlo": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-18/historyczny-rekord-sondy-voyager-1-niby-jest-daleko-ale-w-kosmosie-to-rzut-beretem/",
+   "data": "2026-11-18T16:34:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
    "id": "56c67dd01eb4",
    "tytul": "Rodzeństwo z Chin zbudowało ręcznie schody na zboczu góry, by starsza matka łatwiej docierała do domu",
    "lead": "Dzieci pewnej starszej Chinki ręcznie zbudowały nowe schody na zboczu góry, aby matce łatwiej było dotrzeć do domu. Najmłodsza córka wspomina, jak w dzieciństwie matka prowadziła je za ręce starą ścieżką. Historia poruszyła serca milionów ludzi.",
@@ -122,6 +148,20 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://miejskireporter.pl/liczyla-sie-kazda-sekunda-policjanci-uratowali-48-letniego-mezczyzne/",
+   "rozszerzony": true
+  },
+  {
+   "id": "861ede9b4388",
+   "tytul": "Ratownicy na basenie uratowali niemowlę",
+   "lead": "Na basenie doszło do dramatycznej sytuacji, w której zagrożone było życie niemowlęcia. Ratownicy pełniący dyżur od razu rozpoczęli akcję ratunkową i udało się przywrócić dziecku oddech. Na miejsce wezwano Zespół Ratownictwa Medycznego, który ocenił stan zdrowia niemowlęcia jako dobry. Pływalnia QARIUM podziękowała zespołowi za opanowanie, szybką reakcję i profesjonalizm.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Infostrow.pl",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0RfeS11T1ZDUXJQRnRqQ1drbjA4MXloWFV1LXR5V1RGUHE0TXVRcnc1cXJkSnlTSzdfWDNCVFJVUDgxa1BFM25PSWhNYXVKY0hQVmNoR2p5RlVtMGpua2ppUkxwMFZMLVJhWlVLbDd5RnZBSFJYZnlZM3BET1VRSjI2amNQYTdtOHlZMVJWNUp5M2hCU0YyeDhDc2VRYU1fLWdQaWx3?oc=5",
+   "data": "2026-11-18T14:05:40+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "url_zrodla": "https://infostrow.pl/wiadomosci/dramatyczne-chwile-na-basenie-ratownicy-uratowali-niemowle/cid,108926,a",
    "rozszerzony": true
   },
   {
@@ -1997,47 +2037,6 @@
    "data": "2026-11-14T09:20:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "6d3f1cf7738e",
-   "tytul": "Tankowiec zderzył się z wycieczkowcem na Missisipi. Wszystkich osób z wody udało się uratować",
-   "lead": "W Nowym Orleanie na rzece Missisipi tankowiec zderzył się z luksusowym statkiem wycieczkowym, jak podaje agencja Reutera. Statek American Heritage przechylił się i zatonął, a do wody wpadły dziesiątki osób. Ostatecznie wszystkich udało się uratować. Burmistrz miasta, Helena Moreno, określiła zakończenie tego zdarzenia mianem cudu na Missisipi.",
-   "kategoria": "rescue",
-   "kraj": "US",
-   "zrodlo": "Polsat News",
-   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-14/cud-na-missisipi-szczesliwy-final-zderzenia-statkow-w-usa/",
-   "data": "2026-11-14T08:45:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "be1b9408ec88",
-   "tytul": "Policjanci z Raciąża uratowali mieszkańców, gdy w kominie zapaliła się sadza",
-   "lead": "W czwartek, 12 listopada, przed godziną 21, policjanci z Raciąża podczas patrolu zauważyli dym, a potem płomienie wydobywające się z komina jednego z domów w gminie. Domownicy nie wiedzieli, że w przewodzie kominowym zapaliła się sadza. Po zaalarmowaniu straży pożarnej mieszkańcy bezpiecznie opuścili budynek. Policja podkreśla, że regularne przeglądy i czyszczenie kominów mają kluczowe znaczenie dla bezpieczeństwa.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "WP",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0lfaGNNYklJaFJUTlBGZ0N4TU5fd29NTEJBb2VIRGRoQnJZd2piNVc2N2Q4UzNoYm54UE9EUHJCSXh6UDhQUEZyVGhnQkZHN1dzdTNZU3Y1MVJkVTdwNm5PbFk1Q0pfTGR6Sk00OTlSOHp1bzA5ekpjamFBbldSakFvMVV5b0ZybmRDZnBaeVdJN2dDcl9XZ2piWkI4VU02cDVCb09PM3JWUmJxR0hTSXJXSkN5TjItdFpQdXpTeG1BWkZUN2ZFNkxjem5rQ1JEU1JDUzBHamxuYmM?oc=5",
-   "data": "2026-11-14T07:13:45+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://informacje.wp.pl/wiadomosci/pozar-sadzy-w-kominie-policjanci-z-raciaza-uratowali-mieszkancow-przed-niebezpieczenstwem-7350845777057792a",
-   "rozszerzony": true
-  },
-  {
-   "id": "2b004e7cf5bb",
-   "tytul": "Policjanci z Raciąża uratowali mieszkańców, gdy w kominie zapaliła się sadza",
-   "lead": "Podczas wieczornego patrolu policjanci z Komisariatu Policji w Raciążu zauważyli dym unoszący się przy drodze, a chwilę później płomienie z komina domu mieszkalnego. Sprawdzili okolicę i ustalili źródło zadymienia. Zdarzenie miało miejsce w czwartek, 12 listopada, przed godziną 21. Dzięki interwencji policjantów domownicy zostali ostrzeżeni i opuścili budynek.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "cedarnews.net",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmVyU053VmV5SEJKbjdRYU5TdkVOYjd3S0tvLVZBSEFLREhUMXkwc1RtN25MZWk2amd0UFdSWklqREZtclZVdVRhUGdjMjRxTFNDTktvUjRvV3BuZ1ZEUXVjZzlBc3VKNU52aGFlYXlBTVAybW04bkxkQldwUVFudGJFSl9ScGpVQ00wWlNDSzRqSi1BTDFUME9vbjNTY00?oc=5",
-   "data": "2026-11-14T07:13:21+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://cedarnews.net/polski/1145440/pozar-sadzy-kominie-policjanci-raciaza-uratowali-mieszkancow/",
    "rozszerzony": true
   }
  ]
