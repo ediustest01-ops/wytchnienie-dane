@@ -21,16 +21,102 @@
       "url": "https://naukawpolsce.pap.pl/all/rss.xml"
     },
     {
-      "nazwa": "TVN24",
-      "url": "https://tvn24.pl/najnowsze.xml"
-    },
-    {
       "nazwa": "RMF24",
       "url": "https://www.rmf24.pl/feed"
     },
     {
       "nazwa": "Interia",
       "url": "https://wydarzenia.interia.pl/feed"
+    },
+    {
+      "nazwa": "Radio Lublin",
+      "url": "https://radio.lublin.pl/feed/",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Kraków",
+      "url": "https://www.radiokrakow.pl/feed",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Gdańsk",
+      "url": "https://radiogdansk.pl/feed",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Kielce",
+      "url": "https://www.radiokielce.pl/feed",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Rzeszów",
+      "url": "https://www.radio.rzeszow.pl/feed",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Białystok",
+      "url": "https://www.radio.bialystok.pl/rss",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Olsztyn",
+      "url": "https://radioolsztyn.pl/rss",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Szczecin",
+      "url": "https://radioszczecin.pl/rss",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Opole",
+      "url": "https://radio.opole.pl/rss",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Łódź",
+      "url": "https://www.radiolodz.pl/rss",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Wrocław",
+      "url": "https://www.radiowroclaw.pl/rss",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Poznań",
+      "url": "https://radiopoznan.fm/rss",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Zachód",
+      "url": "https://zachod.pl/feed",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio PiK",
+      "url": "https://www.radiopik.pl/rss",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Katowice",
+      "url": "https://www.radio.katowice.pl/rss",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio Koszalin",
+      "url": "https://prk24.pl/rss",
+      "filtr": true
+    },
+    {
+      "nazwa": "Radio dla Ciebie",
+      "url": "https://www.rdc.pl/feed/",
+      "filtr": true
+    },
+    {
+      "nazwa": "PAP",
+      "url": "https://www.pap.pl/rss.xml",
+      "filtr": true
     },
     {
       "zapytanie": "uratowali"

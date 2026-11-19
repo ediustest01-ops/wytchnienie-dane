@@ -94,6 +94,25 @@ def data_wpisu(wpis):
 
 RAPORT = {"czas": TERAZ.isoformat(), "zrodla": {}, "zajawki": {}, "bledy": []}
 
+# Kanały regionalne publikują dużo zwykłych wiadomości. Żeby nie płacić za ocenę każdej,
+# przy źródłach z "filtr": true do modelu trafiają tylko wpisy z tymi słowami (początki wyrazów).
+SLOWA_FILTRA = [
+    "uratow", "ratow", "ocalił", "ocalon", "pomogl", "pomógł", "pomaga", "odnalez", "odnalaz",
+    "cały i zdrow", "cała i zdrow", "wolontari", "zbiórk", "zebral", "zebrał", "charytat", "bezinteres",
+    "dobre serc", "dobro", "życzliw", "podarow", "oddał", "dawc", "przeszczep", "krwiodaw", "szpik",
+    "pierwszy w polsce", "pierwsza w polsce", "pionier", "nowatorsk", "innowac", "odkry", "naukowc",
+    "badacz", "wynalaz", "patent", "nagrod", "wyróżni", "sukces", "rekord", "medal", "urodził", "urodzin",
+    "narodzin", "młode", "pisklę", "piskl", "zoo", "żubr", "bocian", "bobr", "wilk", "ptak",
+    "gatun", "przyrod", "rezerwat", "ekolog", "sadzen", "posadz", "drzew", "oczyszcz",
+    "schronisk", "adopt", "szczęśliw", "wzrusz", "uśmiech", "seniork", "senior", "stulat", "100. urodzin",
+    "ratownic", "strażac", "dzielnicow", "bohater",
+]
+
+
+def pasuje_do_filtra(tekst):
+    t = tekst.lower()
+    return any(s in t for s in SLOWA_FILTRA)
+
 
 def pobierz_kanaly(zrodla):
     nowe = []
@@ -109,8 +128,7 @@ def pobierz_kanaly(zrodla):
                 print(f"[POMINIĘTO] {url}: {kanal.bozo_exception}")
                 RAPORT["zrodla"][zr.get("zapytanie") or url] = "BŁĄD"
                 continue
-            RAPORT["zrodla"][zr.get("zapytanie") or url] = len(kanal.entries)
-            print(f"[OK] {zr.get('zapytanie') or url}: {len(kanal.entries)} wpisów")
+            przeszlo = 0
             for w in kanal.entries:
                 link = w.get("link")
                 if not link:
@@ -125,6 +143,9 @@ def pobierz_kanaly(zrodla):
                     zrodlo = (w.get("source") or {}).get("title") or "Google News"
                     if " - " in tytul:
                         tytul = tytul.rsplit(" - ", 1)[0]
+                if zr.get("filtr") and not pasuje_do_filtra(tytul + " " + (w.get("summary") or "")):
+                    continue
+                przeszlo += 1
                 nowe.append({
                     "url": link,
                     "zrodlo": zrodlo,
@@ -133,6 +154,12 @@ def pobierz_kanaly(zrodla):
                     "tytul_oryg": tytul,
                     "opis": oczysc(w.get("summary"), 1500),
                 })
+            klucz = zr.get("zapytanie") or url
+            if zr.get("filtr"):
+                RAPORT["zrodla"][klucz] = f"{len(kanal.entries)} wpisów, po filtrze {przeszlo}"
+            else:
+                RAPORT["zrodla"][klucz] = len(kanal.entries)
+            print(f"[OK] {klucz}: {len(kanal.entries)} wpisów, do oceny {przeszlo}")
     return nowe
 
 
