@@ -34,11 +34,6 @@
       "filtr": true
     },
     {
-      "nazwa": "Radio Kraków",
-      "url": "https://www.radiokrakow.pl/feed",
-      "filtr": true
-    },
-    {
       "nazwa": "Radio Gdańsk",
       "url": "https://radiogdansk.pl/feed",
       "filtr": true
@@ -64,28 +59,8 @@
       "filtr": true
     },
     {
-      "nazwa": "Radio Szczecin",
-      "url": "https://radioszczecin.pl/rss",
-      "filtr": true
-    },
-    {
-      "nazwa": "Radio Opole",
-      "url": "https://radio.opole.pl/rss",
-      "filtr": true
-    },
-    {
       "nazwa": "Radio Łódź",
       "url": "https://www.radiolodz.pl/rss",
-      "filtr": true
-    },
-    {
-      "nazwa": "Radio Wrocław",
-      "url": "https://www.radiowroclaw.pl/rss",
-      "filtr": true
-    },
-    {
-      "nazwa": "Radio Poznań",
-      "url": "https://radiopoznan.fm/rss",
       "filtr": true
     },
     {
@@ -94,78 +69,15 @@
       "filtr": true
     },
     {
-      "nazwa": "Radio PiK",
-      "url": "https://www.radiopik.pl/rss",
-      "filtr": true
-    },
-    {
-      "nazwa": "Radio Katowice",
-      "url": "https://www.radio.katowice.pl/rss",
-      "filtr": true
-    },
-    {
-      "nazwa": "Radio Koszalin",
-      "url": "https://prk24.pl/rss",
-      "filtr": true
-    },
-    {
       "nazwa": "Radio dla Ciebie",
       "url": "https://www.rdc.pl/feed/",
       "filtr": true
-    },
-    {
-      "nazwa": "PAP",
-      "url": "https://www.pap.pl/rss.xml",
-      "filtr": true
-    },
-    {
-      "zapytanie": "uratowali"
-    },
-    {
-      "zapytanie": "uratował życie"
-    },
-    {
-      "zapytanie": "lekarze uratowali"
-    },
-    {
-      "zapytanie": "pierwszy w Polsce zabieg"
-    },
-    {
-      "zapytanie": "polscy naukowcy odkryli"
-    },
-    {
-      "zapytanie": "odnaleziony cały i zdrowy"
-    },
-    {
-      "zapytanie": "wolontariusze pomogli"
-    },
-    {
-      "zapytanie": "urodziły się młode zoo"
-    },
-    {
-      "zapytanie": "żubry"
-    },
-    {
-      "zapytanie": "bociany powrót"
-    },
-    {
-      "zapytanie": "bezinteresownie pomógł"
-    },
-    {
-      "zapytanie": "zbiórka się udała"
-    },
-    {
-      "zapytanie": "dobre serce mieszkańców"
     }
   ],
   "swiat": [
     {
       "nazwa": "Good News Network",
       "url": "https://www.goodnewsnetwork.org/feed/"
-    },
-    {
-      "nazwa": "Positive News",
-      "url": "https://www.positive.news/feed/"
     },
     {
       "nazwa": "Reasons to be Cheerful",
