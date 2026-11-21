@@ -1,5 +1,5 @@
 {
- "czas": "2026-11-20T21:11:42.307470+00:00",
+ "czas": "2026-11-21T02:22:49.558171+00:00",
  "zrodla": {
   "https://www.polsatnews.pl/rss/polska.xml": 50,
   "https://www.polsatnews.pl/rss/swiat.xml": 50,
@@ -8,14 +8,14 @@
   "https://naukawpolsce.pap.pl/all/rss.xml": 10,
   "https://www.rmf24.pl/feed": 50,
   "https://wydarzenia.interia.pl/feed": 50,
-  "https://radio.lublin.pl/feed/": "10 wpisów, po filtrze 3",
+  "https://radio.lublin.pl/feed/": "10 wpisów, po filtrze 2",
   "https://radiogdansk.pl/feed": "10 wpisów, po filtrze 0",
-  "https://www.radiokielce.pl/feed": "10 wpisów, po filtrze 1",
+  "https://www.radiokielce.pl/feed": "10 wpisów, po filtrze 0",
   "https://www.radio.rzeszow.pl/feed": "10 wpisów, po filtrze 1",
   "https://www.radio.bialystok.pl/rss": "15 wpisów, po filtrze 5",
-  "https://radioolsztyn.pl/rss": "100 wpisów, po filtrze 24",
+  "https://radioolsztyn.pl/rss": "100 wpisów, po filtrze 23",
   "https://www.radiolodz.pl/rss": "10 wpisów, po filtrze 5",
-  "https://zachod.pl/feed": "100 wpisów, po filtrze 16",
+  "https://zachod.pl/feed": "100 wpisów, po filtrze 19",
   "https://www.rdc.pl/feed/": "10 wpisów, po filtrze 6",
   "https://www.goodnewsnetwork.org/feed/": 50,
   "https://reasonstobecheerful.world/feed/": 10,
@@ -24,13 +24,13 @@
   "https://www.theguardian.com/world/series/the-upside/rss": 20
  },
  "zajawki": {
-  "probowano": 12,
-  "z_artykulu": 2,
-  "z_rss": 10,
+  "probowano": 4,
+  "z_artykulu": 0,
+  "z_rss": 4,
   "bez_tekstu": 0,
-  "gotowe": 12
+  "gotowe": 4
  },
  "bledy": [],
- "dobrych_nowych": 12,
+ "dobrych_nowych": 4,
  "razem": 150
 }
