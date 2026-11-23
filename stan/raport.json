@@ -1,22 +1,22 @@
 {
- "czas": "2026-11-23T02:51:42.295840+00:00",
+ "czas": "2026-11-23T12:57:14.152746+00:00",
  "zrodla": {
-  "https://www.polsatnews.pl/rss/polska.xml": 50,
-  "https://www.polsatnews.pl/rss/swiat.xml": 50,
-  "https://www.polsatnews.pl/rss/technologie.xml": 50,
-  "https://www.polsatnews.pl/rss/czysta-polska.xml": 50,
+  "https://www.polsatnews.pl/rss/polska.xml": "BŁĄD",
+  "https://www.polsatnews.pl/rss/swiat.xml": "BŁĄD",
+  "https://www.polsatnews.pl/rss/technologie.xml": "BŁĄD",
+  "https://www.polsatnews.pl/rss/czysta-polska.xml": "BŁĄD",
   "https://naukawpolsce.pap.pl/all/rss.xml": 10,
   "https://www.rmf24.pl/feed": 50,
   "https://wydarzenia.interia.pl/feed": 50,
-  "https://radio.lublin.pl/feed/": "10 wpisów, po filtrze 4",
-  "https://radiogdansk.pl/feed": "10 wpisów, po filtrze 1",
+  "https://radio.lublin.pl/feed/": "10 wpisów, po filtrze 3",
+  "https://radiogdansk.pl/feed": "10 wpisów, po filtrze 3",
   "https://www.radiokielce.pl/feed": "10 wpisów, po filtrze 2",
-  "https://www.radio.rzeszow.pl/feed": "10 wpisów, po filtrze 1",
+  "https://www.radio.rzeszow.pl/feed": "10 wpisów, po filtrze 2",
   "https://www.radio.bialystok.pl/rss": "15 wpisów, po filtrze 4",
-  "https://radioolsztyn.pl/rss": "100 wpisów, po filtrze 26",
-  "https://www.radiolodz.pl/rss": "10 wpisów, po filtrze 1",
-  "https://zachod.pl/feed": "BŁĄD",
-  "https://www.rdc.pl/feed/": "10 wpisów, po filtrze 4",
+  "https://radioolsztyn.pl/rss": "100 wpisów, po filtrze 32",
+  "https://www.radiolodz.pl/rss": "10 wpisów, po filtrze 2",
+  "https://zachod.pl/feed": "100 wpisów, po filtrze 22",
+  "https://www.rdc.pl/feed/": "10 wpisów, po filtrze 5",
   "https://www.goodnewsnetwork.org/feed/": 50,
   "https://reasonstobecheerful.world/feed/": 10,
   "https://www.optimistdaily.com/feed/": 10,
@@ -24,13 +24,13 @@
   "https://www.theguardian.com/world/series/the-upside/rss": 20
  },
  "zajawki": {
-  "probowano": 1,
-  "z_artykulu": 0,
-  "z_rss": 1,
+  "probowano": 8,
+  "z_artykulu": 3,
+  "z_rss": 5,
   "bez_tekstu": 0,
-  "gotowe": 1
+  "gotowe": 8
  },
  "bledy": [],
- "dobrych_nowych": 1,
+ "dobrych_nowych": 8,
  "razem": 150
 }
