@@ -1,5 +1,5 @@
 {
- "czas": "2026-11-22T21:51:03.896276+00:00",
+ "czas": "2026-11-23T02:51:42.295840+00:00",
  "zrodla": {
   "https://www.polsatnews.pl/rss/polska.xml": 50,
   "https://www.polsatnews.pl/rss/swiat.xml": 50,
@@ -12,10 +12,10 @@
   "https://radiogdansk.pl/feed": "10 wpisów, po filtrze 1",
   "https://www.radiokielce.pl/feed": "10 wpisów, po filtrze 2",
   "https://www.radio.rzeszow.pl/feed": "10 wpisów, po filtrze 1",
-  "https://www.radio.bialystok.pl/rss": "15 wpisów, po filtrze 3",
+  "https://www.radio.bialystok.pl/rss": "15 wpisów, po filtrze 4",
   "https://radioolsztyn.pl/rss": "100 wpisów, po filtrze 26",
   "https://www.radiolodz.pl/rss": "10 wpisów, po filtrze 1",
-  "https://zachod.pl/feed": "100 wpisów, po filtrze 24",
+  "https://zachod.pl/feed": "BŁĄD",
   "https://www.rdc.pl/feed/": "10 wpisów, po filtrze 4",
   "https://www.goodnewsnetwork.org/feed/": 50,
   "https://reasonstobecheerful.world/feed/": 10,
@@ -24,13 +24,13 @@
   "https://www.theguardian.com/world/series/the-upside/rss": 20
  },
  "zajawki": {
-  "probowano": 7,
-  "z_artykulu": 3,
-  "z_rss": 4,
+  "probowano": 1,
+  "z_artykulu": 0,
+  "z_rss": 1,
   "bez_tekstu": 0,
-  "gotowe": 7
+  "gotowe": 1
  },
  "bledy": [],
- "dobrych_nowych": 7,
+ "dobrych_nowych": 1,
  "razem": 150
 }

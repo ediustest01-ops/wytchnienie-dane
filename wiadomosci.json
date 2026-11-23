@@ -1,6 +1,19 @@
 {
- "aktualizacja": "2026-11-22T21:51:03.896276+00:00",
+ "aktualizacja": "2026-11-23T02:51:42.295840+00:00",
  "wiesci": [
+  {
+   "id": "317807a9c829",
+   "tytul": "Nowa metoda leczenia ciężkiego artretyzmu kciuka: wszczep stawu jak przy biodrze",
+   "lead": "Nowa metoda może zmienić codzienne funkcjonowanie dłoni u osób z zaawansowanym artretyzmem kciuka. Dotychczas lekarze zwykle usuwali czworoboczną, niewielką kość u nasady kciuka. Nowe leczenie polega na wszczepieniu wkładki typu kula i panewka, która naprawia tę kość i pozwala uniknąć tarcia kości o kość. W badaniach pacjenci z takim implantem uzyskali poprawę zakresu ruchu.",
+   "kategoria": "med",
+   "kraj": "ŚW",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/new-way-to-treat-severe-thumb-arthritis-with-joint-replacement/",
+   "data": "2026-11-23T01:55:12+00:00",
+   "przetlumaczone": true,
+   "wstepne": true,
+   "rozszerzony": true
+  },
   {
    "id": "490b39f185ba",
    "tytul": "Na Podkarpaciu przybywa wilków, niedźwiedzi i rysi",
@@ -1987,20 +2000,6 @@
    "data": "2026-11-18T00:00:03+00:00",
    "przetlumaczone": true,
    "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "78b198be6ba1",
-   "tytul": "Lekarze z Gliwic wydrukowali implant i uratowali oko 75-letniej pacjentki",
-   "lead": "Lekarze z Narodowego Instytutu Onkologii w Gliwicach wydrukowali implant w technologii 3D. Dzięki niemu uratowano oko 75-letniej pacjentki.",
-   "kategoria": "med",
-   "kraj": "PL",
-   "zrodlo": "TVP Katowice",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOejlyekRuVXpyVTV2U0owUk94Sjh5RmdhVGhyMnNMVkpzYUk1dUlkQ1FjcnJ1Ukp1TjVodlNmbFROWWdzdzhBRmpTQklaUVpBRUE1TWM0MkJzaVp0M2c4ZkU1M2xoaU1yblhUZDZHZDVpRlVPRVNTZ204SHpqX28xcldVcXVkS21RWENqQXVOZEVKUEh3TXJmN2FKajVUTnhWdzBsRFNZZ1RmN0RfeU1YcHJSaU95eVdWUWVtN2tFa3ZBbnNhWmdQYzhnTHdUZC1YMDY3Q2l3dmxmUG1NV0lxOQ?oc=5",
-   "data": "2026-11-17T20:07:12+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://katowice.tvp.pl/96526766/wydrukowali-implant-i-ocalili-oko-75-letniej-pacjentki-sukces-lekarzy-z-narodowego-instytutu-onkologii-w-gliwicach",
    "rozszerzony": true
   }
  ]
