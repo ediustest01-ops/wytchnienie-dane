@@ -1,6 +1,71 @@
 {
- "aktualizacja": "2026-11-24T00:57:13.605919+00:00",
+ "aktualizacja": "2026-11-24T11:00:28.461777+00:00",
  "wiesci": [
+  {
+   "id": "b18516b2c476",
+   "tytul": "Rekordowo odległy kwazar pomoże poznać tajemnice czarnych dziur",
+   "lead": "Zespół astronomów z Max Planck Institute for Astronomy w Heidelbergu i European Southern Observatory, kierowany przez dr. Juliena Wolfa, zidentyfikował najdalszy dotąd znany kwazar. Obiekt oznaczony jako J1504+6252 obserwujemy z czasów, gdy Wszechświat liczył zaledwie 630 mln lat. Masa jego centralnej czarnej dziury wynosi 360 mln mas Słońca, co stawia naukowców przed pytaniem, jak tak masywne obiekty mogły powstać tak szybko. Według analiz najbardziej prawdopodobny jest scenariusz bezpośredniego zapadania się masywnej chmury gazu. Wyniki opublikowano w „Astronomy & Astrophysics”.",
+   "kategoria": "sci",
+   "kraj": "ŚW",
+   "zrodlo": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/nauka/news-rekordowo-odlegly-kwazar-pomoze-odkryc-tajemnice-czarnych-dz,nIdn,1027432",
+   "data": "2026-11-24T10:43:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "6bb3a884feb9",
+   "tytul": "Seniorka z Rzeszowa znalazła w kontenerze 11,6 tys. zł i oddała je właścicielowi",
+   "lead": "80-letnia mieszkanka Rzeszowa znalazła w kontenerze na śmieci neseser, który zabrała ze sobą. Kilka godzin później zajrzała do środka i zauważyła w jednej z kieszeni plik banknotów. Łącznie było 11 600 zł. Pieniądze wróciły do właściciela dzięki uczciwości seniorki i szybkiej reakcji policjantów.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "Radio Rzeszów",
+   "url": "https://radio.rzeszow.pl/376806/blisko-12-tys-zl-trafilo-na-smietnik-pieniadze-wrocily-do-wlasciciela-dzieki-seniorce-i-starej-fotografii/",
+   "data": "2026-11-24T09:39:21+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "7c7a7909f449",
+   "tytul": "Studenci KUL wyróżnieni w plebiscycie Pro Juvenes za aplikację dla hospicjum w Lublinie",
+   "lead": "Studenci KUL zwyciężyli w plebiscycie Pro Juvenes, organizowanym przez Parlament Studentów RP, w kategorii „Pomocna dłoń”. Członkowie Koła Naukowego Studentów Informatyki stworzyli aplikację dla Hospicjum Dobrego Samarytanina w Lublinie. Program usprawnia organizację dyżurów oraz komunikację z wolontariuszami.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "Radio Lublin",
+   "url": "https://radio.lublin.pl/2026/11/sukces-studentow-kul-docenieni-za-aplikacje-dla-hospicjum/",
+   "data": "2026-11-24T09:33:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "ada8a40a6251",
+   "tytul": "Tabletka AR1001 spowolniła pogorszenie funkcji poznawczych o 31 proc. w ciągu roku",
+   "lead": "Tabletka AR1001, przyjmowana raz dziennie, spowolniła pogorszenie funkcji poznawczych o 31 proc. w ciągu roku u osób z wczesną chorobą Alzheimera, które nie przyjmowały innych leków na tę chorobę. Wyniki badania fazy 3 zaprezentowano na konferencji Clinical Trials on Alzheimer's Disease w Bostonie.",
+   "kategoria": "med",
+   "kraj": "ŚW",
+   "zrodlo": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/2026/11/why-a-viagra-like-blood-flow-drug-may-open-a-new-front-against-alzheimers/",
+   "data": "2026-11-24T00:00:36+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "61cef70fbb83",
+   "tytul": "Wrocławski zespół opracował metodę obrazowania żywych komórek bez barwienia",
+   "lead": "Naukowcy z Instytutu Niskich Temperatur i Badań Strukturalnych PAN we Wrocławiu, kierowani przez prof. Artura Bednarkiewicza, opracowali metodę mikroskopii TAB. Próbka leży na podłożu z materiału lawinowo świecącego, a bezpieczna dla komórki wiązka lasera skanuje ją punkt po punkcie, podczas gdy detektor rejestruje osłabienie światła. Dzięki temu w żywych komórkach drożdży widać poszczególne organelle bez barwników, z rozdzielczością ok. 180 nm, czyli poniżej granicy dyfrakcji. Wyniki opublikowano w „Advanced Science”.",
+   "kategoria": "sci",
+   "kraj": "ŚW",
+   "zrodlo": "Nauka w Polsce",
+   "url": "https://naukawpolsce.pl/aktualnosci/news%2C116020%2Cnowe-odcienie-szarosci-lawina-fotonow-pozwala-zajrzec-do-wnetrza-zywej",
+   "data": "2026-11-24T00:00:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": true,
+   "rozszerzony": true
+  },
   {
    "id": "919311a57e7a",
    "tytul": "Zaginiony 74-latek odnaleziony żywy w lesie pod Macapą po kilkunastu dniach",
@@ -340,19 +405,6 @@
    "rozszerzony": true
   },
   {
-   "id": "e8d41bc48b96",
-   "tytul": "Leon XIV zjadł obiad z 1300 ubogimi w Auli Pawła VI w Watykanie",
-   "lead": "Leon XIV w niedzielę zjadł obiad z 1300 ubogimi w Auli Pawła VI w Watykanie. W ten sposób papież uczcił 10. Światowy Dzień Ubogich, ustanowiony przez Franciszka. Posiłki dostarczono również do wszystkich jadłodajni dla potrzebujących w Rzymie, a wśród darczyńców byli Polacy: wędliny przekazała małopolska gmina Sułkowice. Podczas modlitwy Anioł Pański papież modlił się za ofiary konfliktów i wezwał rządzących do szybkiego znalezienia rozwiązań w duchu pojednania i pokoju.",
-   "kategoria": "people",
-   "kraj": "ŚW",
-   "zrodlo": "Interia",
-   "url": "https://wydarzenia.interia.pl/zagranica/news-leon-xiv-zasiadl-do-stolu-z-1300-osobami-wyjatkowy-obiad-w-w,nId,23577185",
-   "data": "2026-11-22T13:51:05+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
    "id": "3af34dc22934",
    "tytul": "Wyprawa z Sędziszowa Małopolskiego do Soliny ma zebrać pieniądze dla wolontariusza Mateusza",
    "lead": "Uczestnicy wyprawy wyruszą z Sędziszowa Małopolskiego do Soliny 30 listopada o godzinie 7:00. Chcą pokonać całą trasę najpóźniej w cztery dni, a każdy przebyty kilometr ma być symbolicznym krokiem w zbiórce pieniędzy. Środki mają trafić do Mateusza, wolontariusza Szlachetnej Paczki z powiatu ropczycko-sędziszowskiego, który po pęknięciu tętniaka potrzebuje wsparcia. Organizatorzy liczą, że dzięki temu przedsięwzięciu uda się mu pomóc.",
@@ -361,19 +413,6 @@
    "zrodlo": "Radio Rzeszów",
    "url": "https://radio.rzeszow.pl/376327/zamienia-kilometry-na-pomoc-dla-kolegi-chca-zebrac-300-tysiecy-zlotych/",
    "data": "2026-11-22T13:11:03+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "748794b3ddcc",
-   "tytul": "Akcja „Biegiem po karmę” w Żarach: uczestnicy przynosili karmę dla schroniska",
-   "lead": "Przy stadionie Syrena w Żarach odbyła się już czwarta edycja akcji „Biegiem po karmę”, oddolnej inicjatywy na rzecz zwierząt ze schroniska. Warunkiem udziału w biegu było przyniesienie karmy, która ma trafić do podopiecznych schroniska. Podczas imprezy nie zabrakło stoisk edukacyjnych oraz darmowej strefy gastronomicznej. Głównym celem wydarzenia jest pomoc zwierzętom.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "Radio Zachód",
-   "url": "https://zachod.pl/1594460/akcja-spoleczna-biegiem-po-karme-zdjecia/",
-   "data": "2026-11-22T12:33:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
    "rozszerzony": true
@@ -428,19 +467,6 @@
    "data": "2026-11-22T08:02:00+00:00",
    "przetlumaczone": false,
    "wstepne": true,
-   "rozszerzony": true
-  },
-  {
-   "id": "8b8961df4160",
-   "tytul": "W Lublinie odbywa się impreza charytatywna na leczenie 9-letniej Poli Wójtowicz",
-   "lead": "W studiu tańca SalsaMe przy ulicy Kameralnej w Lublinie 22 listopada odbywa się impreza charytatywna. Program obejmuje trening taneczny, zabawy andrzejkowe dla dzieci, kiermasz ciast i loteryjną zbiórkę fantów. Cały dochód trafi na leczenie chorującej na nowotwór 9-letniej Poli Wójtowicz. Wydarzenie organizuje Iwona Madzelan.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "Radio Lublin",
-   "url": "https://radio.lublin.pl/2026/11/taniec-i-kiermasz-lublin-pomaga-9-letniej-poli/",
-   "data": "2026-11-22T06:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
    "rozszerzony": true
   },
   {
@@ -743,19 +769,6 @@
    "rozszerzony": true
   },
   {
-   "id": "ecabf50d36a8",
-   "tytul": "Syn weterana wojny w Wietnamie szuka 33 uczniów, którzy 60 lat temu pisali listy do jego ojca",
-   "lead": "W 1967 roku 33 uczniów z Massachusetts napisało listy do sanitariusza marynarki, rannego w Wietnamie. Nie wiedzieli, jak bardzo te listy poruszyły weterana. Po blisko 60 latach jego syn szuka tych osób, aby im podziękować.",
-   "kategoria": "people",
-   "kraj": "US",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
-   "data": "2026-11-20T22:00:41+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
    "id": "960b3cf31487",
    "tytul": "Na stadionie Legii zakończyła się charytatywna akcja wioślarska na rzecz Fundacji Samodzielni Robinsonowie",
    "lead": "Na Stadionie Legii odbyła się akcja #WszyscyDoWioseł, w której rywalizowało 162 czterosobowe zespoły, starając się osiągnąć jak najlepsze wyniki na egometrach. Wydarzenie zorganizowała Fundacja Legii, a w wiosłowaniu wzięli udział zawodnicy i zawodniczki klubu, zaproszeni goście oraz osoby prywatne. Doświadczenie wioślarskie nie było wymagane. Zebrane środki wesprą Fundację Samodzielni Robinsonowie, która towarzyszy młodym ludziom w przygotowaniu do dorosłości, m.in. poprzez program Wehikuł Usamodzielnienia i programy stażowe.",
@@ -1033,19 +1046,6 @@
    "rozszerzony": true
   },
   {
-   "id": "145f7420978c",
-   "tytul": "Szefowa kuchni co wtorek przygotowuje 100 posiłków z nietypowych darów banku żywności",
-   "lead": "Maddy Goldberg, szefowa kuchni z Toronto, od 2021 roku co wtorek jako wolontariuszka gotuje w banku żywności Fort York w śródmieściu miasta. Z przypadkowych produktów, które udaje się zdobyć, przygotowuje 100 gorących posiłków dla rodzin o niskich dochodach. Ostatnio z prostych składników wykorzystała czerwoną soczewicę, z której zrobiła kotleciki w stylu falafeli, podając je z curry z marchwi i ciecierzycy oraz tostowaną pitą. Goldberg chce w ten sposób pokazać, że nawet skromne produkty można zamienić w sycące danie, a sama gotuje bez myślenia o zarobku.",
-   "kategoria": "people",
-   "kraj": "US",
-   "zrodlo": "Good Good Good",
-   "url": "https://www.goodgoodgood.co/articles/toronto-chef-food-bank-maddy-goldberg",
-   "data": "2026-11-19T17:56:00+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
    "id": "9a36c882c2f0",
    "tytul": "Podkarpacie: 4,5 mln zł na wsparcie strażaków. Pieniądze dostanie 21 samorządów",
    "lead": "Wojewoda podkarpacki Teresa Kubas-Hul podpisała umowy z 21 samorządami, dzięki którym 4,5 miliona złotych trafi do komend powiatowych i miejskich Państwowej Straży Pożarnej w regionie. Środki mają zostać przeznaczone na bieżące zakupy oraz poprawę gotowości ratowników do prowadzenia akcji.",
@@ -1110,20 +1110,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://www.eska.pl/news/swiat/69-latek-z-demencja-zaginal-w-gorach-suczka-becky-wrocila-po-pomoc-i-ocalila-mu-zycie-aa-ccqz-1GS8-o8H2.html",
-   "rozszerzony": true
-  },
-  {
-   "id": "2fb47c5567d9",
-   "tytul": "Suczka Becky uratowała mężczyznę, który zaginął po wyjściu w góry",
-   "lead": "Wiadomość o wędrówce zakończonej szczęśliwie: 69-letni mężczyzna, który zgubił drogę w okolicach góry Whiteface, został odnaleziony dzięki swojemu zwierzęciu. Jego suczka Becky wieczorem dotarła do schroniska, gdzie personel zauważył ją i zaalarmował policję. W poszukiwaniach uczestniczyli strażnicy leśni, dron i pies tropiący. Mężczyznę znaleziono w ciężkim stanie i helikopterem przewieziono do szpitala.",
-   "kategoria": "rescue",
-   "kraj": "US",
-   "zrodlo": "Super Express USA",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHV3LTV2UXZzTTR1VVhxeUZXNkwwbEJmQzZiT25GU1QwdnZXNkxNeURnX1hxX3dKOVhmZDZDY25LVmtNTVZrZS1fajNPdk4yZjUyMUktNjJNOS0zUXY5Ym1KZFlHbFc3U09vcHZOYndDN054RExrRFhoTUs2SHFSd1h1TDV3MVBzalRDVUtNT1NjMkpaTGpIOEZqVE9lZHpCb3c?oc=5",
-   "data": "2026-11-19T16:36:24+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://usa.se.pl/wyszedl-w-gory-i-nie-wrocil-suczka-becky-uratowala-mu-zycie-aa-p8Gq-sKN2-kcmH.html",
    "rozszerzony": true
   },
   {
@@ -1207,20 +1193,6 @@
    "rozszerzony": true
   },
   {
-   "id": "ee52382694ca",
-   "tytul": "Badania na myszach: wspólne ćwiczenia ograniczały kłótnie o jedzenie i miejsce do spania",
-   "lead": "Naukowcy z OSU, pod kierownictwem prof. Liz Kirby, sprawdzali, jak wspólna aktywność wpływa na zachowania społeczne myszy. Przez sześć tygodni pary myszy tej samej płci miały dostęp do kołowrotków całą dobę, tylko w określonych godzinach lub wcale. Gryzonie, które ćwiczyły razem, rzadziej rywalizowały o pokarm i miejsce do odpoczynku, chętniej dzieliły się przysmakami. U aktywnych myszy wzrosła też aktywność obszarów mózgu odpowiedzialnych za zachowania społeczne. Badacze zachęcają, by ćwiczyć z innymi, bo wspólny ruch może wspierać także relacje.",
-   "kategoria": "sci",
-   "kraj": "ŚW",
-   "zrodlo": "RMF24",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3cyUFgwbTMxd2E3bTdoNy04dFFZNXAzQ0dGcG52UnJ1b0JwbXdiQVM1LVRYa1JkYUFocUpXYV9BVlFVOXloSVZYcGNBdWtwdVhFY0Z4SGM0OXRCQmo0NkFvRWZrdWFfYnN6MlBnZnN6WlNXdnJ5SUcxRmk5ZFg5TEk3aElMT2dnWld5NTkza0x0Q1I1S3VsQUJDRnBEWVU3TDFmWTdoSElxbm50aFZmRQ?oc=5",
-   "data": "2026-11-19T14:11:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.rmf24.pl/fakty/nauka/news-wspolny-trening-zamiast-klotni-naukowcy-odkryli-jak-ruch-pop,nIdn,1026847",
-   "rozszerzony": true
-  },
-  {
    "id": "16a37e6086f3",
    "tytul": "Empire State Building oświetlono na złoto z okazji dystansu, jaki pokonała sonda Voyager 1",
    "lead": "Empire State Building zostało w tym tygodniu oświetlone na złoto, by uczcić to, że sonda Voyager 1 znalazła się w odległości jednego dnia świetlnego od Ziemi. Jest to najdalszy od Ziemi obiekt stworzony przez człowieka. Obecnie sygnał wysłany z sondy potrzebuje 24 godzin, by dotrzeć do kwatery głównej NASA.",
@@ -1299,19 +1271,6 @@
    "url": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/",
    "data": "2026-11-19T12:30:10+00:00",
    "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "72a5453bb834",
-   "tytul": "Sonda Voyager 1 oddaliła się od Ziemi o jeden dzień świetlny",
-   "lead": "Sonda Voyager 1, wystrzelona z Ziemi w 1977 roku, 18 listopada 2026 roku znalazła się w odległości jednego dnia świetlnego od naszej planety. Sygnał radiowy wysłany z sondy potrzebuje obecnie 24 godzin, by dotrzeć na Ziemię. Jej bliźniak, Voyager 2, znajduje się nieco bliżej. NASA szacuje, że kontakt z Voyagerem 1 zostanie utracony w 2029 roku, a z Voyagerem 2 dwa lata później, gdy skończy się zasilanie. Obie sondy niosą złote płyty z pozdrowieniami w 55 językach, w tym po polsku.",
-   "kategoria": "sky",
-   "kraj": "ŚW",
-   "zrodlo": "RMF24",
-   "url": "https://www.rmf24.pl/fakty/nauka/news-historyczny-moment-sonda-voyager-1-oddalila-sie-od-ziemi-o-j,nIdn,1026830",
-   "data": "2026-11-19T12:30:00+00:00",
-   "przetlumaczone": false,
    "wstepne": false,
    "rozszerzony": true
   },
@@ -1425,20 +1384,6 @@
    "rozszerzony": true
   },
   {
-   "id": "3a0a98dc5073",
-   "tytul": "Toruńscy strażnicy miejscy pomogli 62-latkowi leżącemu przy garażach na ulicy Kasztanowej",
-   "lead": "15 listopada po południu toruńscy strażnicy miejscy otrzymali zgłoszenie o osobie potrzebującej pomocy przy ulicy Kasztanowej. Na miejscu zastali 62-letniego mężczyznę, który leżał na ziemi, skarżył się na ból w klatce piersiowej i osłabienie, i nie mógł sam wstać. Jego stan mógł wskazywać na wychłodzenie organizmu. Strażnicy okryli go folią termiczną i monitorowali funkcje życiowe do przyjazdu zespołu ratownictwa medycznego. Mężczyzna trafił do Specjalistycznego Szpitala Miejskiego w Toruniu.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Nowości Dziennik Toruński",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnhLQ0pyTW14NHlVcWdVd1V6c1FOeUg1QXlaZkVGRDkyMjdleml6ZWdVNDJsYmdNQldfYUR1ZVl4Wld1bXZnMFdIN0FSRy1Ia1dRYmpzM29LZ3Y2MmR4UjZqZ1A1TnpzcGN3cUo1N01xX3duc01BZUl1SzV2YVVyTTI4ZEJhbm9XVzNXS0VnRHNWU2pCVFNJVjdRZk5ma1pKUzM3cHBadHlWaXJPUHVzLVlab1JQbWNfQjl3?oc=5",
-   "data": "2026-11-19T09:39:58+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://nowosci.com.pl/polprzytomny-senior-lezal-na-chodniku-uratowali-go-straznicy-z-torunia-szacunek/ar/c1p2-29538201",
-   "rozszerzony": true
-  },
-  {
    "id": "455624fd6a66",
    "tytul": "ZUS z Zabrza wsparł seniorów z Domu Pomocy Społecznej w Bytomiu",
    "lead": "Pracownicy oddziału ZUS w Zabrzu z okazji Dnia Seniora zebrali żywność, kosmetyki i odzież dla podopiecznych Domu Pomocy Społecznej w Bytomiu. Akcja nosiła nazwę „Paka do starzika” i zaproszenie do udziału napisano w śląskiej gwarze. Część darów trafi bezpośrednio do mieszkańców placówki, a z pozostałych przygotowane zostaną paczki mikołajkowe. Koordynatorką akcji była Sonia Pierścińska, a regionalna rzeczniczka ZUS w województwie śląskim podkreśla, że podobne inicjatywy odbywają się w wielu oddziałach.",
@@ -1476,20 +1421,6 @@
    "data": "2026-11-19T08:36:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "958b07eefad0",
-   "tytul": "11-letnia Zuzia uratowała mamę. Prezydent RP odznaczył dziewczynkę",
-   "lead": "16 maja 2026 roku, gdy mama 11-letniej Zuzi nagle straciła przytomność, dziewczynka zachowała spokój. Sama wezwała pomoc i wykonywała polecenia dyspozytora medycznego, co miało kluczowe znaczenie dla uratowania życia kobiety. 18 listopada 2026 roku w Opolskim Urzędzie Wojewódzkim wręczono jej Medal za Ofiarność i Odwagę, nadany przez Prezydenta RP. Policja podkreślała, że postawa dziewczynki pokazuje, jak ważna jest znajomość numeru 112 i podstawowych zasad udzielania pomocy.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Prosto z Opolskiego",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUtpR2VXMy1Eekl4aVpoaVRfYWR6UXpDbUpQX3hPX3ZScUZOS3dVQ296elVGRnBKcEg2MkE2MS1ESzRwWHVkSVZXWmF3TUV5NnJjSWlBQUk0bkpzSS1FNGFobGRGM2NBbWdtLVEtSzg1RVNTMWlaSC1yM1ZmLUFKSWhJVC1iZXVrQUxER2g3a09RREM0YVhkX1lLYVFrMVZQUGowdkxWWlN5bVFmeXpjdXpCNm41VHM?oc=5",
-   "data": "2026-11-19T08:34:06+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.prostozopolskiego.pl/11-letnia-zuzia-uratowala-zycie-swojej-mamie-prezydent-rp-odznaczyl-mala-bohaterke/",
    "rozszerzony": true
   },
   {
@@ -1534,20 +1465,6 @@
    "rozszerzony": true
   },
   {
-   "id": "e53d3b098403",
-   "tytul": "Policjanci uratowali 67-latka z rozległymi odmrożeniami",
-   "lead": "18 listopada policjanci z V Kompanii Oddziału Prewencji Policji w Łodzi, kontrolując pustostany w Piotrkowie Trybunalskim, znaleźli w jednym z nich 67-letniego mężczyznę z rozległymi odmrożeniami kończyn dolnych. Funkcjonariusze natychmiast wezwali pogotowie i przekazali go pod opiekę ratowników. Mundurowi przypominają, że z nadejściem mrozów szczególnie zagrożone są osoby w kryzysie bezdomności, samotne i starsze, dlatego regularnie sprawdzają m.in. pustostany i altany działkowe. Gdy ktoś może być narażony na wychłodzenie, należy zadzwonić pod numer 112.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "ePiotrkow",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMEtjckF6V1hKYjI3S3dmc1duLVJ0WGtBT1M3bFZVMkZId0d6LUVsQ2FsTE9YOWRQM2U0VWxSN1FSWEU0WU9ZbFE2ZVV5dFZtSlk5eThRNEZBeDVCMVpqcHlXT01hWFhOc05DQVhWaFVjclI2Q2VvNUt4SHFIYklSZFAxTHFzcnlNdGQ2ZnlOdFVTdlRQUjZpMG1tcXY?oc=5",
-   "data": "2026-11-19T07:31:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://epiotrkow.pl/news/policjanci-uratowali-67-latka-mezczyzna-mial-rozlegle-odmrozenia,65168",
-   "rozszerzony": true
-  },
-  {
    "id": "692782ad0b8e",
    "tytul": "Naukowcy odkryli kości neandertalczyka sprzed 49 tysięcy lat z zachowanym DNA",
    "lead": "W hiszpańskiej jaskini Abauntz znaleziono sześć fragmentów kości dorosłego mężczyzny neandertalczyka, datowanych metodą węgla C-14 na 44–49 tys. lat. Ten okres poprzedza wyginięcie neandertalczyków i ekspansję Homo sapiens w Europie. Badania genetyczne wykazały wyjątkową trwałość DNA, a dalsza analiza ma pomóc lepiej zrozumieć, jak żyli ostatni neandertalczycy z tej jaskini. To pierwsze w historii Nawarry odkrycie szczątków neandertalczyka.",
@@ -1587,19 +1504,6 @@
    "przetlumaczone": false,
    "wstepne": false,
    "url_zrodla": "https://podroze.onet.pl/aktualnosci/malenstwo-45-kg-w-brytyjskim-zoo-urodzil-sie-rzadki-nosorozec-indyjski/1yw24pp",
-   "rozszerzony": true
-  },
-  {
-   "id": "2020c2e7154b",
-   "tytul": "11-letnia Zuzia odznaczona za uratowanie mamy",
-   "lead": "Podczas uroczystości wręczenia medali dla zasłużonych uhonorowano także 11-letnią Zuzię, która uratowała swoją mamę.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "TVP Opole",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkhKV0FOSy05OHliQ215MVJ2OHZmR2F2SlVzNnhBcUdWY1A2Z2VxUW1ISjJzUUpvTnZ1ZU4wZ3NucDg3b2xwYUZOLXlvWEVZYU5OSWRYZ1pvZkdDSzZQWGctS2UxZTdjcGgtNm5Eb1V1Qjg1VFBzdU5IMWR2cUo4RGV3VzBwY2pGTlZ5YUdaSzNwaThvMFdicl9FLS1QNmFTcW1nWGhn?oc=5",
-   "data": "2026-11-19T06:32:18+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
    "rozszerzony": true
   },
   {
@@ -1680,19 +1584,6 @@
    "data": "2026-11-19T00:00:00+00:00",
    "przetlumaczone": false,
    "wstepne": true,
-   "rozszerzony": true
-  },
-  {
-   "id": "c9039ddcd13a",
-   "tytul": "Największy polski teleskop optyczny wykonał pierwsze testowe obserwacje",
-   "lead": "Największy polski teleskop optyczny, o średnicy zwierciadła 2,5 m, wykonał pierwsze zdjęcia nieba w obserwatorium Cerro Murphy na pustyni Atakama w Chile, zarządzanym przez CAMK PAN. Oficjalne uruchomienie instrumentu zaplanowano na kwiecień 2027 r. Budowę umożliwił grant ERC Synergy, z którego projekt UniverScale otrzymał ok. 15 mln euro, a wcześniejszy plan z 1968 r. nigdy nie został zrealizowany. Teleskop ma zwiększyć możliwości badawcze polskiego obserwatorium.",
-   "kategoria": "sci",
-   "kraj": "PL",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C115997%2Cnajwiekszy-polski-teleskop-optyczny-wykonal-pierwsze-testowe-obserwacje",
-   "data": "2026-11-19T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
    "rozszerzony": true
   },
   {
@@ -1816,19 +1707,6 @@
    "rozszerzony": true
   },
   {
-   "id": "05491dae3dd4",
-   "tytul": "Sonda Voyager 1 ustanowiła rekord jako najdalszy od Ziemi obiekt zbudowany przez człowieka",
-   "lead": "Sonda Voyager 1 znalazła się obecnie najdalej od Ziemi spośród wszystkich obiektów stworzonych przez człowieka. Dzieli ją od naszej planety prawie 26 mld km, czyli mniej więcej jeden dzień świetlny. Wystrzelona w 1977 roku maszyna nadal utrzymuje łączność z NASA. Na jej pokładzie znajduje się złota płyta z przesłaniem skierowanym do ewentualnych obcych cywilizacji.",
-   "kategoria": "sky",
-   "kraj": "ŚW",
-   "zrodlo": "Polsat News",
-   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-18/historyczny-rekord-sondy-voyager-1-niby-jest-daleko-ale-w-kosmosie-to-rzut-beretem/",
-   "data": "2026-11-18T16:34:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
    "id": "56c67dd01eb4",
    "tytul": "Rodzeństwo z Chin zbudowało ręcznie schody na zboczu góry, by starsza matka łatwiej docierała do domu",
    "lead": "Dzieci pewnej starszej Chinki ręcznie zbudowały nowe schody na zboczu góry, aby matce łatwiej było dotrzeć do domu. Najmłodsza córka wspomina, jak w dzieciństwie matka prowadziła je za ręce starą ścieżką. Historia poruszyła serca milionów ludzi.",
@@ -1839,20 +1717,6 @@
    "data": "2026-11-18T16:30:42+00:00",
    "przetlumaczone": true,
    "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "23824bdd910f",
-   "tytul": "11-letnia Zuzia wezwała pomoc, gdy mama straciła przytomność",
-   "lead": "16 maja 2026 roku mama 11-letniej Zuzi straciła przytomność. Dziewczynka zadzwoniła po pomoc i wykonywała polecenia dyspozytora medycznego, zachowując spokój w sytuacji zagrożenia życia mamy. 18 listopada w Opolskim Urzędzie Wojewódzkim otrzymała Medal za Ofiarność i Odwagę nadany przez Prezydenta RP. Podczas uroczystości obecna była mama, a Zuzi gratulowali przedstawiciele policji, wojewoda opolska Monika Jurek oraz inni wyróżnieni mieszkańcy regionu.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "24Opole",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkZaUHZ6aG1aM3pGRGN5UFBfZHhSMWo2UkE5alpIcWw5NVg2UXRJOTNOb1cyZ1NRRHZ3a3hoNXRjejBQN2tiampWdDE3TDRIamRaX25ZbDdKVzNlVXQ5eEhrcU16MDVETDBtQnZLY0duOFg0R0d2T0lwQlBnM3hRalJKa0w4VUVJWTBaNk1HQm56VUltT2JHNnlzVG1nSktfenFDVGxINHkyY3JnenpDZkxhWHBJSnRJNVVPdUZTQQ?oc=5",
-   "data": "2026-11-18T15:29:29+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.24opole.pl/62610,Mama_stracila_przytomnosc._11-letnia_Zuzia_wezwala_pomoc_i_uratowala_jej_zycie,wiadomosc.html",
    "rozszerzony": true
   },
   {
@@ -1921,74 +1785,6 @@
    "data": "2026-11-18T14:03:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "2facbc7b1b90",
-   "tytul": "Liczebność płetwali błękitnych na Antarktydzie wzrosła z 418 do 4018 osobników od 1973 roku",
-   "lead": "Populacja płetwali błękitnych na Antarktydzie odbudowuje się od momentu zakończenia polowań w 1973 roku. Wtedy w regionie żyło około 418 tych zwierząt, a obecnie ich liczba wynosi 4018. Średnio odnotowywano wzrost o 4,5 procent rocznie. Międzynarodowa Komisja Wielorybnicza zakazała zabijania tego gatunku w 1964 roku, jednak nielegalne łowiska działały jeszcze do 1973 roku.",
-   "kategoria": "nature",
-   "kraj": "ŚW",
-   "zrodlo": "Good News Network",
-   "url": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/",
-   "data": "2026-11-18T14:00:45+00:00",
-   "przetlumaczone": true,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "d391d3278e53",
-   "tytul": "Klub Seniora w Lubięcinie cieszy się rosnącym zainteresowaniem",
-   "lead": "Klub Seniora w Lubięcinie, który działa od półtora roku, nadal przyciąga mieszkańców. Zajęcia regularnie uczęszcza dwadzieścia osób, a kilka kolejnych czeka na miejsce na liście rezerwowej. Seniorki chwalą codzienne spotkania, a koordynatorka działań Justyna Raczkowska podkreśla atrakcyjność programu zajęć.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "Radio Zachód",
-   "url": "https://zachod.pl/1592558/seniorzy-z-lubiecina-chca-sie-integrowac/",
-   "data": "2026-11-18T13:31:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "342fe0515647",
-   "tytul": "Policjanci uratowali mężczyznę, który mógł się wykrwawić",
-   "lead": "Policjanci udzielili pomocy mężczyźnie, który mógł się wykrwawić, i uratowali mu życie.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Wspólnota Opolska",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHFYeVRxWTFPYV9tTEFMLWJualJ0VTlSNEtfVHZqRGZydW13djk5M1FMeEV2OVctajVqZmE4c1owbUZOTWdvbnhESHpjSkV2VkxzbFFRSEE3M212cmpwM3A1SzE4U2QxRV9aV1ctelNsNEx1ZGQtU3o3Z0s4TEc2U3R5Q3hfRDhWUUFLZXBiUHBZaUZqSC1BeFdTOUZMdGVTLVAtUU9VNW9kc3AtTWNoeDlJM2ZRUzhJYWdN?oc=5",
-   "data": "2026-11-18T13:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://opole.24wspolnota.pl/informacje-pulawskie/policjanci-uratowali-mu-zycie-mogl-sie-wykrwawic/7C40Da10s8uIM7L8ulpZ",
-   "rozszerzony": true
-  },
-  {
-   "id": "7416e499eea6",
-   "tytul": "Policjanci uratowali mężczyznę, który mógł się wykrwawić",
-   "lead": "Policjanci udzielili pomocy mężczyźnie, który mógł się wykrwawić, i uratowali mu życie.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Wspólnota Puławska",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlhWbk91cWtjZGd1bnNDZjFsRDF5cGJPTG9aX1h3MFZrQlFscFJLQXJLWkg3UUZVMmxBQmlhalY2UjlMcjRCQXJBanBNWFFpVURaTjJ3SV8yY3lmc2lpdk5NWTBQOURRTVZ6c2dCUWU1Ujg0bDJpYWVfX0l5MFBia3UxeUhjbFlORXl4cUVkRVJhNjlLblh0b0tsTnBLRWhUTE14aHBfX0ptV1g5dDlKcXpoLWoyWFFIMDI5dw?oc=5",
-   "data": "2026-11-18T13:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://pulawy.24wspolnota.pl/informacje-pulawskie/policjanci-uratowali-mu-zycie-mogl-sie-wykrwawic/clgdEe7yv5fGrUQJEO6b",
-   "rozszerzony": true
-  },
-  {
-   "id": "f3286fc63ebb",
-   "tytul": "Specjaliści z UCK w Gdańsku uratowali pacjenta z masywną zatorowością płucną",
-   "lead": "13 września 2026 roku zespół Klinicznego Oddziału Ratunkowego UCK w Gdańsku ratował 32-latka, u którego doszło do zatrzymania krążenia. Mężczyzna kilka tygodni wcześniej przeszedł operację ortopedyczną, a szpital, który miał go przyjąć, nie mógł tego zrobić ze względu na dużą liczbę pacjentów. Lekarze rozpoznali masywną zatorowość płucną, podłączyli pacjenta do ECMO i usunęli skrzepliny z płuc. Mężczyzna został wypisany ze szpitala bez większych deficytów neurologicznych.",
-   "kategoria": "med",
-   "kraj": "PL",
-   "zrodlo": "Gdańsk - oficjalny portal miasta",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQm81RUdIbmhJOGcyOUxKWXctTGNvS2pNNFp2dVZuRVVjOXk5VzRMbFpuMUEtZEYzZVBMSnV2WTY2RXpHR05lbGNDMGVDVXNQb3k0MS1ibG1LOGpnOFBGRUJpdUJZWGQ2U2VJbWZGeTliQUxSODFPOFZrWkp4NVVOaGFjU3RQZm10RHBIelpMbHN1aExKa2VnT05rbXhBWUJYZmpYc3lHRjVzeDd1eS1GWHhUTF8zcUJiTTE4?oc=5",
-   "data": "2026-11-18T12:55:25+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://www.gdansk.pl/wiadomosci/Specjalisci-z-UCK-uratowali-pacjenta-z-masywna-zatorowoscia-plucna-reanimacja,a,322869",
    "rozszerzony": true
   }
  ]
