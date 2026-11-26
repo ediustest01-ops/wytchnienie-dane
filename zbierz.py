@@ -50,6 +50,7 @@ Dostajesz listę wiadomości (JSON). Dla KAŻDEJ zwróć obiekt z polami:
 
 Odrzucaj (dobra=false):
 - politykę, wojny i wszystko, co dzieje się w strefie konfliktu zbrojnego (nawet wzruszające czy z pozytywnym akcentem),
+- wszystko, w czym główną rolę gra polityk (prezydent, premier, minister, poseł, partia, rząd) – także lekkie i zabawne historie, np. prezydent ułaskawia indyka, polityk sadzi drzewo czy odwiedza szkołę,
 - przestępstwa, katastrofy, wypadki, w których byli zabici lub ciężko ranni (nawet jeśli „uratowano kilka osób”),
 - próby samobójcze i osoby w kryzysie psychicznym (np. „mężczyzna na moście”, „w kryzysie emocjonalnym”) – NAWET jeśli zostały uratowane,
 - znęcanie się nad ludźmi lub zwierzętami (np. „skatowany pies”), nawet z dobrym zakończeniem,
