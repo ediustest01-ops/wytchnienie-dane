@@ -1,6 +1,45 @@
 {
- "aktualizacja": "2026-11-26T19:40:09.707059+00:00",
+ "aktualizacja": "2026-11-27T02:54:07.844238+00:00",
  "wiesci": [
+  {
+   "id": "02528582a626",
+   "tytul": "Ks. prof. Augustyn Eckmann laureatem Nagrody im. ks. Idziego Radziszewskiego",
+   "lead": "Ksiądz profesor Augustyn Eckmann, filolog i teolog zajmujący się literaturą wczesnego chrześcijaństwa, otrzymał tegoroczną Nagrodę im. ks. Idziego Radziszewskiego. Wyróżnienie przyznaje Towarzystwo Naukowe Katolickiego Uniwersytetu Lubelskiego za wybitne osiągnięcia naukowe w duchu humanizmu chrześcijańskiego. Prezes Towarzystwa, prof. Marian Surdacki, podkreśla, że laureat należy do osób o takim dorobku.",
+   "kategoria": "sci",
+   "kraj": "PL",
+   "zrodlo": "Radio Lublin",
+   "url": "https://radio.lublin.pl/2026/11/nagroda-im-ks-idziego-radziszewskiego-przyznana/",
+   "data": "2026-11-26T20:33:00+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "64a49421cbd9",
+   "tytul": "Alicja Samolewicz-Jeglicka i Piotr Puchalski wyróżnieni w konkursie „Audycja historyczna roku”",
+   "lead": "Alicja Samolewicz-Jeglicka i Piotr Puchalski otrzymali wyróżnienia w 13. edycji konkursu „Audycja historyczna roku” organizowanego przez Instytut Pamięci Narodowej. Nadesłano 50 materiałów, a zastępca prezesa IPN, dr Mateusz Szpytma, ocenił poziom prac jako bardzo wysoki. Nagrodzono reportaż Samolewicz-Jeglickiej „Bajki ze Stutthofu” o Halinie Banasiak, która w obozie potajemnie pisała bajki dla swoich dzieci, oraz reportaż Puchalskiego o Hannie Reszczyńskiej, która po wojnie została skazana przez komunistyczny sąd.",
+   "kategoria": "people",
+   "kraj": "PL",
+   "zrodlo": "Radio Gdańsk",
+   "url": "https://radiogdansk.pl/wiadomosci/2026/11/26/alicja-samolewicz-jeglicka-i-piotr-puchalski-wyroznieni-w-konkursie-audycja-historyczna-roku/",
+   "data": "2026-11-26T20:16:39+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "78e6c32e984b",
+   "tytul": "Czujka dymu uratowała matkę i dziecko w pożarze domu w Kuśniu pod Sieradzem",
+   "lead": "W Kuśniu pod Sieradzem wybuchł pożar domu, w którym spały matka i czteroletnie dziecko. Obudził je alarm czujki dymu. W rozmowie w Radiu Łódź nad Wartą poruszono zagrożenia związane z sezonem grzewczym oraz sposób ratowania poszkodowanych, a gośćmi byli przedstawiciele Państwowej Straży Pożarnej w Sieradzu i ratownik medyczny.",
+   "kategoria": "rescue",
+   "kraj": "PL",
+   "zrodlo": "Radio Łódź",
+   "url": "https://radiolodz.pl/czujka-uratowala-zycie-matki-i-dziecka-strazacy-i-ratownik-medyczny-o-pozarze-w-kusniu,691460/",
+   "data": "2026-11-26T19:47:33+00:00",
+   "przetlumaczone": false,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "842b907baa00",
    "tytul": "Pracownicy socjalni w Lublinie otrzymali nagrody i wyróżnienia",
@@ -1741,73 +1780,6 @@
    "data": "2026-11-20T07:20:49+00:00",
    "przetlumaczone": false,
    "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "10f2703cf503",
-   "tytul": "Terapia CAR-T pomogła pacjentom z zespołem sztywnego człowieka odzyskać sprawność",
-   "lead": "Terapia komórkowa, pierwotnie opracowana do walki z nowotworem, pomaga osobom z zespołem sztywnego człowieka. W badaniu wstępnym, prowadzonym przez neurologów z Mayo Clinic, pacjenci, którzy potrzebowali pomocy bliskich przy chodzeniu i codziennych czynnościach, odzyskali sprawność.",
-   "kategoria": "med",
-   "kraj": "US",
-   "zrodlo": "The Optimist Daily",
-   "url": "https://www.optimistdaily.com/2026/11/car-t-therapy-helps-stiff-person-syndrome-patients-walk-and-work-again/",
-   "data": "2026-11-20T00:00:07+00:00",
-   "przetlumaczone": true,
-   "wstepne": true,
-   "rozszerzony": true
-  },
-  {
-   "id": "7a3cbf4610dc",
-   "tytul": "Ziemniaki dobrze rosną na glebie imitującej księżycową",
-   "lead": "Naukowcy z Oregon State University sprawdzili, czy ziemniaki wyrosną w symulowanej glebie księżycowej. Po dodaniu 30 proc. wermikompostu rośliny rozwijały się dobrze, a bulwy nadawały się do jedzenia. Pomysł może pomóc w zapewnieniu żywności astronautom, choć badacze wskazują na wyzwania, m.in. zmienność regolitu i obecność metali ciężkich. Kolejna publikacja ma przedstawić wyniki dla dziesięciu odmian ziemniaków.",
-   "kategoria": "sci",
-   "kraj": "ŚW",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C116007%2Cziemniaki-dobrze-rosna-na-ksiezycowej-glebie.html",
-   "data": "2026-11-20T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": true,
-   "rozszerzony": true
-  },
-  {
-   "id": "1022a21b3336",
-   "tytul": "Dziewczynka z Niemczy zrobiła gest dla policjantów",
-   "lead": "Mała mieszkanka Niemczy wykonała gest wdzięczności wobec policjantów. Informację podało TVP Wrocław.",
-   "kategoria": "people",
-   "kraj": "PL",
-   "zrodlo": "TVP Wrocław",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXhBQ1BTdW8weGhBOVRGQktiUWxYYlF2WkFuVnJQZW9ZbzZSbEo2T195TmV1Q2stVnFTc1U3bTZjdUU2SDM4WDFmemFYek9BZVJlMjBkeHlRZi1GdHhyUUxBMHFyWUs2bWx6cXNtSmpsQTFqRU1ySmMtV2ZYWmZUdWNUWVNBSnpGTlcyY1BIWUE?oc=5",
-   "data": "2026-11-19T22:59:32+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://wroclaw.tvp.pl/96572300/wielki-gest-malej-dziewczynki-z-niemczy-dla-policjantow",
-   "rozszerzony": true
-  },
-  {
-   "id": "a9d58904706b",
-   "tytul": "Na Mazowszu powstaną trzy nowe rezerwaty przyrody",
-   "lead": "Konsultacje w sprawie trzech nowych rezerwatów przyrody na Mazowszu zakończyły się w połowie listopada, a uwagi mieszkańców w większości popierały ten pomysł. Pierwszy z planowanych obszarów, Wyspy Kobylnickie, obejmuje fragment Wisły z wyspami, łachami i starorzeczami na powierzchni prawie 750 hektarów. Teren leży w gminach Maciejowice, Kozienice i Sieciechów i będzie czternastym rezerwatem na Mazowszu z terenami nad Wisłą. Urząd zapowiedział przygotowanie projektów zarządzeń po analizie wszystkich zebranych informacji.",
-   "kategoria": "nature",
-   "kraj": "PL",
-   "zrodlo": "Radio dla Ciebie",
-   "url": "https://www.rdc.pl/aktualnosci/mazowsze/trzy-nowe-rezerwaty-przyrody-na-mazowszu-kiedy-powstana_CDPOkbHW04w2BHRW04Ng",
-   "data": "2026-11-19T22:06:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "acfa80c478b6",
-   "tytul": "Zaginiony 34-latek został odnaleziony cały i zdrowy",
-   "lead": "Poszukiwany 34-latek został odnaleziony. Jest cały i zdrowy.",
-   "kategoria": "rescue",
-   "kraj": "PL",
-   "zrodlo": "Głos Wielkopolski",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPai1JSHB0amdqTmt5UnlXRjlaZ2J0eWxidy1tZ2duRWZ1RmpOUHhHUDJocGNLOWZrRzJSeEtzN2hQeWdGMVltaE80bnBTRWpBVFM1Uzc3ZmFXZnc2T0dUZ2s3aWVmTldtclpTcVNmRTItVFpqUVEzMDhhZHVYSWpGd1gtRjN5X2l3MEFVbWdFRE94MlRWaktpeVptdVRWb0pQYXdR?oc=5",
-   "data": "2026-11-19T21:14:48+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "url_zrodla": "https://gloswielkopolski.pl/zaginiony-34-latek-zostal-odnaleziony-jest-caly-i-zdrowy/ar/c1p2-29540731",
    "rozszerzony": true
   }
  ]
