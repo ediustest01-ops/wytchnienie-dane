@@ -1,5 +1,5 @@
 {
- "czas": "2026-11-27T02:54:07.844238+00:00",
+ "czas": "2026-11-27T12:33:10.164425+00:00",
  "zrodla": {
   "https://www.polsatnews.pl/rss/polska.xml": 50,
   "https://www.polsatnews.pl/rss/swiat.xml": 50,
@@ -8,15 +8,15 @@
   "https://naukawpolsce.pap.pl/all/rss.xml": 10,
   "https://www.rmf24.pl/feed": 50,
   "https://wydarzenia.interia.pl/feed": 50,
-  "https://radio.lublin.pl/feed/": "10 wpisów, po filtrze 4",
-  "https://radiogdansk.pl/feed": "10 wpisów, po filtrze 2",
+  "https://radio.lublin.pl/feed/": "10 wpisów, po filtrze 3",
+  "https://radiogdansk.pl/feed": "10 wpisów, po filtrze 1",
   "https://www.radiokielce.pl/feed": "10 wpisów, po filtrze 0",
-  "https://www.radio.rzeszow.pl/feed": "10 wpisów, po filtrze 1",
-  "https://www.radio.bialystok.pl/rss": "15 wpisów, po filtrze 10",
-  "https://radioolsztyn.pl/rss": "100 wpisów, po filtrze 34",
-  "https://www.radiolodz.pl/rss": "10 wpisów, po filtrze 2",
+  "https://www.radio.rzeszow.pl/feed": "10 wpisów, po filtrze 6",
+  "https://www.radio.bialystok.pl/rss": "15 wpisów, po filtrze 5",
+  "https://radioolsztyn.pl/rss": "100 wpisów, po filtrze 29",
+  "https://www.radiolodz.pl/rss": "10 wpisów, po filtrze 0",
   "https://zachod.pl/feed": "100 wpisów, po filtrze 23",
-  "https://www.rdc.pl/feed/": "10 wpisów, po filtrze 4",
+  "https://www.rdc.pl/feed/": "10 wpisów, po filtrze 3",
   "https://www.goodnewsnetwork.org/feed/": 50,
   "https://reasonstobecheerful.world/feed/": 10,
   "https://www.optimistdaily.com/feed/": 10,
@@ -24,13 +24,13 @@
   "https://www.theguardian.com/world/series/the-upside/rss": 20
  },
  "zajawki": {
-  "probowano": 3,
-  "z_artykulu": 1,
-  "z_rss": 2,
+  "probowano": 14,
+  "z_artykulu": 7,
+  "z_rss": 7,
   "bez_tekstu": 0,
-  "gotowe": 3
+  "gotowe": 14
  },
  "bledy": [],
- "dobrych_nowych": 3,
- "razem": 137
+ "dobrych_nowych": 14,
+ "razem": 146
 }
