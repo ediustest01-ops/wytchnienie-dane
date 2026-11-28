@@ -1,10 +1,10 @@
 {
- "czas": "2026-11-27T22:01:23.836470+00:00",
+ "czas": "2026-11-28T03:56:54.913811+00:00",
  "zrodla": {
-  "https://www.polsatnews.pl/rss/polska.xml": "BŁĄD",
-  "https://www.polsatnews.pl/rss/swiat.xml": "BŁĄD",
-  "https://www.polsatnews.pl/rss/technologie.xml": "BŁĄD",
-  "https://www.polsatnews.pl/rss/czysta-polska.xml": "BŁĄD",
+  "https://www.polsatnews.pl/rss/polska.xml": 50,
+  "https://www.polsatnews.pl/rss/swiat.xml": 50,
+  "https://www.polsatnews.pl/rss/technologie.xml": 50,
+  "https://www.polsatnews.pl/rss/czysta-polska.xml": 50,
   "https://naukawpolsce.pap.pl/all/rss.xml": 10,
   "https://www.rmf24.pl/feed": 50,
   "https://wydarzenia.interia.pl/feed": 50,
@@ -24,13 +24,13 @@
   "https://www.theguardian.com/world/series/the-upside/rss": 20
  },
  "zajawki": {
-  "probowano": 5,
-  "z_artykulu": 3,
-  "z_rss": 2,
+  "probowano": 3,
+  "z_artykulu": 0,
+  "z_rss": 3,
   "bez_tekstu": 0,
-  "gotowe": 5
+  "gotowe": 3
  },
  "bledy": [],
- "dobrych_nowych": 5,
- "razem": 141
+ "dobrych_nowych": 3,
+ "razem": 142
 }

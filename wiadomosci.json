@@ -1,6 +1,32 @@
 {
- "aktualizacja": "2026-11-27T22:01:23.836470+00:00",
+ "aktualizacja": "2026-11-28T03:56:54.913811+00:00",
  "wiesci": [
+  {
+   "id": "19659d113a54",
+   "tytul": "Kolorowe malowidła na przejściach i pasach rowerowych wiążą się z mniejszą liczbą wypadków w USA",
+   "lead": "Badania prowadzone na amerykańskich skrzyżowaniach sugerują, że kolorowe malowidła na nawierzchni, połączone z innymi poprawami bezpieczeństwa, mogą sprzyjać ostrożniejszej jeździe. Przy kolorowych przejściach dla pieszych i pasach rowerowych zanotowano o 32% mniej kolizji samochodów oraz o 52% mniej wypadków z udziałem pieszych i rowerzystów. Proste zmiany w przestrzeni ulicy mogą więc realnie poprawiać bezpieczeństwo.",
+   "kategoria": "sci",
+   "kraj": "US",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/asphalt-artworks-seems-to-make-people-drive-more-safely-new-studies-find/",
+   "data": "2026-11-27T19:40:42+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
+  {
+   "id": "4b9272888e35",
+   "tytul": "W Tulsie automat z pomocą dla bezdomnych pozwala wolontariuszom rozdawać koce i posiłki",
+   "lead": "W nagraniu, które rozeszło się w sieci, mężczyzna z psem podchodzi do czerwonego automatu przypominającego paczkomat. Zamiast paczki wyjmuje z niego koc, posiłek i karmę dla psa. Był bezdomnym mieszkańcem Tulsy w stanie Oklahoma. Z opisu wynika, że automat pozwala każdemu w kraju zgłosić się jako wolontariusz i rozdawać pomoc osobom bezdomnym.",
+   "kategoria": "people",
+   "kraj": "US",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/vending-machine-lets-anyone-in-the-country-volunteer-to-distribute-aid-to-homeless/",
+   "data": "2026-11-27T19:30:37+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
+   "rozszerzony": true
+  },
   {
    "id": "94e09fbca38d",
    "tytul": "Stowarzyszenie „Pojezierze” obchodzi 70-lecie. W Olsztynie wręczono odznaczenia i podziękowania",
@@ -25,6 +51,19 @@
    "data": "2026-11-27T18:35:16+00:00",
    "przetlumaczone": false,
    "wstepne": true,
+   "rozszerzony": true
+  },
+  {
+   "id": "79a890403239",
+   "tytul": "Nastolatek zbudował lokalizator GPS, który ma zapobiegać gubieniu się dzieci z autyzmem",
+   "lead": "Nastolatek, który w wieku siedmiu lat sam się zgubił, stworzył lokalizator GPS dla dzieci z autyzmem, które mogą oddalać się bez opieki. Choć nie miał wcześniej doświadczenia w produkcji, jego projekt zebrał pełną kwotę na Kickstarterze w zaledwie 14 godzin. Wynik zbiórki wskazuje na duże zainteresowanie takim urządzeniem.",
+   "kategoria": "sci",
+   "kraj": "ŚW",
+   "zrodlo": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/teen-who-got-lost-as-a-child-now-launchers-gps-tracker-for-autistic-children-who-wander/",
+   "data": "2026-11-27T16:30:13+00:00",
+   "przetlumaczone": true,
+   "wstepne": false,
    "rozszerzony": true
   },
   {
@@ -1804,32 +1843,6 @@
    "zrodlo": "Radio Zachód",
    "url": "https://zachod.pl/1593977/gorzow-schronisko-szuka-na-zime-domow-dla-psow/",
    "data": "2026-11-21T07:03:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "3c273f77f168",
-   "tytul": "Homo erectus przystosował się do życia w azjatyckich lasach deszczowych",
-   "lead": "Badacze z Australii, Chin i Europy ustalili, że wymarły gatunek Homo erectus żył w południowych Chinach, w gęstych lasach tropikalnych, między 324 a 184 tys. lat temu. Dotąd sądzono, że takie środowisko było domeną Homo sapiens. Dowodów dostarczyły zęby i tysiące skamieniałości z dwóch jaskiń w prowincji Guangxi, oddalonych od siebie o około 15 km. Wiek ustalono pięcioma niezależnymi metodami. Sygnatury chemiczne w zębach sugerują też, że niektóre osobniki przemieszczały się na zaskakująco duże odległości.",
-   "kategoria": "sci",
-   "kraj": "ŚW",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C116005%2Chomo-erectus-przystosowal-sie-do-zycia-w-azjatyckich-lasach-deszczowych",
-   "data": "2026-11-21T00:00:00+00:00",
-   "przetlumaczone": false,
-   "wstepne": false,
-   "rozszerzony": true
-  },
-  {
-   "id": "85426318ef35",
-   "tytul": "Fotopułapki mogą pomóc badać rytm życia roślin, nie tylko zwierząt",
-   "lead": "Fotopułapki, dotąd kojarzone głównie z obserwacją zwierząt, mogą też rejestrować rytm życia roślin. Jak pisze międzynarodowy zespół w „Nature Reviews Biodiversity”, kamery w trybie time-lapse wykonują zdjęcia o stałych porach, dzięki czemu pokazują jednocześnie zwierzęta i roślinność. Ma to znaczenie w dobie zmian klimatu, ponieważ terminy rozwoju roślin wpływają na pokarm i schronienia dla fauny. Naukowcy zachęcają do włączania tego trybu i udostępniania zdjęć na platformie PhenoTrap.",
-   "kategoria": "nature",
-   "kraj": "ŚW",
-   "zrodlo": "Nauka w Polsce",
-   "url": "https://naukawpolsce.pl/aktualnosci/news%2C116000%2Cfotopulapki-moga-stac-sie-oknem-nie-tylko-na-swiat-zwierzat-ale-i-na-rytm",
-   "data": "2026-11-21T00:00:00+00:00",
    "przetlumaczone": false,
    "wstepne": false,
    "rozszerzony": true
